@@ -1,0 +1,58 @@
+{
+  "subtitle": "wanderings and wild sport on and beyond the Himalayas.",
+  "covers": [
+    5758005
+  ],
+  "lc_classifications": [
+    "SK235 M34 1891"
+  ],
+  "latest_revision": 3,
+  "ocaid": "hindukohwanderin00maciuoft",
+  "id": 34124189,
+  "edition_name": "New ed.",
+  "source_records": [
+    "ia:hindukohwanderin00maciuoft"
+  ],
+  "title": "Hindu-Koh",
+  "languages": [
+    {
+      "key": "/languages/eng"
+    }
+  ],
+  "subjects": [
+    "Hunting -- Himalaya Mountains",
+    "Himalaya Mountains -- Description and travel"
+  ],
+  "type": {
+    "key": "/type/edition"
+  },
+  "revision": 3,
+  "publishers": [
+    "W. Blackwood"
+  ],
+  "last_modified": {
+    "type": "/type/datetime",
+    "value": "2010-04-13T15:23:48.256813"
+  },
+  "key": "/books/OL23303430M",
+  "authors": [
+    {
+      "key": "/authors/OL2410527A"
+    }
+  ],
+  "publish_places": [
+    "Edinburgh"
+  ],
+  "pagination": "362p.",
+  "created": {
+    "type": "/type/datetime",
+    "value": "2009-05-31T11:19:33.344818"
+  },
+  "number_of_pages": 362,
+  "publish_date": "1891",
+  "works": [
+    {
+      "key": "/works/OL205681W"
+    }
+  ]
+}

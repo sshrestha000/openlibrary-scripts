@@ -1,0 +1,24 @@
+{
+  "key": "/authors/OL2623174A",
+  "source_records": [
+    "amazon:1844036715"
+  ],
+  "personal_name": "Julia Eccleshare",
+  "type": {
+    "key": "/type/author"
+  },
+  "name": "Julia Eccleshare",
+  "alternate_names": [
+    "Eccleshare, Julia (ed.) (Blake, Quentin)"
+  ],
+  "latest_revision": 2,
+  "revision": 2,
+  "created": {
+    "type": "/type/datetime",
+    "value": "2008-04-29T13:35:46.876380"
+  },
+  "last_modified": {
+    "type": "/type/datetime",
+    "value": "2022-04-22T19:07:56.468456"
+  }
+}

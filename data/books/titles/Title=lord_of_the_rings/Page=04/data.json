@@ -1,0 +1,1737 @@
+{
+  "numFound": 525,
+  "start": 300,
+  "numFoundExact": true,
+  "num_found": 525,
+  "documentation_url": "https://openlibrary.org/dev/docs/api/search",
+  "q": "",
+  "offset": null,
+  "docs": [
+    {
+      "cover_edition_key": "OL10957792M",
+      "cover_i": 2619660,
+      "ebook_access": "no_ebook",
+      "edition_count": 1,
+      "first_publish_year": 2001,
+      "has_fulltext": false,
+      "key": "/works/OL10957792M",
+      "language": [
+        "eng"
+      ],
+      "public_scan_b": false,
+      "title": "Lord of the Rings 2001-2002 Calendar"
+    },
+    {
+      "cover_edition_key": "OL10959736M",
+      "cover_i": 2620258,
+      "ebook_access": "no_ebook",
+      "edition_count": 1,
+      "first_publish_year": 2005,
+      "has_fulltext": false,
+      "key": "/works/OL10959736M",
+      "language": [
+        "eng"
+      ],
+      "public_scan_b": false,
+      "title": "Legolas The Lord of the Rings 2006 Calendar"
+    },
+    {
+      "ebook_access": "no_ebook",
+      "edition_count": 1,
+      "first_publish_year": 2006,
+      "has_fulltext": false,
+      "key": "/works/OL9548463M",
+      "language": [
+        "eng"
+      ],
+      "public_scan_b": false,
+      "title": "Lord of the Rings 2007 Calendar: Middle-Earth"
+    },
+    {
+      "author_key": [
+        "OL5283094A"
+      ],
+      "author_name": [
+        "Ruth Elizabeth McLellan"
+      ],
+      "ebook_access": "no_ebook",
+      "edition_count": 1,
+      "first_publish_year": 1968,
+      "has_fulltext": false,
+      "key": "/works/OL12164163W",
+      "language": [
+        "eng"
+      ],
+      "public_scan_b": false,
+      "title": "Form and content in The Lord of the rings"
+    },
+    {
+      "author_key": [
+        "OL1363597A"
+      ],
+      "author_name": [
+        "Philip Smith"
+      ],
+      "ebook_access": "no_ebook",
+      "edition_count": 2,
+      "first_publish_year": 1970,
+      "has_fulltext": false,
+      "key": "/works/OL5636918W",
+      "language": [
+        "eng"
+      ],
+      "public_scan_b": false,
+      "title": "The Lord of the Rings and other bookbindings of Philip Smith"
+    },
+    {
+      "author_key": [
+        "OL50039A",
+        "OL3684075A"
+      ],
+      "author_name": [
+        "Laurence Gardner",
+        "Adrian Wagner"
+      ],
+      "cover_edition_key": "OL12268326M",
+      "cover_i": 3045953,
+      "ebook_access": "no_ebook",
+      "edition_count": 1,
+      "first_publish_year": 2001,
+      "has_fulltext": false,
+      "key": "/works/OL12268326M",
+      "public_scan_b": false,
+      "title": "The Realm of the Ring Lords"
+    },
+    {
+      "author_key": [
+        "OL4372438A"
+      ],
+      "author_name": [
+        "Christine Kenward"
+      ],
+      "ebook_access": "no_ebook",
+      "edition_count": 1,
+      "first_publish_year": 1985,
+      "has_fulltext": false,
+      "key": "/works/OL10533239W",
+      "language": [
+        "eng"
+      ],
+      "public_scan_b": false,
+      "title": "Construction and use of landscape in 'The Lord of the Rings' by J.R.R. Tolkien"
+    },
+    {
+      "author_key": [
+        "OL1755865A"
+      ],
+      "author_name": [
+        "John Howe"
+      ],
+      "cover_edition_key": "OL9217816M",
+      "cover_i": 11994,
+      "ebook_access": "no_ebook",
+      "edition_count": 2,
+      "first_publish_year": 2003,
+      "has_fulltext": false,
+      "key": "/works/OL15298991W",
+      "language": [
+        "eng"
+      ],
+      "public_scan_b": false,
+      "title": "The \"Return of the King\" Weapons and Warfare (\"Lord of the Rings\")"
+    },
+    {
+      "author_key": [
+        "OL9626899A"
+      ],
+      "author_name": [
+        "Painting World"
+      ],
+      "ebook_access": "no_ebook",
+      "edition_count": 2,
+      "first_publish_year": 2020,
+      "has_fulltext": false,
+      "key": "/works/OL36115613W",
+      "language": [
+        "eng"
+      ],
+      "public_scan_b": false,
+      "title": "Painting World Lord of the Rings Coloring Book"
+    },
+    {
+      "author_key": [
+        "OL2172082A"
+      ],
+      "author_name": [
+        "Rayner Unwin"
+      ],
+      "ebook_access": "no_ebook",
+      "edition_count": 1,
+      "first_publish_year": 1992,
+      "has_fulltext": false,
+      "key": "/works/OL19322134W",
+      "language": [
+        "eng"
+      ],
+      "public_scan_b": false,
+      "title": "The making of The lord of the rings"
+    },
+    {
+      "author_key": [
+        "OL7516244A"
+      ],
+      "author_name": [
+        "Saul Zaentz"
+      ],
+      "cover_edition_key": "OL3040893M",
+      "cover_i": 10981248,
+      "ebook_access": "borrowable",
+      "edition_count": 1,
+      "first_publish_year": 1978,
+      "has_fulltext": true,
+      "ia": [
+        "filmbookofjrrtol0000unse"
+      ],
+      "ia_collection": [
+        "inlibrary",
+        "internetarchivebooks",
+        "printdisabled"
+      ],
+      "key": "/works/OL19586510W",
+      "language": [
+        "eng"
+      ],
+      "lending_edition_s": "OL3040893M",
+      "lending_identifier_s": "filmbookofjrrtol0000unse",
+      "public_scan_b": false,
+      "title": "The Filmbook of J.R.R. Tolkien's The Lord of the rings"
+    },
+    {
+      "author_key": [
+        "OL2946211A"
+      ],
+      "author_name": [
+        "Lynnette Porter"
+      ],
+      "ebook_access": "no_ebook",
+      "edition_count": 1,
+      "first_publish_year": 2005,
+      "has_fulltext": false,
+      "key": "/works/OL35699442W",
+      "language": [
+        "eng"
+      ],
+      "public_scan_b": false,
+      "title": "Unsung Heroes of the Lord of the Rings"
+    },
+    {
+      "ebook_access": "no_ebook",
+      "edition_count": 1,
+      "first_publish_year": 2002,
+      "has_fulltext": false,
+      "key": "/works/OL8459284M",
+      "language": [
+        "eng"
+      ],
+      "public_scan_b": false,
+      "title": "Magical Worlds of the Lord of the Rings"
+    },
+    {
+      "author_key": [
+        "OL38635A"
+      ],
+      "author_name": [
+        "Anna Wilson"
+      ],
+      "ebook_access": "no_ebook",
+      "edition_count": 1,
+      "first_publish_year": 2017,
+      "has_fulltext": false,
+      "key": "/works/OL40856412W",
+      "language": [
+        "eng"
+      ],
+      "public_scan_b": false,
+      "title": "Lord of the Rings Coloring Book for Adults and Kids"
+    },
+    {
+      "author_key": [
+        "OL1396492A"
+      ],
+      "author_name": [
+        "Bryan Stratton"
+      ],
+      "cover_edition_key": "OL8018441M",
+      "cover_i": 510809,
+      "ebook_access": "no_ebook",
+      "edition_count": 1,
+      "first_publish_year": 2004,
+      "has_fulltext": false,
+      "key": "/works/OL5742945W",
+      "language": [
+        "eng"
+      ],
+      "public_scan_b": false,
+      "title": "The Lord of the Rings"
+    },
+    {
+      "author_key": [
+        "OL12833949A"
+      ],
+      "author_name": [
+        "Michèle Hita"
+      ],
+      "ebook_access": "no_ebook",
+      "edition_count": 1,
+      "first_publish_year": 1996,
+      "has_fulltext": false,
+      "key": "/works/OL35478924W",
+      "language": [
+        "fre"
+      ],
+      "public_scan_b": false,
+      "title": "The Lord of the Rings"
+    },
+    {
+      "author_key": [
+        "OL26320A"
+      ],
+      "author_name": [
+        "J.R.R. Tolkien"
+      ],
+      "ebook_access": "no_ebook",
+      "edition_count": 1,
+      "first_publish_year": 2024,
+      "has_fulltext": false,
+      "key": "/works/OL38384252W",
+      "language": [
+        "eng"
+      ],
+      "public_scan_b": false,
+      "title": "Lord of the Rings Collector's Edition Box Set"
+    },
+    {
+      "author_key": [
+        "OL4628523A"
+      ],
+      "author_name": [
+        "Daniel White"
+      ],
+      "ebook_access": "no_ebook",
+      "edition_count": 2,
+      "first_publish_year": 2024,
+      "has_fulltext": false,
+      "key": "/works/OL37587090W",
+      "language": [
+        "eng"
+      ],
+      "public_scan_b": false,
+      "title": "Music of Harry Potter and the Lord of the Rings"
+    },
+    {
+      "author_key": [
+        "OL1399851A"
+      ],
+      "author_name": [
+        "Jude Fisher"
+      ],
+      "ebook_access": "no_ebook",
+      "edition_count": 1,
+      "first_publish_year": 2004,
+      "has_fulltext": false,
+      "key": "/works/OL36014574W",
+      "language": [
+        "eng"
+      ],
+      "public_scan_b": false,
+      "title": "Lord of the Rings Complete Visual Companion"
+    },
+    {
+      "author_key": [
+        "OL3303816A"
+      ],
+      "author_name": [
+        "Jeremy Mark Robinson"
+      ],
+      "ebook_access": "no_ebook",
+      "edition_count": 1,
+      "first_publish_year": 2013,
+      "has_fulltext": false,
+      "key": "/works/OL37484860W",
+      "public_scan_b": false,
+      "title": "The Lord Of The Rings : The Two Towers"
+    },
+    {
+      "author_key": [
+        "OL9242128A"
+      ],
+      "author_name": [
+        "Liam Blades"
+      ],
+      "cover_edition_key": "OL32516687M",
+      "cover_i": 11167327,
+      "ebook_access": "no_ebook",
+      "edition_count": 2,
+      "first_publish_year": 2011,
+      "has_fulltext": false,
+      "key": "/works/OL24532603W",
+      "language": [
+        "eng"
+      ],
+      "public_scan_b": false,
+      "title": "The Rings Of The Lords"
+    },
+    {
+      "author_key": [
+        "OL9813089A"
+      ],
+      "author_name": [
+        "Whited STEPHANIE"
+      ],
+      "ebook_access": "no_ebook",
+      "edition_count": 1,
+      "first_publish_year": 2021,
+      "has_fulltext": false,
+      "key": "/works/OL36111194W",
+      "language": [
+        "eng"
+      ],
+      "public_scan_b": false,
+      "title": "Lord of the Rings Trivia Quiz : How Well Do You Know the Film?"
+    },
+    {
+      "author_key": [
+        "OL343371A",
+        "OL2874007A",
+        "OL5235696A"
+      ],
+      "author_name": [
+        "Terry Donaldson",
+        "Peter Pracownik",
+        "Mike Fitzgerald"
+      ],
+      "cover_edition_key": "OL8736722M",
+      "cover_i": 823394,
+      "ebook_access": "no_ebook",
+      "edition_count": 1,
+      "has_fulltext": false,
+      "key": "/works/OL27359995W",
+      "public_scan_b": false,
+      "title": "Lord of the Rings Tarot Deck and Book Set"
+    },
+    {
+      "author_key": [
+        "OL9813768A"
+      ],
+      "author_name": [
+        "Johny Bomer"
+      ],
+      "ebook_access": "no_ebook",
+      "edition_count": 2,
+      "first_publish_year": 2021,
+      "has_fulltext": false,
+      "key": "/works/OL36125547W",
+      "language": [
+        "eng"
+      ],
+      "public_scan_b": false,
+      "title": "Discover Distinct Cakes with the Lord of the Rings"
+    },
+    {
+      "author_key": [
+        "OL4292471A"
+      ],
+      "author_name": [
+        "Gene B. Hardy"
+      ],
+      "ebook_access": "no_ebook",
+      "edition_count": 2,
+      "first_publish_year": 2004,
+      "has_fulltext": false,
+      "key": "/works/OL29074009W",
+      "language": [
+        "eng"
+      ],
+      "public_scan_b": false,
+      "title": "CliffsNotes on Tolkien;s the Lord of the Rings and the Hobbit"
+    },
+    {
+      "author_key": [
+        "OL494974A"
+      ],
+      "author_name": [
+        "Brian Simmons"
+      ],
+      "cover_edition_key": "OL8033048M",
+      "cover_i": 513503,
+      "ebook_access": "no_ebook",
+      "edition_count": 1,
+      "first_publish_year": 2002,
+      "has_fulltext": false,
+      "key": "/works/OL3130523W",
+      "language": [
+        "eng"
+      ],
+      "public_scan_b": false,
+      "title": "The Brothers Hildebrand's Lord of the Rings"
+    },
+    {
+      "author_key": [
+        "OL26320A"
+      ],
+      "author_name": [
+        "J.R.R. Tolkien"
+      ],
+      "cover_edition_key": "OL32000061M",
+      "cover_i": 10670029,
+      "ebook_access": "no_ebook",
+      "edition_count": 1,
+      "first_publish_year": 2011,
+      "has_fulltext": false,
+      "key": "/works/OL24214484W",
+      "public_scan_b": false,
+      "title": "The Lord of the Rings and The Hobbit"
+    },
+    {
+      "author_key": [
+        "OL3517097A"
+      ],
+      "author_name": [
+        "J. R. R. Tolkien"
+      ],
+      "ebook_access": "no_ebook",
+      "edition_count": 1,
+      "has_fulltext": false,
+      "key": "/works/OL45346395W",
+      "public_scan_b": false,
+      "title": "The Hobbit and The Lord of the Rings"
+    },
+    {
+      "author_key": [
+        "OL1401384A"
+      ],
+      "author_name": [
+        "Gary Russell"
+      ],
+      "cover_edition_key": "OL9923975M",
+      "cover_i": 2310592,
+      "ebook_access": "no_ebook",
+      "edition_count": 1,
+      "first_publish_year": 2007,
+      "has_fulltext": false,
+      "key": "/works/OL5758753W",
+      "public_scan_b": false,
+      "title": "The \"Lord of the Rings\" Official Stage Companion"
+    },
+    {
+      "cover_edition_key": "OL47746195M",
+      "cover_i": 14491332,
+      "ebook_access": "borrowable",
+      "edition_count": 1,
+      "first_publish_year": 2010,
+      "has_fulltext": true,
+      "ia": [
+        "literarylessonsf0000unse"
+      ],
+      "ia_collection": [
+        "inlibrary",
+        "internetarchivebooks",
+        "printdisabled"
+      ],
+      "key": "/works/OL35332134W",
+      "lending_edition_s": "OL47746195M",
+      "lending_identifier_s": "literarylessonsf0000unse",
+      "public_scan_b": false,
+      "title": "Literary Lessons from The Lord of the Rings"
+    },
+    {
+      "author_key": [
+        "OL2710568A"
+      ],
+      "author_name": [
+        "William Ready"
+      ],
+      "ebook_access": "no_ebook",
+      "edition_count": 1,
+      "first_publish_year": 1969,
+      "has_fulltext": false,
+      "key": "/works/OL35344746W",
+      "public_scan_b": false,
+      "title": "Understanding Tolkien and the Lord of the Rings"
+    },
+    {
+      "ebook_access": "no_ebook",
+      "edition_count": 1,
+      "has_fulltext": false,
+      "key": "/works/OL34565346W",
+      "public_scan_b": false,
+      "title": "The Lord of the Rings. Guild Edition. 1989"
+    },
+    {
+      "author_key": [
+        "OL9766724A"
+      ],
+      "author_name": [
+        "Charity Bishop"
+      ],
+      "ebook_access": "no_ebook",
+      "edition_count": 1,
+      "first_publish_year": 2013,
+      "has_fulltext": false,
+      "key": "/works/OL39725390W",
+      "language": [
+        "eng"
+      ],
+      "public_scan_b": false,
+      "title": "Watching the Lord of the Rings with God"
+    },
+    {
+      "author_key": [
+        "OL20881A",
+        "OL1399692A"
+      ],
+      "author_name": [
+        "Kurt D. Bruner",
+        "Jim Ware"
+      ],
+      "cover_edition_key": "OL8455435M",
+      "cover_i": 759179,
+      "ebook_access": "no_ebook",
+      "edition_count": 1,
+      "first_publish_year": 2006,
+      "has_fulltext": false,
+      "key": "/works/OL21228104W",
+      "language": [
+        "eng"
+      ],
+      "public_scan_b": false,
+      "title": "Finding God in the Lord of the Rings"
+    },
+    {
+      "author_key": [
+        "OL3751967A"
+      ],
+      "author_name": [
+        "Amelia Harper"
+      ],
+      "ebook_access": "no_ebook",
+      "edition_count": 1,
+      "first_publish_year": 2004,
+      "has_fulltext": false,
+      "key": "/works/OL9762624W",
+      "public_scan_b": false,
+      "title": "Literary Lessons From the Lord of the Rings"
+    },
+    {
+      "ebook_access": "no_ebook",
+      "edition_count": 1,
+      "first_publish_year": 2003,
+      "has_fulltext": false,
+      "key": "/works/OL11904410M",
+      "public_scan_b": false,
+      "title": "The Official Lord of the Rings Slim Calendar"
+    },
+    {
+      "author_key": [
+        "OL1399851A"
+      ],
+      "author_name": [
+        "Jude Fisher"
+      ],
+      "cover_edition_key": "OL3433366M",
+      "cover_i": 394776,
+      "ebook_access": "borrowable",
+      "edition_count": 1,
+      "first_publish_year": 2004,
+      "has_fulltext": true,
+      "ia": [
+        "lordofringscompl0000fish"
+      ],
+      "ia_collection": [
+        "inlibrary",
+        "internetarchivebooks",
+        "printdisabled"
+      ],
+      "key": "/works/OL5753822W",
+      "language": [
+        "eng"
+      ],
+      "lending_edition_s": "OL3433366M",
+      "lending_identifier_s": "lordofringscompl0000fish",
+      "public_scan_b": false,
+      "title": "The Lord of the Rings complete visual companion"
+    },
+    {
+      "author_key": [
+        "OL3095950A"
+      ],
+      "author_name": [
+        "Daniel Reeve"
+      ],
+      "ebook_access": "no_ebook",
+      "edition_count": 1,
+      "has_fulltext": false,
+      "key": "/works/OL44487419W",
+      "language": [
+        "eng"
+      ],
+      "public_scan_b": false,
+      "title": "The Lord of the Rings map of Middle-earth"
+    },
+    {
+      "cover_edition_key": "OL12086901M",
+      "cover_i": 2909501,
+      "ebook_access": "no_ebook",
+      "edition_count": 1,
+      "first_publish_year": 1997,
+      "has_fulltext": false,
+      "key": "/works/OL12086901M",
+      "language": [
+        "eng"
+      ],
+      "public_scan_b": false,
+      "title": "Deluxe Lord of the Rings Map (#2024)"
+    },
+    {
+      "ebook_access": "no_ebook",
+      "edition_count": 1,
+      "has_fulltext": false,
+      "key": "/works/OL36506957W",
+      "public_scan_b": false,
+      "title": "LORD OF THE RINGS COLLECTORS MODELS NO 45"
+    },
+    {
+      "author_key": [
+        "OL10033203A",
+        "OL10391530A"
+      ],
+      "author_name": [
+        "Casey Gilly",
+        "Tomas Hijo"
+      ],
+      "cover_edition_key": "OL38058600M",
+      "cover_i": 14773812,
+      "ebook_access": "no_ebook",
+      "edition_count": 1,
+      "first_publish_year": 2022,
+      "has_fulltext": false,
+      "key": "/works/OL27846799W",
+      "language": [
+        "eng"
+      ],
+      "public_scan_b": false,
+      "title": "Lord of the Rings Tarot Deck and Guide"
+    },
+    {
+      "author_key": [
+        "OL10164549A"
+      ],
+      "author_name": [
+        "Warner Brothers Studio"
+      ],
+      "ebook_access": "no_ebook",
+      "edition_count": 1,
+      "first_publish_year": 2016,
+      "has_fulltext": false,
+      "key": "/works/OL27113232W",
+      "language": [
+        "eng"
+      ],
+      "public_scan_b": false,
+      "title": "Lord of the Rings Movie Trilogy Coloring Book"
+    },
+    {
+      "author_key": [
+        "OL26320A",
+        "OL9713202A",
+        "OL10164549A"
+      ],
+      "author_name": [
+        "J.R.R. Tolkien",
+        "Nicolette Caven",
+        "Warner Brothers Studio"
+      ],
+      "ebook_access": "no_ebook",
+      "edition_count": 1,
+      "first_publish_year": 2024,
+      "has_fulltext": false,
+      "key": "/works/OL38128004W",
+      "language": [
+        "eng"
+      ],
+      "public_scan_b": false,
+      "title": "Lord of the Rings Movie Trilogy Colouring Book"
+    },
+    {
+      "ebook_access": "no_ebook",
+      "edition_count": 1,
+      "first_publish_year": 2002,
+      "has_fulltext": false,
+      "key": "/works/OL10959289M",
+      "language": [
+        "eng"
+      ],
+      "public_scan_b": false,
+      "title": "Lord of the Rings/Die-Cut 2003 Calendar"
+    },
+    {
+      "author_key": [
+        "OL3777723A"
+      ],
+      "author_name": [
+        "AllStar"
+      ],
+      "ebook_access": "no_ebook",
+      "edition_count": 1,
+      "first_publish_year": 2002,
+      "has_fulltext": false,
+      "key": "/works/OL9791411W",
+      "public_scan_b": false,
+      "title": "Elijah Wood (Lord of the Rings) 2003 calendar"
+    },
+    {
+      "author_key": [
+        "OL3517189A"
+      ],
+      "author_name": [
+        "Mead Westvaco"
+      ],
+      "ebook_access": "no_ebook",
+      "edition_count": 1,
+      "first_publish_year": 2003,
+      "has_fulltext": false,
+      "key": "/works/OL9506349W",
+      "language": [
+        "eng"
+      ],
+      "public_scan_b": false,
+      "title": "2004 Lord of the Rings Mini Wall Calendar"
+    },
+    {
+      "author_key": [
+        "OL2834626A"
+      ],
+      "author_name": [
+        "Howard Shore"
+      ],
+      "cover_edition_key": "OL9520795M",
+      "cover_i": 1416262,
+      "ebook_access": "no_ebook",
+      "edition_count": 1,
+      "first_publish_year": 2004,
+      "has_fulltext": false,
+      "key": "/works/OL8488042W",
+      "language": [
+        "eng"
+      ],
+      "public_scan_b": false,
+      "title": "Lord of the Rings Instrumental Solos Cello Book"
+    },
+    {
+      "author_key": [
+        "OL2834626A"
+      ],
+      "author_name": [
+        "Howard Shore"
+      ],
+      "cover_edition_key": "OL9554202M",
+      "cover_i": 1416261,
+      "ebook_access": "no_ebook",
+      "edition_count": 1,
+      "first_publish_year": 2004,
+      "has_fulltext": false,
+      "key": "/works/OL8488043W",
+      "language": [
+        "eng"
+      ],
+      "public_scan_b": false,
+      "title": "Lord of the Rings Instrumental Solos Viola Book"
+    },
+    {
+      "author_key": [
+        "OL14372359A"
+      ],
+      "author_name": [
+        "Felker, Lieutenant , USAF, USAF, Edward J., Edward"
+      ],
+      "ebook_access": "no_ebook",
+      "edition_count": 1,
+      "first_publish_year": 2012,
+      "has_fulltext": false,
+      "key": "/works/OL39992616W",
+      "language": [
+        "eng"
+      ],
+      "public_scan_b": false,
+      "title": "Airpower, Chaos, and Infrastructure : Lords of the Rings"
+    },
+    {
+      "author_key": [
+        "OL2834626A"
+      ],
+      "author_name": [
+        "Howard Shore"
+      ],
+      "cover_edition_key": "OL8005698M",
+      "cover_i": 505132,
+      "ebook_access": "no_ebook",
+      "edition_count": 1,
+      "first_publish_year": 2004,
+      "has_fulltext": false,
+      "key": "/works/OL8488044W",
+      "language": [
+        "eng"
+      ],
+      "public_scan_b": false,
+      "title": "Lord of the Rings Instrumental Solos Violin Book"
+    },
+    {
+      "ebook_access": "no_ebook",
+      "edition_count": 1,
+      "has_fulltext": false,
+      "key": "/works/OL34613056W",
+      "public_scan_b": false,
+      "title": "J.R.R. Tolkien's The Lord of the Rings"
+    },
+    {
+      "author_key": [
+        "OL7447454A"
+      ],
+      "author_name": [
+        "Frank Weinreich"
+      ],
+      "cover_edition_key": "OL9065625M",
+      "cover_i": 2231724,
+      "ebook_access": "no_ebook",
+      "edition_count": 1,
+      "first_publish_year": 2002,
+      "has_fulltext": false,
+      "key": "/works/OL15331188W",
+      "language": [
+        "ger"
+      ],
+      "public_scan_b": false,
+      "title": "The Lord of the Rings. Mit Interpretation. Diverse Umschlagfarben, unsortiert"
+    },
+    {
+      "author_key": [
+        "OL10393876A"
+      ],
+      "author_name": [
+        "Scripts"
+      ],
+      "ebook_access": "no_ebook",
+      "edition_count": 1,
+      "first_publish_year": 2022,
+      "has_fulltext": false,
+      "key": "/works/OL28574720W",
+      "language": [
+        "eng"
+      ],
+      "public_scan_b": false,
+      "title": "Lord of the Rings : the Fellowship of the Ring  - Screenplay - Written by Fran Walsh, Peter Jackson and Philippa Boyens"
+    },
+    {
+      "author_key": [
+        "OL13064728A"
+      ],
+      "author_name": [
+        "Barton Kichline"
+      ],
+      "ebook_access": "no_ebook",
+      "edition_count": 1,
+      "first_publish_year": 2021,
+      "has_fulltext": false,
+      "key": "/works/OL36303706W",
+      "language": [
+        "eng"
+      ],
+      "public_scan_b": false,
+      "title": "Lord of the Rings Trivia Questions : Test Your Knowledge with These Amazing Questions"
+    },
+    {
+      "author_key": [
+        "OL2821360A"
+      ],
+      "author_name": [
+        "Mark Cohen"
+      ],
+      "cover_i": 510582,
+      "ebook_access": "no_ebook",
+      "edition_count": 0,
+      "has_fulltext": false,
+      "key": "/works/OL8456213W",
+      "public_scan_b": false,
+      "subtitle": "The Fellowship of the Ring",
+      "title": "The Lord of the Rings"
+    },
+    {
+      "cover_i": 8456481,
+      "ebook_access": "no_ebook",
+      "edition_count": 0,
+      "has_fulltext": false,
+      "key": "/works/OL19342812W",
+      "public_scan_b": false,
+      "title": "The Lord of the Rings: The Fellowship of the Ring"
+    },
+    {
+      "ebook_access": "no_ebook",
+      "edition_count": 1,
+      "has_fulltext": false,
+      "key": "/works/OL34630362W",
+      "public_scan_b": false,
+      "title": "The Lord of the Rings Return of the King"
+    },
+    {
+      "ebook_access": "no_ebook",
+      "edition_count": 1,
+      "first_publish_year": 2004,
+      "has_fulltext": false,
+      "key": "/works/OL29299667W",
+      "public_scan_b": false,
+      "title": "The Lord Of The Rings/The Return Of The King"
+    },
+    {
+      "author_key": [
+        "OL11102731A"
+      ],
+      "author_name": [
+        "Ga;dalf The Grey"
+      ],
+      "ebook_access": "no_ebook",
+      "edition_count": 1,
+      "first_publish_year": 2019,
+      "has_fulltext": false,
+      "key": "/works/OL30214942W",
+      "language": [
+        "eng"
+      ],
+      "public_scan_b": false,
+      "title": "Lord of the Rings Coloring Book"
+    },
+    {
+      "author_key": [
+        "OL889773A",
+        "OL39015A",
+        "OL2623691A"
+      ],
+      "author_name": [
+        "Richard E. Blackwelder",
+        "Wayne G. Hammond",
+        "Christina Scull"
+      ],
+      "cover_edition_key": "OL8084971M",
+      "cover_i": 665973,
+      "ebook_access": "no_ebook",
+      "edition_count": 1,
+      "first_publish_year": 2006,
+      "has_fulltext": false,
+      "key": "/works/OL16950823W",
+      "language": [
+        "eng"
+      ],
+      "public_scan_b": false,
+      "title": "The Lord of the rings, 1954-2004"
+    },
+    {
+      "author_key": [
+        "OL2418593A"
+      ],
+      "author_name": [
+        "Daniel Collins"
+      ],
+      "ebook_access": "no_ebook",
+      "edition_count": 1,
+      "first_publish_year": 2019,
+      "has_fulltext": false,
+      "key": "/works/OL30032704W",
+      "language": [
+        "eng"
+      ],
+      "public_scan_b": false,
+      "title": "169 Epic Facts about Lord of the Rings"
+    },
+    {
+      "author_key": [
+        "OL764025A"
+      ],
+      "author_name": [
+        "Patricia Baker"
+      ],
+      "ebook_access": "no_ebook",
+      "edition_count": 1,
+      "first_publish_year": 2020,
+      "has_fulltext": false,
+      "key": "/works/OL34510836W",
+      "language": [
+        "eng"
+      ],
+      "public_scan_b": false,
+      "title": "One True Lord of the Rings Appetizer Cookbook"
+    },
+    {
+      "author_key": [
+        "OL764025A"
+      ],
+      "author_name": [
+        "Patricia Baker"
+      ],
+      "cover_edition_key": "OL35168486M",
+      "cover_i": 13318251,
+      "ebook_access": "no_ebook",
+      "edition_count": 1,
+      "first_publish_year": 2020,
+      "has_fulltext": false,
+      "key": "/works/OL26056720W",
+      "language": [
+        "eng"
+      ],
+      "public_scan_b": false,
+      "title": "One True Lord of the Rings Appetizer Cookbook"
+    },
+    {
+      "author_key": [
+        "OL5420347A"
+      ],
+      "author_name": [
+        "Geoffrey Ridden"
+      ],
+      "ebook_access": "no_ebook",
+      "edition_count": 1,
+      "first_publish_year": 1984,
+      "has_fulltext": false,
+      "key": "/works/OL12346820W",
+      "language": [
+        "und"
+      ],
+      "public_scan_b": false,
+      "title": "J.R.R. Tolkien, The Lord of the Rings"
+    },
+    {
+      "ebook_access": "no_ebook",
+      "edition_count": 1,
+      "first_publish_year": 1971,
+      "has_fulltext": false,
+      "key": "/works/OL31371103W",
+      "public_scan_b": false,
+      "title": "The Lord of the Rings THREE VOLUMES IN ONE (The Fellowship of the Ring; The Two Towers; The Return of the King)"
+    },
+    {
+      "author_key": [
+        "OL26320A"
+      ],
+      "author_name": [
+        "J.R.R. Tolkien"
+      ],
+      "ebook_access": "no_ebook",
+      "edition_count": 1,
+      "first_publish_year": 2021,
+      "has_fulltext": false,
+      "key": "/works/OL27741781W",
+      "public_scan_b": false,
+      "title": "The Hobbit & The Lord of the Rings 4 Books Boxed Set By J. R. R. Tolkien"
+    },
+    {
+      "author_key": [
+        "OL10881550A"
+      ],
+      "author_name": [
+        "Kay Debs"
+      ],
+      "ebook_access": "no_ebook",
+      "edition_count": 1,
+      "first_publish_year": 2017,
+      "has_fulltext": false,
+      "key": "/works/OL40512773W",
+      "language": [
+        "eng"
+      ],
+      "public_scan_b": false,
+      "title": "Lord of the Rings and Hobbit Coloring Book for Kids and Adults"
+    },
+    {
+      "author_key": [
+        "OL11256061A"
+      ],
+      "author_name": [
+        "Jonathan MCGREGOR"
+      ],
+      "ebook_access": "no_ebook",
+      "edition_count": 1,
+      "first_publish_year": 2021,
+      "has_fulltext": false,
+      "key": "/works/OL30832325W",
+      "language": [
+        "eng"
+      ],
+      "public_scan_b": false,
+      "title": "Lord of the Rings Quizzes and Answers : Challenge Your Self If You Know About"
+    },
+    {
+      "author_key": [
+        "OL3140885A"
+      ],
+      "author_name": [
+        "ROUGH GUIDES"
+      ],
+      "cover_edition_key": "OL8931634M",
+      "cover_i": 892543,
+      "ebook_access": "no_ebook",
+      "edition_count": 1,
+      "first_publish_year": 2003,
+      "has_fulltext": false,
+      "key": "/works/OL9016390W",
+      "language": [
+        "eng"
+      ],
+      "public_scan_b": false,
+      "title": "The Rough Guide to the Lord of the Rings"
+    },
+    {
+      "author_key": [
+        "OL6968698A"
+      ],
+      "author_name": [
+        "Brandon Geist"
+      ],
+      "ebook_access": "no_ebook",
+      "edition_count": 1,
+      "first_publish_year": 2001,
+      "has_fulltext": false,
+      "key": "/works/OL16033656W",
+      "language": [
+        "eng"
+      ],
+      "public_scan_b": false,
+      "title": "The QPB companion to The Lord of the rings"
+    },
+    {
+      "author_key": [
+        "OL1604396A"
+      ],
+      "author_name": [
+        "Mark Eddy Smith"
+      ],
+      "cover_edition_key": "OL8928223M",
+      "cover_i": 891279,
+      "ebook_access": "borrowable",
+      "edition_count": 1,
+      "first_publish_year": 2002,
+      "has_fulltext": true,
+      "ia": [
+        "closerlookatlord0000smit"
+      ],
+      "ia_collection": [
+        "inlibrary",
+        "internetarchivebooks",
+        "printdisabled"
+      ],
+      "key": "/works/OL6214833W",
+      "lending_edition_s": "OL8928223M",
+      "lending_identifier_s": "closerlookatlord0000smit",
+      "public_scan_b": false,
+      "title": "A Closer Look at \"The Lord of the Rings\""
+    },
+    {
+      "author_key": [
+        "OL3095949A"
+      ],
+      "author_name": [
+        "Decipher RPG"
+      ],
+      "cover_edition_key": "OL8786595M",
+      "cover_i": 4850217,
+      "ebook_access": "borrowable",
+      "edition_count": 1,
+      "first_publish_year": 2002,
+      "has_fulltext": true,
+      "ia": [
+        "herosjournalthel0000deci"
+      ],
+      "ia_collection": [
+        "inlibrary",
+        "internetarchivebooks",
+        "printdisabled"
+      ],
+      "key": "/works/OL8945081W",
+      "language": [
+        "eng"
+      ],
+      "lending_edition_s": "OL8786595M",
+      "lending_identifier_s": "herosjournalthel0000deci",
+      "public_scan_b": false,
+      "title": "Hero's Journal (The Lord of the Rings Roleplaying Game)"
+    },
+    {
+      "author_key": [
+        "OL475982A"
+      ],
+      "author_name": [
+        "Brian Sibley"
+      ],
+      "ebook_access": "no_ebook",
+      "edition_count": 1,
+      "first_publish_year": 2003,
+      "has_fulltext": false,
+      "key": "/works/OL3062779W",
+      "public_scan_b": false,
+      "title": "The \"Lord of the Rings\" from Script to Screen"
+    },
+    {
+      "ebook_access": "no_ebook",
+      "edition_count": 1,
+      "first_publish_year": 2010,
+      "has_fulltext": false,
+      "key": "/works/OL31310506W",
+      "public_scan_b": false,
+      "title": "2011  The Lord of the Rings \"Special Edition\"  Calendar"
+    },
+    {
+      "author_key": [
+        "OL11590673A"
+      ],
+      "author_name": [
+        "Alexis A. Levitin"
+      ],
+      "ebook_access": "no_ebook",
+      "edition_count": 1,
+      "first_publish_year": 1964,
+      "has_fulltext": false,
+      "key": "/works/OL31905496W",
+      "language": [
+        "eng"
+      ],
+      "public_scan_b": false,
+      "title": "J. R. R. Tolkien's The Lord of the Rings"
+    },
+    {
+      "author_key": [
+        "OL12304742A"
+      ],
+      "author_name": [
+        "william ready"
+      ],
+      "ebook_access": "no_ebook",
+      "edition_count": 1,
+      "first_publish_year": 1971,
+      "has_fulltext": false,
+      "key": "/works/OL34003484W",
+      "public_scan_b": false,
+      "title": "Understanding Tolkien and the Lord of the Rings 1971"
+    },
+    {
+      "author_key": [
+        "OL7231768A"
+      ],
+      "author_name": [
+        "Nicholas Carlson"
+      ],
+      "ebook_access": "no_ebook",
+      "edition_count": 1,
+      "first_publish_year": 2009,
+      "has_fulltext": false,
+      "key": "/works/OL29002917W",
+      "language": [
+        "eng"
+      ],
+      "public_scan_b": false,
+      "title": "Tolkien's lord of the rings the hidden message Discovered"
+    },
+    {
+      "author_key": [
+        "OL7231768A"
+      ],
+      "author_name": [
+        "Nicholas Carlson"
+      ],
+      "ebook_access": "no_ebook",
+      "edition_count": 1,
+      "first_publish_year": 2009,
+      "has_fulltext": false,
+      "key": "/works/OL28983502W",
+      "language": [
+        "eng"
+      ],
+      "public_scan_b": false,
+      "title": "Tolkiens lord of the rings the hidden message Discovered"
+    },
+    {
+      "author_key": [
+        "OL1087306A"
+      ],
+      "author_name": [
+        "Barbara Einhaus"
+      ],
+      "ebook_access": "no_ebook",
+      "edition_count": 1,
+      "first_publish_year": 1986,
+      "has_fulltext": false,
+      "key": "/works/OL5011132W",
+      "language": [
+        "ger"
+      ],
+      "public_scan_b": false,
+      "title": "\"The lord of the rings,\" Logik der kreativen Imagination"
+    },
+    {
+      "author_key": [
+        "OL2874007A"
+      ],
+      "author_name": [
+        "Peter Pracownik"
+      ],
+      "cover_i": 7638170,
+      "ebook_access": "no_ebook",
+      "edition_count": 1,
+      "first_publish_year": 1997,
+      "has_fulltext": false,
+      "key": "/works/OL17467983W",
+      "public_scan_b": false,
+      "title": "The Lord Of The Rings Tarot Deck Card Game"
+    },
+    {
+      "ebook_access": "no_ebook",
+      "edition_count": 1,
+      "has_fulltext": false,
+      "key": "/works/OL44174782W",
+      "public_scan_b": false,
+      "title": "Lord of the Rings - The Two Towers (Vietnamese Edition)"
+    },
+    {
+      "author_key": [
+        "OL3095949A"
+      ],
+      "author_name": [
+        "Decipher RPG"
+      ],
+      "cover_edition_key": "OL8786594M",
+      "cover_i": 844501,
+      "ebook_access": "no_ebook",
+      "edition_count": 1,
+      "first_publish_year": 2003,
+      "has_fulltext": false,
+      "key": "/works/OL8945085W",
+      "language": [
+        "eng"
+      ],
+      "public_scan_b": false,
+      "title": "Narrator's Screen (The Lord of the Rings Roleplaying Game)"
+    },
+    {
+      "author_key": [
+        "OL2853379A"
+      ],
+      "author_name": [
+        "Cedco Publishing"
+      ],
+      "ebook_access": "no_ebook",
+      "edition_count": 1,
+      "first_publish_year": 2005,
+      "has_fulltext": false,
+      "key": "/works/OL8527354W",
+      "language": [
+        "eng"
+      ],
+      "public_scan_b": false,
+      "title": "The Lord of the Rings 2005-2006 Student Planner"
+    },
+    {
+      "author_key": [
+        "OL3095949A"
+      ],
+      "author_name": [
+        "Decipher RPG"
+      ],
+      "ebook_access": "no_ebook",
+      "edition_count": 1,
+      "first_publish_year": 2004,
+      "has_fulltext": false,
+      "key": "/works/OL8945082W",
+      "language": [
+        "eng"
+      ],
+      "public_scan_b": false,
+      "title": "Isengard Sourcebook (The Lord of the Rings Roleplaying Game)"
+    },
+    {
+      "author_key": [
+        "OL2858510A"
+      ],
+      "author_name": [
+        "Elijah Wood"
+      ],
+      "ebook_access": "no_ebook",
+      "edition_count": 1,
+      "first_publish_year": 2002,
+      "has_fulltext": false,
+      "key": "/works/OL8537454W",
+      "language": [
+        "eng"
+      ],
+      "public_scan_b": false,
+      "title": "The Lord of the Rings (New Line Platinum Series)"
+    },
+    {
+      "author_key": [
+        "OL26320A"
+      ],
+      "author_name": [
+        "J.R.R. Tolkien"
+      ],
+      "ebook_access": "no_ebook",
+      "edition_count": 1,
+      "first_publish_year": 2017,
+      "has_fulltext": false,
+      "key": "/works/OL26328786W",
+      "language": [
+        "eng"
+      ],
+      "public_scan_b": false,
+      "title": "Hobbit and the Lord of the Rings Gift Set"
+    },
+    {
+      "author_key": [
+        "OL13524430A"
+      ],
+      "author_name": [
+        "BookCaps Study Guides Staff"
+      ],
+      "ebook_access": "no_ebook",
+      "edition_count": 1,
+      "first_publish_year": 2012,
+      "has_fulltext": false,
+      "key": "/works/OL39757651W",
+      "language": [
+        "eng"
+      ],
+      "public_scan_b": false,
+      "title": "Two Towers, the Lord of the Rings, Part Two"
+    },
+    {
+      "author_key": [
+        "OL9713202A"
+      ],
+      "author_name": [
+        "Nicolette Caven"
+      ],
+      "ebook_access": "no_ebook",
+      "edition_count": 1,
+      "first_publish_year": 2016,
+      "has_fulltext": false,
+      "key": "/works/OL26326781W",
+      "language": [
+        "eng"
+      ],
+      "public_scan_b": false,
+      "title": "Lord of the Rings Movie Trilogy Colouring Book (Standard)"
+    },
+    {
+      "ebook_access": "no_ebook",
+      "edition_count": 1,
+      "has_fulltext": false,
+      "key": "/works/OL37907391W",
+      "public_scan_b": false,
+      "title": "Games Workshop Lord of the Rings Khazad Dum Sourcebook"
+    },
+    {
+      "author_key": [
+        "OL343371A",
+        "OL2874007A",
+        "OL5235696A"
+      ],
+      "author_name": [
+        "Terry Donaldson",
+        "Peter Pracownik",
+        "Mike Fitzgerald"
+      ],
+      "ebook_access": "no_ebook",
+      "edition_count": 1,
+      "first_publish_year": 1999,
+      "has_fulltext": false,
+      "key": "/works/OL39620352W",
+      "language": [
+        "eng"
+      ],
+      "public_scan_b": false,
+      "title": "Lord of the Rings Tarot Gravity Feed Counter Display"
+    },
+    {
+      "author_key": [
+        "OL13138885A"
+      ],
+      "author_name": [
+        "Aylin Gã¼Rkaya"
+      ],
+      "ebook_access": "no_ebook",
+      "edition_count": 1,
+      "first_publish_year": 2010,
+      "has_fulltext": false,
+      "key": "/works/OL36575558W",
+      "language": [
+        "eng"
+      ],
+      "public_scan_b": false,
+      "title": "Marketing New Zealand Via Âthe Lord of the Rings'"
+    },
+    {
+      "cover_edition_key": "OL8065501M",
+      "cover_i": 528874,
+      "ebook_access": "no_ebook",
+      "edition_count": 1,
+      "first_publish_year": 2005,
+      "has_fulltext": false,
+      "key": "/works/OL8065501M",
+      "language": [
+        "eng"
+      ],
+      "public_scan_b": false,
+      "title": "Lord of the Rings Trilogy Edition Daily 2006 Calendar"
+    },
+    {
+      "author_key": [
+        "OL2834626A"
+      ],
+      "author_name": [
+        "Howard Shore"
+      ],
+      "cover_edition_key": "OL27578601M",
+      "cover_i": 9032846,
+      "ebook_access": "no_ebook",
+      "edition_count": 1,
+      "first_publish_year": 2013,
+      "has_fulltext": false,
+      "key": "/works/OL20366165W",
+      "public_scan_b": false,
+      "title": "Into the West from the Lord of the Rings"
+    },
+    {
+      "author_key": [
+        "OL1399035A"
+      ],
+      "author_name": [
+        "David Colbert"
+      ],
+      "cover_edition_key": "OL7504776M",
+      "cover_i": 272348,
+      "ebook_access": "no_ebook",
+      "edition_count": 1,
+      "first_publish_year": 2002,
+      "has_fulltext": false,
+      "key": "/works/OL5751211W",
+      "language": [
+        "eng"
+      ],
+      "public_scan_b": false,
+      "subtitle": "The Amazing Myths, Legends and Facts Behind the Masterpiece",
+      "title": "The Magical Worlds of Lord of the Rings"
+    },
+    {
+      "author_key": [
+        "OL12369491A"
+      ],
+      "author_name": [
+        "Izabelle Adams"
+      ],
+      "ebook_access": "no_ebook",
+      "edition_count": 1,
+      "first_publish_year": 2022,
+      "has_fulltext": false,
+      "key": "/works/OL34275044W",
+      "language": [
+        "eng"
+      ],
+      "public_scan_b": false,
+      "title": "Picture Book Of 𝐓𝐡𝐞 𝐋𝐨𝐫𝐝 𝐎𝐟 𝐓𝐡𝐞 𝐑𝐢𝐧𝐠𝐬"
+    },
+    {
+      "author_key": [
+        "OL9798836A"
+      ],
+      "author_name": [
+        "GrowBig Publishing"
+      ],
+      "ebook_access": "no_ebook",
+      "edition_count": 1,
+      "first_publish_year": 2021,
+      "has_fulltext": false,
+      "key": "/works/OL35917301W",
+      "language": [
+        "eng"
+      ],
+      "public_scan_b": false,
+      "title": "Lords of the Rings Coloring Book"
+    },
+    {
+      "author_key": [
+        "OL11309376A"
+      ],
+      "author_name": [
+        "Lala Lallave"
+      ],
+      "ebook_access": "no_ebook",
+      "edition_count": 1,
+      "first_publish_year": 2021,
+      "has_fulltext": false,
+      "key": "/works/OL30940125W",
+      "language": [
+        "eng"
+      ],
+      "public_scan_b": false,
+      "title": "Big Quiz Book of Lord of the Rings : Fascinating and Entertaining Facts about the Movie"
+    },
+    {
+      "author_key": [
+        "OL11303995A"
+      ],
+      "author_name": [
+        "Lara lara!"
+      ],
+      "ebook_access": "no_ebook",
+      "edition_count": 1,
+      "first_publish_year": 2021,
+      "has_fulltext": false,
+      "key": "/works/OL30921042W",
+      "language": [
+        "eng"
+      ],
+      "public_scan_b": false,
+      "title": "Lara Lara! - Lord of the Rings Coloring Book"
+    },
+    {
+      "author_key": [
+        "OL14997337A"
+      ],
+      "author_name": [
+        "Joel Merriner"
+      ],
+      "ebook_access": "no_ebook",
+      "edition_count": 1,
+      "first_publish_year": 2025,
+      "has_fulltext": false,
+      "key": "/works/OL42411060W",
+      "language": [
+        "eng"
+      ],
+      "public_scan_b": false,
+      "title": "Illustrating the Lord of the Rings in the Soviet Bloc"
+    },
+    {
+      "author_key": [
+        "OL10117701A"
+      ],
+      "author_name": [
+        "Fabian Walsh"
+      ],
+      "ebook_access": "no_ebook",
+      "edition_count": 1,
+      "first_publish_year": 2021,
+      "has_fulltext": false,
+      "key": "/works/OL26968903W",
+      "language": [
+        "eng"
+      ],
+      "public_scan_b": false,
+      "title": "Lord of the Rings Horror Coloring Book"
+    }
+  ]
+}

@@ -1,0 +1,1779 @@
+{
+  "numFound": 525,
+  "start": 100,
+  "numFoundExact": true,
+  "num_found": 525,
+  "documentation_url": "https://openlibrary.org/dev/docs/api/search",
+  "q": "",
+  "offset": null,
+  "docs": [
+    {
+      "ebook_access": "no_ebook",
+      "edition_count": 1,
+      "first_publish_year": 2012,
+      "has_fulltext": false,
+      "key": "/works/OL33733658W",
+      "public_scan_b": false,
+      "title": "The Lord of the Rings"
+    },
+    {
+      "author_key": [
+        "OL2858510A"
+      ],
+      "author_name": [
+        "Elijah Wood"
+      ],
+      "ebook_access": "no_ebook",
+      "edition_count": 1,
+      "has_fulltext": false,
+      "key": "/works/OL33918153W",
+      "public_scan_b": false,
+      "title": "The Lord of the Rings"
+    },
+    {
+      "author_key": [
+        "OL4229287A",
+        "OL7528704A",
+        "OL7529094A"
+      ],
+      "author_name": [
+        "Liv Tyler",
+        "Cate Blanchett",
+        "Peter Jackson"
+      ],
+      "ebook_access": "no_ebook",
+      "edition_count": 1,
+      "first_publish_year": 2002,
+      "has_fulltext": false,
+      "key": "/works/OL28758970W",
+      "public_scan_b": false,
+      "title": "The Lord of the Rings"
+    },
+    {
+      "ebook_access": "no_ebook",
+      "edition_count": 1,
+      "has_fulltext": false,
+      "key": "/works/OL39009766W",
+      "public_scan_b": false,
+      "title": "The Lord of the Rings"
+    },
+    {
+      "author_key": [
+        "OL3095949A"
+      ],
+      "author_name": [
+        "Decipher RPG"
+      ],
+      "ebook_access": "no_ebook",
+      "edition_count": 1,
+      "first_publish_year": 2004,
+      "has_fulltext": false,
+      "key": "/works/OL8945087W",
+      "language": [
+        "eng"
+      ],
+      "public_scan_b": false,
+      "title": "The Return of the King Roleplaying Adventure Game (The Lord of the Rings Roleplaying Game)"
+    },
+    {
+      "author_key": [
+        "OL475982A"
+      ],
+      "author_name": [
+        "Brian Sibley"
+      ],
+      "cover_edition_key": "OL9216628M",
+      "cover_i": 9786,
+      "ebook_access": "no_ebook",
+      "edition_count": 2,
+      "first_publish_year": 2001,
+      "has_fulltext": false,
+      "key": "/works/OL3062794W",
+      "public_scan_b": false,
+      "title": "The Fellowship of the Ring Insiders' Guide (The Lord of the Rings Movie Tie-In)"
+    },
+    {
+      "author_key": [
+        "OL883989A"
+      ],
+      "author_name": [
+        "Alison Sage"
+      ],
+      "cover_edition_key": "OL9216632M",
+      "cover_i": 9799,
+      "ebook_access": "borrowable",
+      "edition_count": 2,
+      "first_publish_year": 2001,
+      "has_fulltext": true,
+      "ia": [
+        "fellowshipofring00alis"
+      ],
+      "ia_collection": [
+        "inlibrary",
+        "internetarchivebooks",
+        "openlibrary-d-ol",
+        "printdisabled"
+      ],
+      "key": "/works/OL4442131W",
+      "lending_edition_s": "OL7261917M",
+      "lending_identifier_s": "fellowshipofring00alis",
+      "public_scan_b": false,
+      "title": "The Fellowship of the Ring Photo Guide (The Lord of the Rings Movie Tie-In)"
+    },
+    {
+      "author_key": [
+        "OL801796A"
+      ],
+      "author_name": [
+        "Andrew Jennings"
+      ],
+      "cover_edition_key": "OL7666873M",
+      "cover_i": 12584071,
+      "ebook_access": "borrowable",
+      "edition_count": 1,
+      "first_publish_year": 1996,
+      "has_fulltext": true,
+      "ia": [
+        "newlordsofringso0000jenn"
+      ],
+      "ia_collection": [
+        "inlibrary",
+        "internetarchivebooks",
+        "printdisabled"
+      ],
+      "key": "/works/OL4206521W",
+      "language": [
+        "eng"
+      ],
+      "lending_edition_s": "OL7666873M",
+      "lending_identifier_s": "newlordsofringso0000jenn",
+      "public_scan_b": false,
+      "title": "The New Lords of the Rings"
+    },
+    {
+      "author_key": [
+        "OL49921A"
+      ],
+      "author_name": [
+        "Chris Smith"
+      ],
+      "ebook_access": "no_ebook",
+      "edition_count": 2,
+      "first_publish_year": 2024,
+      "has_fulltext": false,
+      "key": "/works/OL38124109W",
+      "language": [
+        "eng"
+      ],
+      "public_scan_b": false,
+      "title": "Lord of the Rings"
+    },
+    {
+      "author_key": [
+        "OL2623771A"
+      ],
+      "author_name": [
+        "Various"
+      ],
+      "cover_edition_key": "OL12284819M",
+      "cover_i": 2936468,
+      "ebook_access": "no_ebook",
+      "edition_count": 2,
+      "first_publish_year": 2004,
+      "has_fulltext": false,
+      "key": "/works/OL264045W",
+      "language": [
+        "eng"
+      ],
+      "public_scan_b": false,
+      "title": "The Lord Of The Rings TCG"
+    },
+    {
+      "author_key": [
+        "OL1529345A"
+      ],
+      "author_name": [
+        "Ian Brodie"
+      ],
+      "cover_edition_key": "OL8649322M",
+      "cover_i": 920910,
+      "ebook_access": "no_ebook",
+      "edition_count": 2,
+      "first_publish_year": 2002,
+      "has_fulltext": false,
+      "key": "/works/OL6057404W",
+      "language": [
+        "eng"
+      ],
+      "public_scan_b": false,
+      "subtitle": "Travel Diary",
+      "title": "The Lord of the Rings location guidebook"
+    },
+    {
+      "author_key": [
+        "OL2821360A"
+      ],
+      "author_name": [
+        "Mark Cohen"
+      ],
+      "cover_edition_key": "OL7953556M",
+      "cover_i": 481575,
+      "ebook_access": "no_ebook",
+      "edition_count": 1,
+      "first_publish_year": 2003,
+      "has_fulltext": false,
+      "key": "/works/OL8456214W",
+      "language": [
+        "eng"
+      ],
+      "public_scan_b": false,
+      "title": "The Lord of the Rings - War of the Ring"
+    },
+    {
+      "author_key": [
+        "OL2853379A"
+      ],
+      "author_name": [
+        "Cedco Publishing"
+      ],
+      "cover_edition_key": "OL8065495M",
+      "cover_i": 528867,
+      "ebook_access": "no_ebook",
+      "edition_count": 1,
+      "first_publish_year": 2004,
+      "has_fulltext": false,
+      "key": "/works/OL34315353W",
+      "language": [
+        "eng"
+      ],
+      "public_scan_b": false,
+      "title": "The Lord of the Rings Trilogy"
+    },
+    {
+      "author_key": [
+        "OL3089578A"
+      ],
+      "author_name": [
+        "Anna Dawson"
+      ],
+      "ebook_access": "no_ebook",
+      "edition_count": 2,
+      "first_publish_year": 2014,
+      "has_fulltext": false,
+      "key": "/works/OL21068326W",
+      "language": [
+        "eng"
+      ],
+      "public_scan_b": false,
+      "title": "Studying the Lord of the Rings"
+    },
+    {
+      "author_key": [
+        "OL2834626A"
+      ],
+      "author_name": [
+        "Howard Shore"
+      ],
+      "cover_edition_key": "OL35716963M",
+      "cover_i": 12452201,
+      "ebook_access": "no_ebook",
+      "edition_count": 1,
+      "first_publish_year": 2009,
+      "has_fulltext": false,
+      "key": "/works/OL26435185W",
+      "public_scan_b": false,
+      "title": "The Lord of the Rings Trilogy"
+    },
+    {
+      "ebook_access": "no_ebook",
+      "edition_count": 1,
+      "has_fulltext": false,
+      "key": "/works/OL31711215W",
+      "public_scan_b": false,
+      "title": "Lord of the Rings"
+    },
+    {
+      "author_key": [
+        "OL2838674A"
+      ],
+      "author_name": [
+        "Scruffy Productions"
+      ],
+      "cover_edition_key": "OL10905390M",
+      "cover_i": 2605854,
+      "ebook_access": "no_ebook",
+      "edition_count": 1,
+      "first_publish_year": 2002,
+      "has_fulltext": false,
+      "key": "/works/OL8496085W",
+      "language": [
+        "eng"
+      ],
+      "public_scan_b": false,
+      "title": "The Lord of the Rings - The Fellowship of the Ring"
+    },
+    {
+      "author_key": [
+        "OL4292471A"
+      ],
+      "author_name": [
+        "Gene B. Hardy"
+      ],
+      "ebook_access": "no_ebook",
+      "edition_count": 3,
+      "first_publish_year": 2007,
+      "has_fulltext": false,
+      "key": "/works/OL21788169W",
+      "language": [
+        "eng"
+      ],
+      "public_scan_b": false,
+      "title": "CliffsNotes on Tolkien's the Lord of the Rings and the Hobbit"
+    },
+    {
+      "author_key": [
+        "OL6556660A"
+      ],
+      "author_name": [
+        "Abanes, Richard"
+      ],
+      "cover_edition_key": "OL3393750M",
+      "cover_i": 464379,
+      "ebook_access": "borrowable",
+      "edition_count": 1,
+      "first_publish_year": 2005,
+      "has_fulltext": true,
+      "ia": [
+        "harrypotternarni00aban"
+      ],
+      "ia_collection": [
+        "inlibrary",
+        "internetarchivebooks",
+        "printdisabled"
+      ],
+      "key": "/works/OL13703567W",
+      "language": [
+        "eng"
+      ],
+      "lending_edition_s": "OL3393750M",
+      "lending_identifier_s": "harrypotternarni00aban",
+      "public_scan_b": false,
+      "title": "Harry Potter, Narnia, and The Lord of the Rings"
+    },
+    {
+      "author_key": [
+        "OL2838892A",
+        "OL4926626A"
+      ],
+      "author_name": [
+        "Eric Bronson",
+        "Gregory Bassham"
+      ],
+      "cover_edition_key": "OL27462997M",
+      "cover_i": 8921467,
+      "ebook_access": "no_ebook",
+      "edition_count": 1,
+      "first_publish_year": 2011,
+      "has_fulltext": false,
+      "key": "/works/OL20264117W",
+      "language": [
+        "ger"
+      ],
+      "public_scan_b": false,
+      "title": "The Lord of the Rings and Philosophy"
+    },
+    {
+      "author_key": [
+        "OL13524430A"
+      ],
+      "author_name": [
+        "BookCaps Study Guides Staff"
+      ],
+      "ebook_access": "no_ebook",
+      "edition_count": 1,
+      "first_publish_year": 2012,
+      "has_fulltext": false,
+      "key": "/works/OL39927782W",
+      "language": [
+        "eng"
+      ],
+      "public_scan_b": false,
+      "title": "Lord of the Rings Companion"
+    },
+    {
+      "author_key": [
+        "OL709425A"
+      ],
+      "author_name": [
+        "Laura Matthews"
+      ],
+      "ebook_access": "no_ebook",
+      "edition_count": 2,
+      "first_publish_year": 2020,
+      "has_fulltext": false,
+      "key": "/works/OL30799418W",
+      "language": [
+        "eng"
+      ],
+      "public_scan_b": false,
+      "title": "Lord of the Rings Color by Number"
+    },
+    {
+      "author_key": [
+        "OL9829754A"
+      ],
+      "author_name": [
+        "Taylor MAELEE"
+      ],
+      "ebook_access": "no_ebook",
+      "edition_count": 1,
+      "first_publish_year": 2021,
+      "has_fulltext": false,
+      "key": "/works/OL26009314W",
+      "language": [
+        "eng"
+      ],
+      "public_scan_b": false,
+      "title": "Lord of the Rings Trivia : the Lord of the Rings Facts and Quizzes"
+    },
+    {
+      "author_key": [
+        "OL10026056A"
+      ],
+      "author_name": [
+        "Butcher MARTESHA"
+      ],
+      "ebook_access": "no_ebook",
+      "edition_count": 1,
+      "first_publish_year": 2021,
+      "has_fulltext": false,
+      "key": "/works/OL36351249W",
+      "language": [
+        "eng"
+      ],
+      "public_scan_b": false,
+      "title": "Lord of the Rings Film Facts : Everything for the Lord of the Rings Fans"
+    },
+    {
+      "author_key": [
+        "OL9464244A",
+        "OL9464245A"
+      ],
+      "author_name": [
+        "Prima Temp Authors Staff",
+        "Prima Games Staff"
+      ],
+      "ebook_access": "no_ebook",
+      "edition_count": 1,
+      "first_publish_year": 2004,
+      "has_fulltext": false,
+      "key": "/works/OL25353670W",
+      "language": [
+        "eng"
+      ],
+      "public_scan_b": false,
+      "title": "Lord of the Rings"
+    },
+    {
+      "author_key": [
+        "OL11117793A"
+      ],
+      "author_name": [
+        "Edwin Penfold"
+      ],
+      "ebook_access": "no_ebook",
+      "edition_count": 1,
+      "first_publish_year": 2019,
+      "has_fulltext": false,
+      "key": "/works/OL30485058W",
+      "language": [
+        "eng"
+      ],
+      "public_scan_b": false,
+      "title": "Lord of the Rings"
+    },
+    {
+      "author_key": [
+        "OL14256959A"
+      ],
+      "author_name": [
+        "George Duckett"
+      ],
+      "ebook_access": "no_ebook",
+      "edition_count": 1,
+      "first_publish_year": 2016,
+      "has_fulltext": false,
+      "key": "/works/OL40339856W",
+      "language": [
+        "eng"
+      ],
+      "public_scan_b": false,
+      "title": "Lord of the Rings"
+    },
+    {
+      "author_key": [
+        "OL3317161A"
+      ],
+      "author_name": [
+        "Betsy Gallup"
+      ],
+      "cover_edition_key": "OL9729713M",
+      "cover_i": 1972472,
+      "ebook_access": "no_ebook",
+      "edition_count": 1,
+      "first_publish_year": 2006,
+      "has_fulltext": false,
+      "key": "/works/OL9262013W",
+      "language": [
+        "eng"
+      ],
+      "public_scan_b": false,
+      "title": "Lord of the Rings"
+    },
+    {
+      "author_key": [
+        "OL2853379A"
+      ],
+      "author_name": [
+        "Cedco Publishing"
+      ],
+      "cover_edition_key": "OL8065474M",
+      "cover_i": 528849,
+      "ebook_access": "no_ebook",
+      "edition_count": 1,
+      "first_publish_year": 2001,
+      "has_fulltext": false,
+      "key": "/works/OL8527313W",
+      "language": [
+        "eng"
+      ],
+      "public_scan_b": false,
+      "title": "The Fellowship of the Ring Journal (The Lord of the Rings)"
+    },
+    {
+      "author_key": [
+        "OL3512059A"
+      ],
+      "author_name": [
+        "Suzette Bell"
+      ],
+      "ebook_access": "no_ebook",
+      "edition_count": 1,
+      "first_publish_year": 2004,
+      "has_fulltext": false,
+      "key": "/works/OL9499103W",
+      "public_scan_b": false,
+      "title": "Lord of the Rings--War of the Ring - Expansion #1"
+    },
+    {
+      "author_key": [
+        "OL10003587A",
+        "OL26320A",
+        "OL9713202A"
+      ],
+      "author_name": [
+        "Warner Brothers Warner Brothers Studio",
+        "J.R.R. Tolkien",
+        "Nicolette Caven"
+      ],
+      "ebook_access": "no_ebook",
+      "edition_count": 2,
+      "first_publish_year": 2016,
+      "has_fulltext": false,
+      "key": "/works/OL26561399W",
+      "language": [
+        "eng"
+      ],
+      "public_scan_b": false,
+      "title": "Lord of the Rings Movie Trilogy Coloring Book"
+    },
+    {
+      "author_key": [
+        "OL3053048A"
+      ],
+      "author_name": [
+        "Rick Priestly"
+      ],
+      "ebook_access": "no_ebook",
+      "edition_count": 1,
+      "first_publish_year": 2001,
+      "has_fulltext": false,
+      "key": "/works/OL31654551W",
+      "public_scan_b": false,
+      "title": "The Lord of the Rings"
+    },
+    {
+      "author_key": [
+        "OL1860414A"
+      ],
+      "author_name": [
+        "Sandra Miesel"
+      ],
+      "ebook_access": "no_ebook",
+      "edition_count": 2,
+      "first_publish_year": 1973,
+      "has_fulltext": false,
+      "key": "/works/OL6802522W",
+      "language": [
+        "eng"
+      ],
+      "public_scan_b": false,
+      "title": "Myth, Symbol & religion in The lord of the rings"
+    },
+    {
+      "author_key": [
+        "OL26320A",
+        "OL2820148A",
+        "OL2786312A",
+        "OL2659480A",
+        "OL5011462A"
+      ],
+      "author_name": [
+        "J.R.R. Tolkien",
+        "Full Cast",
+        "Ian Holm",
+        "Michael Hordern",
+        "Robert Stephens"
+      ],
+      "cover_edition_key": "OL45357573M",
+      "cover_i": 13129075,
+      "ebook_access": "no_ebook",
+      "edition_count": 1,
+      "first_publish_year": 2001,
+      "has_fulltext": false,
+      "key": "/works/OL33444980W",
+      "public_scan_b": false,
+      "title": "The Lord Of The Rings Part One"
+    },
+    {
+      "author_key": [
+        "OL3028400A"
+      ],
+      "author_name": [
+        "Duncan Scott"
+      ],
+      "ebook_access": "no_ebook",
+      "edition_count": 1,
+      "first_publish_year": 2014,
+      "has_fulltext": false,
+      "key": "/works/OL41480624W",
+      "language": [
+        "eng"
+      ],
+      "public_scan_b": false,
+      "title": "Lord of the Rings Trilogy : the Language"
+    },
+    {
+      "ebook_access": "no_ebook",
+      "edition_count": 1,
+      "first_publish_year": 2001,
+      "has_fulltext": false,
+      "key": "/works/OL10959148M",
+      "language": [
+        "eng"
+      ],
+      "public_scan_b": false,
+      "title": "The Lord of the Rings 2002 Calendar"
+    },
+    {
+      "author_key": [
+        "OL1401384A"
+      ],
+      "author_name": [
+        "Gary Russell"
+      ],
+      "cover_edition_key": "OL9216708M",
+      "cover_i": 9957,
+      "ebook_access": "no_ebook",
+      "edition_count": 4,
+      "first_publish_year": 2004,
+      "has_fulltext": false,
+      "key": "/works/OL5758762W",
+      "language": [
+        "und",
+        "eng"
+      ],
+      "public_scan_b": false,
+      "title": "The Art of the \"Return of the King\" (\"Lord of the Rings\")"
+    },
+    {
+      "author_key": [
+        "OL11361720A"
+      ],
+      "author_name": [
+        "Charles M Johnson"
+      ],
+      "ebook_access": "no_ebook",
+      "edition_count": 1,
+      "first_publish_year": 2022,
+      "has_fulltext": false,
+      "key": "/works/OL34467294W",
+      "language": [
+        "eng"
+      ],
+      "public_scan_b": false,
+      "title": "Lord of the Rings the Fellowship of the Ring Sheet Music Piano"
+    },
+    {
+      "author_key": [
+        "OL2923710A"
+      ],
+      "author_name": [
+        "Leslie A. Donovan"
+      ],
+      "cover_edition_key": "OL28415083M",
+      "cover_i": 10315249,
+      "ebook_access": "no_ebook",
+      "edition_count": 3,
+      "first_publish_year": 2015,
+      "has_fulltext": false,
+      "key": "/works/OL20977932W",
+      "language": [
+        "eng"
+      ],
+      "public_scan_b": false,
+      "title": "Approaches to Teaching Tolkien's The Lord of the Rings and Other Works"
+    },
+    {
+      "author_key": [
+        "OL3822898A"
+      ],
+      "author_name": [
+        "Carla Fritsch"
+      ],
+      "ebook_access": "no_ebook",
+      "edition_count": 1,
+      "first_publish_year": 2004,
+      "has_fulltext": false,
+      "key": "/works/OL9838681W",
+      "language": [
+        "eng"
+      ],
+      "public_scan_b": false,
+      "title": "Lord of the Rings"
+    },
+    {
+      "author_key": [
+        "OL3398638A"
+      ],
+      "author_name": [
+        "Lansdown"
+      ],
+      "ebook_access": "no_ebook",
+      "edition_count": 1,
+      "first_publish_year": 1999,
+      "has_fulltext": false,
+      "key": "/works/OL29335928W",
+      "language": [
+        "eng"
+      ],
+      "public_scan_b": false,
+      "title": "Lords of the Ring"
+    },
+    {
+      "author_key": [
+        "OL12459051A"
+      ],
+      "author_name": [
+        "V. K. VIJAY"
+      ],
+      "ebook_access": "no_ebook",
+      "edition_count": 1,
+      "first_publish_year": 2021,
+      "has_fulltext": false,
+      "key": "/works/OL36274175W",
+      "language": [
+        "eng"
+      ],
+      "public_scan_b": false,
+      "title": "Lord of the Ring's"
+    },
+    {
+      "ebook_access": "no_ebook",
+      "edition_count": 1,
+      "has_fulltext": false,
+      "key": "/works/OL38061742W",
+      "public_scan_b": false,
+      "title": "Lord of the Rings"
+    },
+    {
+      "author_key": [
+        "OL10991076A"
+      ],
+      "author_name": [
+        "Nameless"
+      ],
+      "ebook_access": "no_ebook",
+      "edition_count": 1,
+      "first_publish_year": 2013,
+      "has_fulltext": false,
+      "key": "/works/OL41780195W",
+      "language": [
+        "gre"
+      ],
+      "public_scan_b": false,
+      "title": "Lord of the Rings"
+    },
+    {
+      "author_key": [
+        "OL193277A"
+      ],
+      "author_name": [
+        "Peter Corris"
+      ],
+      "ebook_access": "no_ebook",
+      "edition_count": 1,
+      "first_publish_year": 1980,
+      "has_fulltext": false,
+      "key": "/works/OL1698390W",
+      "public_scan_b": false,
+      "title": "Lords of the ring"
+    },
+    {
+      "author_key": [
+        "OL6595630A"
+      ],
+      "author_name": [
+        "jude Fisher"
+      ],
+      "ebook_access": "no_ebook",
+      "edition_count": 1,
+      "has_fulltext": false,
+      "key": "/works/OL13754671W",
+      "public_scan_b": false,
+      "title": "Lord of the rings"
+    },
+    {
+      "author_key": [
+        "OL6376891A"
+      ],
+      "author_name": [
+        "Bo Hansson"
+      ],
+      "ebook_access": "no_ebook",
+      "edition_count": 1,
+      "has_fulltext": false,
+      "key": "/works/OL13508175W",
+      "language": [
+        "eng"
+      ],
+      "public_scan_b": false,
+      "title": "Lord of the rings"
+    },
+    {
+      "ebook_access": "no_ebook",
+      "edition_count": 1,
+      "has_fulltext": false,
+      "key": "/works/OL45345567W",
+      "public_scan_b": false,
+      "title": "Lords of the Ring"
+    },
+    {
+      "author_key": [
+        "OL2659937A"
+      ],
+      "author_name": [
+        "Various Artists"
+      ],
+      "ebook_access": "no_ebook",
+      "edition_count": 1,
+      "first_publish_year": 2002,
+      "has_fulltext": false,
+      "key": "/works/OL10069759W",
+      "public_scan_b": false,
+      "title": "Lord of the Rings"
+    },
+    {
+      "author_key": [
+        "OL7516244A"
+      ],
+      "author_name": [
+        "Saul Zaentz"
+      ],
+      "ebook_access": "no_ebook",
+      "edition_count": 3,
+      "first_publish_year": 1978,
+      "has_fulltext": false,
+      "key": "/works/OL27440W",
+      "language": [
+        "eng"
+      ],
+      "public_scan_b": false,
+      "title": "The Filmbook of J. R. R. Tolkien's The Lord of the Rings"
+    },
+    {
+      "author_key": [
+        "OL14413304A"
+      ],
+      "author_name": [
+        "Top 50 Facts Staff"
+      ],
+      "ebook_access": "no_ebook",
+      "edition_count": 1,
+      "first_publish_year": 2014,
+      "has_fulltext": false,
+      "key": "/works/OL41421108W",
+      "language": [
+        "eng"
+      ],
+      "public_scan_b": false,
+      "title": "Lord of the Rings"
+    },
+    {
+      "author_key": [
+        "OL597415A"
+      ],
+      "author_name": [
+        "William Wilson"
+      ],
+      "ebook_access": "no_ebook",
+      "edition_count": 1,
+      "first_publish_year": 2014,
+      "has_fulltext": false,
+      "key": "/works/OL41346688W",
+      "language": [
+        "eng"
+      ],
+      "public_scan_b": false,
+      "title": "Lord of the Rings Roleplay"
+    },
+    {
+      "author_key": [
+        "OL9317449A"
+      ],
+      "author_name": [
+        "Rolf Witzsche"
+      ],
+      "ebook_access": "no_ebook",
+      "edition_count": 1,
+      "first_publish_year": 2016,
+      "has_fulltext": false,
+      "key": "/works/OL41603490W",
+      "language": [
+        "eng"
+      ],
+      "public_scan_b": false,
+      "title": "Lord of the Rings' Metaphors"
+    },
+    {
+      "author_key": [
+        "OL50039A"
+      ],
+      "author_name": [
+        "Laurence Gardner"
+      ],
+      "cover_edition_key": "OL12268325M",
+      "cover_i": 3045951,
+      "ebook_access": "no_ebook",
+      "edition_count": 2,
+      "first_publish_year": 1998,
+      "has_fulltext": false,
+      "key": "/works/OL646325W",
+      "language": [
+        "ita"
+      ],
+      "public_scan_b": false,
+      "title": "Realm of the Ring Lord"
+    },
+    {
+      "author_key": [
+        "OL26320A"
+      ],
+      "author_name": [
+        "J.R.R. Tolkien"
+      ],
+      "ebook_access": "no_ebook",
+      "edition_count": 1,
+      "first_publish_year": 1993,
+      "has_fulltext": false,
+      "key": "/works/OL41907164W",
+      "public_scan_b": false,
+      "title": "The Lord of the Rings Trilogy, 3 Volumes boxed Set"
+    },
+    {
+      "cover_edition_key": "OL8065476M",
+      "cover_i": 528851,
+      "ebook_access": "no_ebook",
+      "edition_count": 1,
+      "first_publish_year": 2001,
+      "has_fulltext": false,
+      "key": "/works/OL36522908W",
+      "language": [
+        "eng"
+      ],
+      "public_scan_b": false,
+      "title": "Lord of the Rings Arwen Journal"
+    },
+    {
+      "author_key": [
+        "OL15812868A"
+      ],
+      "author_name": [
+        "J.R.R. Tolkien"
+      ],
+      "ebook_access": "no_ebook",
+      "edition_count": 1,
+      "first_publish_year": 1905,
+      "has_fulltext": false,
+      "key": "/works/OL44185253W",
+      "public_scan_b": false,
+      "title": "The Lord of the Rings Part One the Fellowship of the Ring"
+    },
+    {
+      "cover_edition_key": "OL9469495M",
+      "cover_i": 1454703,
+      "ebook_access": "no_ebook",
+      "edition_count": 1,
+      "first_publish_year": 2001,
+      "has_fulltext": false,
+      "key": "/works/OL9469495M",
+      "language": [
+        "eng"
+      ],
+      "public_scan_b": false,
+      "title": "The Fellowship of the Ring 2002 Calendar (The Lord of the Rings)"
+    },
+    {
+      "author_key": [
+        "OL738083A"
+      ],
+      "author_name": [
+        "Vyv Simson"
+      ],
+      "cover_edition_key": "OL1471527M",
+      "cover_i": 12594754,
+      "ebook_access": "borrowable",
+      "edition_count": 2,
+      "first_publish_year": 1992,
+      "has_fulltext": true,
+      "ia": [
+        "lordsofringspowe0000sims"
+      ],
+      "ia_collection": [
+        "inlibrary",
+        "internetarchivebooks",
+        "printdisabled",
+        "unb-ol"
+      ],
+      "key": "/works/OL4005122W",
+      "language": [
+        "eng"
+      ],
+      "lending_edition_s": "OL1471527M",
+      "lending_identifier_s": "lordsofringspowe0000sims",
+      "public_scan_b": false,
+      "title": "The lords of the rings"
+    },
+    {
+      "author_key": [
+        "OL185167A"
+      ],
+      "author_name": [
+        "Ean C. M. Begg"
+      ],
+      "ebook_access": "no_ebook",
+      "edition_count": 1,
+      "first_publish_year": 1975,
+      "has_fulltext": false,
+      "key": "/works/OL1654879W",
+      "language": [
+        "eng"
+      ],
+      "public_scan_b": false,
+      "title": "The Lord of the Rings and the signs of the times"
+    },
+    {
+      "author_key": [
+        "OL9818883A"
+      ],
+      "author_name": [
+        "Fraser Mills"
+      ],
+      "ebook_access": "no_ebook",
+      "edition_count": 2,
+      "first_publish_year": 2021,
+      "has_fulltext": false,
+      "key": "/works/OL36097124W",
+      "language": [
+        "eng"
+      ],
+      "public_scan_b": false,
+      "title": "Quizzes Fun Facts Lord of the Rings Trivia Book"
+    },
+    {
+      "author_key": [
+        "OL10117146A"
+      ],
+      "author_name": [
+        "Kuronuma Okyoito"
+      ],
+      "ebook_access": "no_ebook",
+      "edition_count": 2,
+      "first_publish_year": 2021,
+      "has_fulltext": false,
+      "key": "/works/OL26966583W",
+      "language": [
+        "eng"
+      ],
+      "public_scan_b": false,
+      "title": "Quizzes Fun Facts Lord of the Rings Trivia Book"
+    },
+    {
+      "author_key": [
+        "OL7781635A"
+      ],
+      "author_name": [
+        "Gloria Lauzanne"
+      ],
+      "ebook_access": "no_ebook",
+      "edition_count": 1,
+      "first_publish_year": 2020,
+      "has_fulltext": false,
+      "key": "/works/OL30634775W",
+      "language": [
+        "eng"
+      ],
+      "public_scan_b": false,
+      "title": "Understanding : «the Lord of the Rings» «the Fellowship of the Ring»"
+    },
+    {
+      "author_key": [
+        "OL816088A"
+      ],
+      "author_name": [
+        "Cohen, Mark"
+      ],
+      "cover_edition_key": "OL3698865M",
+      "cover_i": 481574,
+      "ebook_access": "no_ebook",
+      "edition_count": 1,
+      "first_publish_year": 2004,
+      "has_fulltext": false,
+      "key": "/works/OL4245244W",
+      "language": [
+        "eng"
+      ],
+      "public_scan_b": false,
+      "title": "The Lord of the Rings"
+    },
+    {
+      "author_key": [
+        "OL2858510A"
+      ],
+      "author_name": [
+        "Elijah Wood"
+      ],
+      "ebook_access": "no_ebook",
+      "edition_count": 1,
+      "first_publish_year": 2011,
+      "has_fulltext": false,
+      "key": "/works/OL33886826W",
+      "public_scan_b": false,
+      "title": "Lord of the Rings"
+    },
+    {
+      "author_key": [
+        "OL9344201A"
+      ],
+      "author_name": [
+        "Insights"
+      ],
+      "ebook_access": "no_ebook",
+      "edition_count": 1,
+      "first_publish_year": 2023,
+      "has_fulltext": false,
+      "key": "/works/OL34507831W",
+      "language": [
+        "eng"
+      ],
+      "public_scan_b": false,
+      "title": "Lord of the Rings"
+    },
+    {
+      "author_key": [
+        "OL773723A",
+        "OL2838892A"
+      ],
+      "author_name": [
+        "Gregory Bassham",
+        "Eric Bronson"
+      ],
+      "cover_edition_key": "OL3676912M",
+      "cover_i": 604836,
+      "ebook_access": "no_ebook",
+      "edition_count": 2,
+      "first_publish_year": 2003,
+      "has_fulltext": false,
+      "key": "/works/OL18933489W",
+      "language": [
+        "eng"
+      ],
+      "public_scan_b": false,
+      "title": "The Lord of the rings and philosophy"
+    },
+    {
+      "cover_edition_key": "OL47380577M",
+      "cover_i": 13974997,
+      "ebook_access": "no_ebook",
+      "edition_count": 1,
+      "has_fulltext": false,
+      "key": "/works/OL35013811W",
+      "public_scan_b": false,
+      "title": "The Lord of the Rings"
+    },
+    {
+      "ebook_access": "no_ebook",
+      "edition_count": 1,
+      "first_publish_year": 2003,
+      "has_fulltext": false,
+      "key": "/works/OL33887017W",
+      "public_scan_b": false,
+      "title": "THE LORD OF THE RINGS"
+    },
+    {
+      "author_key": [
+        "OL2704059A"
+      ],
+      "author_name": [
+        "Wendy Conklin"
+      ],
+      "ebook_access": "no_ebook",
+      "edition_count": 1,
+      "has_fulltext": false,
+      "key": "/works/OL8120484W",
+      "language": [
+        "eng"
+      ],
+      "public_scan_b": false,
+      "title": "The Lord of the Rings"
+    },
+    {
+      "author_key": [
+        "OL2834626A",
+        "OL2811905A"
+      ],
+      "author_name": [
+        "Howard Shore",
+        "Dan Coates"
+      ],
+      "cover_edition_key": "OL8005731M",
+      "cover_i": 1416292,
+      "ebook_access": "no_ebook",
+      "edition_count": 1,
+      "first_publish_year": 2004,
+      "has_fulltext": false,
+      "key": "/works/OL26527525W",
+      "language": [
+        "eng"
+      ],
+      "public_scan_b": false,
+      "title": "Lord of the Rings Trilogy"
+    },
+    {
+      "author_key": [
+        "OL10035353A"
+      ],
+      "author_name": [
+        "Jennifer Georgic"
+      ],
+      "ebook_access": "no_ebook",
+      "edition_count": 1,
+      "first_publish_year": 2021,
+      "has_fulltext": false,
+      "key": "/works/OL26674226W",
+      "language": [
+        "eng"
+      ],
+      "public_scan_b": false,
+      "title": "Lord of the Rings Food Recipes : the Perfect Lord of the Rings Party Diet"
+    },
+    {
+      "author_key": [
+        "OL2914374A"
+      ],
+      "author_name": [
+        "Antioch"
+      ],
+      "cover_edition_key": "OL11008376M",
+      "cover_i": 13308415,
+      "ebook_access": "no_ebook",
+      "edition_count": 1,
+      "first_publish_year": 2001,
+      "has_fulltext": false,
+      "key": "/works/OL9159555W",
+      "language": [
+        "eng"
+      ],
+      "public_scan_b": false,
+      "title": "Lurtz (Tasseled Bookmark) (The Lord of the Rings: The Fellowship of the Ring)"
+    },
+    {
+      "author_key": [
+        "OL9806123A"
+      ],
+      "author_name": [
+        "Ashton Wynter"
+      ],
+      "ebook_access": "no_ebook",
+      "edition_count": 2,
+      "first_publish_year": 2021,
+      "has_fulltext": false,
+      "key": "/works/OL36095605W",
+      "language": [
+        "eng"
+      ],
+      "public_scan_b": false,
+      "title": "Juices Cocktails Smoothies Lord of the Rings Drink Recipe Book"
+    },
+    {
+      "ebook_access": "no_ebook",
+      "edition_count": 1,
+      "has_fulltext": false,
+      "key": "/works/OL22375412M",
+      "language": [
+        "eng"
+      ],
+      "public_scan_b": false,
+      "title": "The lord of the rings."
+    },
+    {
+      "author_key": [
+        "OL1391622A",
+        "OL3167918A"
+      ],
+      "author_name": [
+        "Stratford Caldecott",
+        "Thomas Honegger"
+      ],
+      "cover_edition_key": "OL27110720M",
+      "cover_i": 13113906,
+      "ebook_access": "printdisabled",
+      "edition_count": 1,
+      "first_publish_year": 2008,
+      "has_fulltext": true,
+      "ia": [
+        "tolkienslordofri0000unse"
+      ],
+      "ia_collection": [
+        "internetarchivebooks",
+        "printdisabled"
+      ],
+      "key": "/works/OL19929882W",
+      "language": [
+        "eng"
+      ],
+      "public_scan_b": false,
+      "title": "Tolkien's The Lord of the Rings"
+    },
+    {
+      "author_key": [
+        "OL11361720A"
+      ],
+      "author_name": [
+        "Charles M Johnson"
+      ],
+      "ebook_access": "no_ebook",
+      "edition_count": 1,
+      "first_publish_year": 2022,
+      "has_fulltext": false,
+      "key": "/works/OL31101880W",
+      "language": [
+        "eng"
+      ],
+      "public_scan_b": false,
+      "title": "Lord of the Rings the Fellowship of the Ring Sheet Music"
+    },
+    {
+      "author_key": [
+        "OL3907751A"
+      ],
+      "author_name": [
+        "Vanessa Kittle"
+      ],
+      "cover_edition_key": "OL46312807M",
+      "cover_i": 14114458,
+      "ebook_access": "no_ebook",
+      "edition_count": 1,
+      "first_publish_year": 2019,
+      "has_fulltext": false,
+      "key": "/works/OL34174898W",
+      "language": [
+        "eng"
+      ],
+      "public_scan_b": false,
+      "title": "Lost Recipes the Unofficial Hobbit and Lord of the Rings Cookbook"
+    },
+    {
+      "author_key": [
+        "OL10193573A"
+      ],
+      "author_name": [
+        "West LISA"
+      ],
+      "ebook_access": "no_ebook",
+      "edition_count": 1,
+      "first_publish_year": 2021,
+      "has_fulltext": false,
+      "key": "/works/OL27209662W",
+      "language": [
+        "eng"
+      ],
+      "public_scan_b": false,
+      "title": "Lord of the Rings Handbook : Everything You Need to Know about the Lord of the Rings"
+    },
+    {
+      "author_key": [
+        "OL3511527A"
+      ],
+      "author_name": [
+        "Betty Green"
+      ],
+      "ebook_access": "no_ebook",
+      "edition_count": 2,
+      "first_publish_year": 2021,
+      "has_fulltext": false,
+      "key": "/works/OL36126309W",
+      "language": [
+        "eng"
+      ],
+      "public_scan_b": false,
+      "title": "Lord of the Rings Cookbook"
+    },
+    {
+      "author_key": [
+        "OL9831207A"
+      ],
+      "author_name": [
+        "Hoomes RACHAEL"
+      ],
+      "ebook_access": "no_ebook",
+      "edition_count": 1,
+      "first_publish_year": 2021,
+      "has_fulltext": false,
+      "key": "/works/OL30976407W",
+      "language": [
+        "eng"
+      ],
+      "public_scan_b": false,
+      "title": "Lord of the Rings Cocktail : Wonderful Ideas You Need Know about Cocktail from Lord of the Rings"
+    },
+    {
+      "author_key": [
+        "OL1019020A"
+      ],
+      "author_name": [
+        "Susan Rosenkranz"
+      ],
+      "ebook_access": "no_ebook",
+      "edition_count": 1,
+      "first_publish_year": 1988,
+      "has_fulltext": false,
+      "key": "/works/OL4825661W",
+      "language": [
+        "eng"
+      ],
+      "public_scan_b": false,
+      "title": "Lord of the rings"
+    },
+    {
+      "author_key": [
+        "OL12510441A"
+      ],
+      "author_name": [
+        "various "
+      ],
+      "ebook_access": "printdisabled",
+      "edition_count": 1,
+      "first_publish_year": 2005,
+      "has_fulltext": true,
+      "ia": [
+        "bwb_KT-585-798"
+      ],
+      "ia_collection": [
+        "internetarchivebooks",
+        "printdisabled"
+      ],
+      "key": "/works/OL43040142W",
+      "public_scan_b": false,
+      "title": "The lord of the rings "
+    },
+    {
+      "author_key": [
+        "OL15845196A"
+      ],
+      "author_name": [
+        "J.R.R Tolkien"
+      ],
+      "ebook_access": "no_ebook",
+      "edition_count": 1,
+      "first_publish_year": 1979,
+      "has_fulltext": false,
+      "key": "/works/OL44124177W",
+      "public_scan_b": false,
+      "title": "The Lord of the Rings"
+    },
+    {
+      "author_key": [
+        "OL26320A"
+      ],
+      "author_name": [
+        "J.R.R. Tolkien"
+      ],
+      "ebook_access": "no_ebook",
+      "edition_count": 1,
+      "first_publish_year": 1961,
+      "has_fulltext": false,
+      "key": "/works/OL45029232W",
+      "language": [
+        "eng"
+      ],
+      "public_scan_b": false,
+      "title": "The lord of the rings"
+    },
+    {
+      "author_key": [
+        "OL3207285A"
+      ],
+      "author_name": [
+        "New Line Cinema"
+      ],
+      "cover_edition_key": "OL27530098M",
+      "cover_i": 8986062,
+      "ebook_access": "no_ebook",
+      "edition_count": 1,
+      "first_publish_year": 2014,
+      "has_fulltext": false,
+      "key": "/works/OL20324134W",
+      "public_scan_b": false,
+      "title": "The Lord of the Rings"
+    },
+    {
+      "author_key": [
+        "OL3853219A"
+      ],
+      "author_name": [
+        "Interplay"
+      ],
+      "ebook_access": "no_ebook",
+      "edition_count": 1,
+      "has_fulltext": false,
+      "key": "/works/OL9870213W",
+      "public_scan_b": false,
+      "title": "Lord of the Rings Enhanced"
+    },
+    {
+      "author_key": [
+        "OL7958794A",
+        "OL26320A"
+      ],
+      "author_name": [
+        "Alan Lee",
+        "J.R.R. Tolkien"
+      ],
+      "ebook_access": "no_ebook",
+      "edition_count": 1,
+      "first_publish_year": 2006,
+      "has_fulltext": false,
+      "key": "/works/OL32361656W",
+      "language": [
+        "eng"
+      ],
+      "public_scan_b": false,
+      "title": "Lord of the Rings 2007"
+    },
+    {
+      "author_key": [
+        "OL1760961A"
+      ],
+      "author_name": [
+        "Stuart Anderson"
+      ],
+      "ebook_access": "no_ebook",
+      "edition_count": 1,
+      "first_publish_year": 2013,
+      "has_fulltext": false,
+      "key": "/works/OL39832256W",
+      "language": [
+        "eng"
+      ],
+      "public_scan_b": false,
+      "title": "Lord of the Ring Dings"
+    },
+    {
+      "author_key": [
+        "OL7958794A"
+      ],
+      "author_name": [
+        "Alan Lee"
+      ],
+      "ebook_access": "no_ebook",
+      "edition_count": 1,
+      "first_publish_year": 2008,
+      "has_fulltext": false,
+      "key": "/works/OL32378559W",
+      "language": [
+        "eng"
+      ],
+      "public_scan_b": false,
+      "title": "Lord of the Rings Sketchbook"
+    },
+    {
+      "author_key": [
+        "OL26320A"
+      ],
+      "author_name": [
+        "J.R.R. Tolkien"
+      ],
+      "ebook_access": "no_ebook",
+      "edition_count": 1,
+      "first_publish_year": 2016,
+      "has_fulltext": false,
+      "key": "/works/OL41602564W",
+      "language": [
+        "eng"
+      ],
+      "public_scan_b": false,
+      "title": "Lord of the Rings Trilogy"
+    },
+    {
+      "ebook_access": "no_ebook",
+      "edition_count": 1,
+      "has_fulltext": false,
+      "key": "/works/OL15476075M",
+      "language": [
+        "eng"
+      ],
+      "public_scan_b": false,
+      "title": "War lords of the ring."
+    },
+    {
+      "author_key": [
+        "OL13524430A"
+      ],
+      "author_name": [
+        "BookCaps Study Guides Staff"
+      ],
+      "ebook_access": "no_ebook",
+      "edition_count": 1,
+      "first_publish_year": 2012,
+      "has_fulltext": false,
+      "key": "/works/OL40040707W",
+      "language": [
+        "eng"
+      ],
+      "public_scan_b": false,
+      "title": "Lord of the Rings Series"
+    },
+    {
+      "author_key": [
+        "OL14440616A"
+      ],
+      "author_name": [
+        "Brendan O'Halloran"
+      ],
+      "ebook_access": "no_ebook",
+      "edition_count": 1,
+      "first_publish_year": 2016,
+      "has_fulltext": false,
+      "key": "/works/OL41254890W",
+      "language": [
+        "eng"
+      ],
+      "public_scan_b": false,
+      "title": "Lord of the Rings/the Hobbit"
+    },
+    {
+      "author_key": [
+        "OL11388933A"
+      ],
+      "author_name": [
+        "Chris J Kranjc"
+      ],
+      "ebook_access": "no_ebook",
+      "edition_count": 1,
+      "first_publish_year": 2022,
+      "has_fulltext": false,
+      "key": "/works/OL31170313W",
+      "language": [
+        "eng"
+      ],
+      "public_scan_b": false,
+      "title": "Lord of the Rings Sheet Music"
+    },
+    {
+      "ebook_access": "no_ebook",
+      "edition_count": 1,
+      "first_publish_year": 2001,
+      "has_fulltext": false,
+      "key": "/works/OL10959226M",
+      "language": [
+        "eng"
+      ],
+      "public_scan_b": false,
+      "title": "Lord of the Rings 2002 Calendar"
+    },
+    {
+      "ebook_access": "no_ebook",
+      "edition_count": 1,
+      "first_publish_year": 2006,
+      "has_fulltext": false,
+      "key": "/works/OL9560823M",
+      "language": [
+        "eng"
+      ],
+      "public_scan_b": false,
+      "title": "Lord of the Rings 2007 Calendar"
+    },
+    {
+      "author_key": [
+        "OL3420105A"
+      ],
+      "author_name": [
+        "Coloring Book"
+      ],
+      "ebook_access": "no_ebook",
+      "edition_count": 1,
+      "first_publish_year": 2018,
+      "has_fulltext": false,
+      "key": "/works/OL40945328W",
+      "language": [
+        "eng"
+      ],
+      "public_scan_b": false,
+      "title": "Lord of the Rings Coloring Book"
+    },
+    {
+      "author_key": [
+        "OL6494886A"
+      ],
+      "author_name": [
+        "Lynnette R. Porter"
+      ],
+      "ebook_access": "no_ebook",
+      "edition_count": 2,
+      "first_publish_year": 2005,
+      "has_fulltext": false,
+      "key": "/works/OL13638560W",
+      "language": [
+        "eng"
+      ],
+      "public_scan_b": false,
+      "title": "Unsung heroes of the Lord of the rings"
+    },
+    {
+      "author_key": [
+        "OL2858510A"
+      ],
+      "author_name": [
+        "Elijah Wood"
+      ],
+      "ebook_access": "no_ebook",
+      "edition_count": 1,
+      "first_publish_year": 2010,
+      "has_fulltext": false,
+      "key": "/works/OL33886823W",
+      "public_scan_b": false,
+      "title": "The Lord of the Rings"
+    }
+  ]
+}

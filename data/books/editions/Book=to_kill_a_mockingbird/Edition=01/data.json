@@ -1,0 +1,93 @@
+{
+  "publishers": [
+    "Cambridge University Press"
+  ],
+  "number_of_pages": 135,
+  "isbn_10": [
+    "0521213444"
+  ],
+  "series": [
+    "Cambridge monographs on physics"
+  ],
+  "covers": [
+    4450573
+  ],
+  "lc_classifications": [
+    "QB790 .C67"
+  ],
+  "key": "/books/OL4884296M",
+  "authors": [
+    {
+      "key": "/authors/OL387014A"
+    }
+  ],
+  "ocaid": "celestialmasers00cook",
+  "publish_places": [
+    "Cambridge [Eng.]",
+    "New York"
+  ],
+  "pagination": "viii, 135 p. :",
+  "source_records": [
+    "ia:celestialmasers00cook",
+    "marc:marc_loc_2016/BooksAll.2016.part09.utf8:175390366:664",
+    "bwb:9780521213448",
+    "marc:marc_uic/UIC_2022.mrc:62546128:1573",
+    "marc:marc_columbia/Columbia-extract-20221130-001.mrc:77834247:1154",
+    "marc:harvard_bibliographic_metadata/ab.bib.00.20150123.full.mrc:603122238:708",
+    "marc:harvard_bibliographic_metadata/20220215_026.bib.mrc:348396067:1272"
+  ],
+  "title": "Celestial masers",
+  "dewey_decimal_class": [
+    "523"
+  ],
+  "notes": {
+    "type": "/type/text",
+    "value": "Bibliography: p. 124-132.\nIncludes index."
+  },
+  "identifiers": {
+    "goodreads": [
+      "5450559"
+    ],
+    "librarything": [
+      "8935108"
+    ]
+  },
+  "languages": [
+    {
+      "key": "/languages/eng"
+    }
+  ],
+  "lccn": [
+    "76014028"
+  ],
+  "subjects": [
+    "Astronomical masers."
+  ],
+  "publish_date": "1977",
+  "publish_country": "mau",
+  "by_statement": "A. H. Cook.",
+  "works": [
+    {
+      "key": "/works/OL2654143W"
+    }
+  ],
+  "type": {
+    "key": "/type/edition"
+  },
+  "local_id": [
+    "urn:uic:38198000349330"
+  ],
+  "oclc_numbers": [
+    "2644096"
+  ],
+  "latest_revision": 12,
+  "revision": 12,
+  "created": {
+    "type": "/type/datetime",
+    "value": "2008-04-01T03:28:50.625462"
+  },
+  "last_modified": {
+    "type": "/type/datetime",
+    "value": "2026-01-07T08:25:40.703328"
+  }
+}

@@ -1,0 +1,30 @@
+{
+  "works": [
+    {
+      "key": "/works/OL27482W"
+    }
+  ],
+  "title": "The Hobbit",
+  "publishers": [
+    "Del Rey Books"
+  ],
+  "publish_date": "1937",
+  "key": "/books/OL61640017M",
+  "type": {
+    "key": "/type/edition"
+  },
+  "identifiers": {},
+  "isbn_13": [
+    "9780345339683"
+  ],
+  "latest_revision": 1,
+  "revision": 1,
+  "created": {
+    "type": "/type/datetime",
+    "value": "2026-04-23T19:23:10.741775"
+  },
+  "last_modified": {
+    "type": "/type/datetime",
+    "value": "2026-04-23T19:23:10.741775"
+  }
+}

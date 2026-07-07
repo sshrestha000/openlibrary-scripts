@@ -1,0 +1,45 @@
+{
+  "type": {
+    "key": "/type/edition"
+  },
+  "authors": [
+    {
+      "key": "/authors/OL27349A"
+    }
+  ],
+  "isbn_13": [
+    "9798772810477"
+  ],
+  "languages": [
+    {
+      "key": "/languages/eng"
+    }
+  ],
+  "pagination": "172",
+  "publish_date": "2021",
+  "publishers": [
+    "Independently Published"
+  ],
+  "source_records": [
+    "bwb:9798772810477"
+  ],
+  "title": "Great Gatsby Annotated",
+  "weight": "0.282",
+  "full_title": "Great Gatsby Annotated",
+  "works": [
+    {
+      "key": "/works/OL468431W"
+    }
+  ],
+  "key": "/books/OL38555255M",
+  "latest_revision": 3,
+  "revision": 3,
+  "created": {
+    "type": "/type/datetime",
+    "value": "2022-06-20T00:12:41.926917"
+  },
+  "last_modified": {
+    "type": "/type/datetime",
+    "value": "2023-01-13T02:07:43.571395"
+  }
+}

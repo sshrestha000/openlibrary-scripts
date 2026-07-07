@@ -1,0 +1,60 @@
+{
+  "type": {
+    "key": "/type/edition"
+  },
+  "authors": [
+    {
+      "key": "/authors/OL27349A"
+    },
+    {
+      "key": "/authors/OL3028274A"
+    }
+  ],
+  "languages": [
+    {
+      "key": "/languages/eng"
+    }
+  ],
+  "pagination": "200",
+  "publish_date": "2022",
+  "publishers": [
+    "Pierian Springs Press"
+  ],
+  "source_records": [
+    "bwb:9781953136169"
+  ],
+  "subjects": [
+    "Fiction, psychological",
+    "Fiction, action & adventure"
+  ],
+  "title": "Great Gatsby",
+  "weight": "0.280 ",
+  "full_title": "Great Gatsby",
+  "works": [
+    {
+      "key": "/works/OL468431W"
+    }
+  ],
+  "key": "/books/OL38556474M",
+  "identifiers": {},
+  "isbn_13": [
+    "9781953136169"
+  ],
+  "classifications": {},
+  "contributors": [
+    {
+      "name": "Michael Sofranko",
+      "role": "Editor"
+    }
+  ],
+  "latest_revision": 4,
+  "revision": 4,
+  "created": {
+    "type": "/type/datetime",
+    "value": "2022-06-20T00:37:39.303452"
+  },
+  "last_modified": {
+    "type": "/type/datetime",
+    "value": "2023-01-13T02:07:43.571395"
+  }
+}

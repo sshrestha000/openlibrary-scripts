@@ -1,0 +1,170 @@
+{
+  "works": [
+    {
+      "key": "/works/OL27482W"
+    }
+  ],
+  "title": "The Hobbit",
+  "publishers": [
+    "The Random House Publishing Group"
+  ],
+  "publish_date": "1937",
+  "key": "/books/OL61641547M",
+  "type": {
+    "key": "/type/edition"
+  },
+  "identifiers": {},
+  "covers": [
+    15214278
+  ],
+  "isbn_13": [
+    "9780345339683"
+  ],
+  "physical_dimensions": "1 x 4 x 6.5 inches",
+  "weight": "6 ounces",
+  "table_of_contents": [
+    {
+      "level": 0,
+      "label": "Chapter 1",
+      "title": "An Unexpected Party",
+      "pagenum": "1"
+    },
+    {
+      "level": 0,
+      "label": "Chapter 2",
+      "title": "Roast Mutton",
+      "pagenum": "28"
+    },
+    {
+      "level": 0,
+      "label": "Chapter 3",
+      "title": "A Short Rest",
+      "pagenum": "45"
+    },
+    {
+      "level": 0,
+      "label": "Chapter 4",
+      "title": "Over Hill and Under Hill",
+      "pagenum": "55"
+    },
+    {
+      "level": 0,
+      "label": "Chapter 5",
+      "title": "Riddles in the Dark",
+      "pagenum": "68"
+    },
+    {
+      "level": 0,
+      "label": "Chapter 6",
+      "title": "Out of the Frying-Pan and into the Fire",
+      "pagenum": "91"
+    },
+    {
+      "level": 0,
+      "label": "Chapter 7",
+      "title": "Queer Lodgings",
+      "pagenum": "112"
+    },
+    {
+      "level": 0,
+      "label": "Chapter 8",
+      "title": "Flies and Spiders",
+      "pagenum": "140"
+    },
+    {
+      "level": 0,
+      "label": "Chapter 9",
+      "title": "Barrels Out of Bond",
+      "pagenum": "171"
+    },
+    {
+      "level": 0,
+      "label": "Chapter 10",
+      "title": "A Warm Welcome",
+      "pagenum": "189"
+    },
+    {
+      "level": 0,
+      "label": "Chapter 11",
+      "title": "On The Doorstep",
+      "pagenum": "202"
+    },
+    {
+      "level": 0,
+      "label": "Chapter 12",
+      "title": "Inside Information",
+      "pagenum": "212"
+    },
+    {
+      "level": 0,
+      "label": "Chapter 13",
+      "title": "Not At Home",
+      "pagenum": "234"
+    },
+    {
+      "level": 0,
+      "label": "Chapter 14",
+      "title": "Fire and Water",
+      "pagenum": "247"
+    },
+    {
+      "level": 0,
+      "label": "Chapter 15",
+      "title": "The Gathering of the Clouds",
+      "pagenum": "257"
+    },
+    {
+      "level": 0,
+      "label": "Chapter 16",
+      "title": "A Thief in the Night",
+      "pagenum": "268"
+    },
+    {
+      "level": 0,
+      "label": "Chapter 17",
+      "title": "The Clouds Burst",
+      "pagenum": "275"
+    },
+    {
+      "level": 0,
+      "label": "Chapter 18",
+      "title": "The Return Journey",
+      "pagenum": "288"
+    },
+    {
+      "level": 0,
+      "label": "Chapter 19",
+      "title": "The Last Stage",
+      "pagenum": "297"
+    }
+  ],
+  "subtitle": "The Enchanting Prelude to The Lord of the Rings",
+  "publish_places": [
+    "New York"
+  ],
+  "copyright_date": "1937",
+  "series": [
+    "The Lord of the Rings"
+  ],
+  "by_statement": "edited by Christopher Tolkien",
+  "other_titles": [
+    "There and Back Again"
+  ],
+  "physical_format": "Paperback",
+  "number_of_pages": 306,
+  "pagination": "306",
+  "first_sentence": {
+    "type": "/type/text",
+    "value": "In a hole in the ground, there lived a hobbit."
+  },
+  "latest_revision": 4,
+  "revision": 4,
+  "created": {
+    "type": "/type/datetime",
+    "value": "2026-04-23T22:11:18.408265"
+  },
+  "last_modified": {
+    "type": "/type/datetime",
+    "value": "2026-04-23T22:45:35.987484"
+  }
+}

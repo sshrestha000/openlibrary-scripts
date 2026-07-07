@@ -1,0 +1,54 @@
+{
+  "type": {
+    "key": "/type/edition"
+  },
+  "authors": [
+    {
+      "key": "/authors/OL27349A"
+    }
+  ],
+  "isbn_13": [
+    "9798744098964"
+  ],
+  "languages": [
+    {
+      "key": "/languages/eng"
+    }
+  ],
+  "pagination": "187",
+  "publish_date": "2021",
+  "publishers": [
+    "Independently Published"
+  ],
+  "source_records": [
+    "bwb:9798744098964",
+    "promise:bwb_daily_pallets_2021-05-05"
+  ],
+  "title": "Great Gatsby : (School Edition)",
+  "weight": "0.341",
+  "full_title": "Great Gatsby : (School Edition)",
+  "works": [
+    {
+      "key": "/works/OL468431W"
+    }
+  ],
+  "key": "/books/OL39459633M",
+  "local_id": [
+    "urn:bwbsku:P7-AFJ-114"
+  ],
+  "identifiers": {
+    "amazon": [
+      "B093C59JWP"
+    ]
+  },
+  "latest_revision": 4,
+  "revision": 4,
+  "created": {
+    "type": "/type/datetime",
+    "value": "2022-08-19T05:00:13.425063"
+  },
+  "last_modified": {
+    "type": "/type/datetime",
+    "value": "2023-01-13T02:07:43.571395"
+  }
+}

@@ -1,0 +1,22 @@
+{
+  "birth_date": "1961",
+  "personal_name": "John Granger",
+  "name": "John Granger",
+  "key": "/authors/OL1388274A",
+  "type": {
+    "key": "/type/author"
+  },
+  "remote_ids": {
+    "wikidata": "Q15511929"
+  },
+  "latest_revision": 4,
+  "revision": 4,
+  "created": {
+    "type": "/type/datetime",
+    "value": "2008-04-01T03:28:50.625462"
+  },
+  "last_modified": {
+    "type": "/type/datetime",
+    "value": "2026-01-10T09:32:27.563562"
+  }
+}

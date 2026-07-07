@@ -1,0 +1,54 @@
+{
+  "type": {
+    "key": "/type/edition"
+  },
+  "authors": [
+    {
+      "key": "/authors/OL27349A"
+    }
+  ],
+  "isbn_13": [
+    "9798581484234"
+  ],
+  "languages": [
+    {
+      "key": "/languages/eng"
+    }
+  ],
+  "pagination": "123",
+  "publish_date": "2021",
+  "publishers": [
+    "Independently Published"
+  ],
+  "source_records": [
+    "bwb:9798581484234",
+    "promise:bwb_daily_pallets_2022-03-17"
+  ],
+  "title": "Great Gatsby by F. Scott Fitzgerald",
+  "weight": "0.241",
+  "full_title": "Great Gatsby by F. Scott Fitzgerald",
+  "works": [
+    {
+      "key": "/works/OL468431W"
+    }
+  ],
+  "key": "/books/OL38890576M",
+  "local_id": [
+    "urn:bwbsku:T2-BIA-134"
+  ],
+  "identifiers": {
+    "amazon": [
+      "B08RYK64GM"
+    ]
+  },
+  "latest_revision": 4,
+  "revision": 4,
+  "created": {
+    "type": "/type/datetime",
+    "value": "2022-07-19T17:50:34.443243"
+  },
+  "last_modified": {
+    "type": "/type/datetime",
+    "value": "2023-01-13T02:07:43.571395"
+  }
+}

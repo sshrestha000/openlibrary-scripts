@@ -1,0 +1,55 @@
+{
+  "works": [
+    {
+      "key": "/works/OL27482W"
+    }
+  ],
+  "title": "De Hobbit",
+  "publishers": [
+    "Uitgeverij Het Spectrum"
+  ],
+  "publish_date": "1984",
+  "key": "/books/OL59690711M",
+  "type": {
+    "key": "/type/edition"
+  },
+  "identifiers": {},
+  "covers": [
+    15108065
+  ],
+  "publish_places": [
+    "Utrecht, Netherlands",
+    "Antwerp, Belgium"
+  ],
+  "copyright_date": "1976",
+  "edition_name": "Eénentwintigste druk",
+  "languages": [
+    {
+      "key": "/languages/dut"
+    }
+  ],
+  "translation_of": "The Hobbit",
+  "translated_from": [
+    {
+      "key": "/languages/eng"
+    }
+  ],
+  "other_titles": [
+    "Daarheen en Weer Terug"
+  ],
+  "physical_format": "paperback",
+  "first_sentence": "In een hol onder de grond woonde een hobbit.",
+  "isbn_10": [
+    "9027400431"
+  ],
+  "latest_revision": 5,
+  "revision": 5,
+  "created": {
+    "type": "/type/datetime",
+    "value": "2025-07-29T09:58:00.900153"
+  },
+  "last_modified": {
+    "type": "/type/datetime",
+    "value": "2026-01-21T18:28:52.897309"
+  }
+}

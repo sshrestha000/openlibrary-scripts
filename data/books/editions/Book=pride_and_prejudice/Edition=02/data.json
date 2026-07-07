@@ -1,0 +1,54 @@
+{
+  "publishers": [
+    "W. Blackwood"
+  ],
+  "pagination": "362p.",
+  "subtitle": "wanderings and wild sport on and beyond the Himalayas.",
+  "key": "/books/OL18872864M",
+  "source_records": [
+    "marc:marc_university_of_toronto/uoft.marc:1966894692:610"
+  ],
+  "title": "Hindu-Koh",
+  "number_of_pages": 362,
+  "created": {
+    "type": "/type/datetime",
+    "value": "2008-10-20T09:54:42.682505"
+  },
+  "languages": [
+    {
+      "key": "/languages/eng"
+    }
+  ],
+  "lc_classifications": [
+    "SK235 M34 1891"
+  ],
+  "publish_date": "1891",
+  "edition_name": "New ed.",
+  "last_modified": {
+    "type": "/type/datetime",
+    "value": "2009-10-21T21:30:25.984339"
+  },
+  "authors": [
+    {
+      "key": "/authors/OL2410527A"
+    }
+  ],
+  "subjects": [
+    "Hunting -- Himalaya Mountains",
+    "Himalaya Mountains -- Description and travel"
+  ],
+  "latest_revision": 2,
+  "publish_places": [
+    "Edinburgh"
+  ],
+  "works": [
+    {
+      "key": "/works/OL205681W"
+    }
+  ],
+  "type": {
+    "key": "/type/edition"
+  },
+  "id": 28533839,
+  "revision": 2
+}

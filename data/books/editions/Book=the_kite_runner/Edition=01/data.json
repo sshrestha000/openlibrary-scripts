@@ -1,0 +1,47 @@
+{
+  "notes": {
+    "type": "/type/text",
+    "value": "Typescript (photocopy)\n\n\"An internship ... for the degree of Master of Technical and Scientific Communication, Dept. of English, 2001.\"\n\nIncludes bibliographical references (leaf 61)"
+  },
+  "title": "The methodology behind the construction of a website for CTC Parker Automation",
+  "authors": [
+    {
+      "key": "/authors/OL4854952A"
+    }
+  ],
+  "publish_date": "2001",
+  "pagination": "iv, 61 leaves :",
+  "by_statement": "by Mary A. Clark",
+  "languages": [
+    {
+      "key": "/languages/eng"
+    }
+  ],
+  "publish_country": "xx ",
+  "type": {
+    "key": "/type/edition"
+  },
+  "subjects": [
+    "Web sites -- Design"
+  ],
+  "source_records": [
+    "marc:marc_miami_univ_ohio/allbibs0140.out:3765556:1067"
+  ],
+  "key": "/books/OL15346077M",
+  "number_of_pages": 61,
+  "works": [
+    {
+      "key": "/works/OL11537334W"
+    }
+  ],
+  "latest_revision": 3,
+  "revision": 3,
+  "created": {
+    "type": "/type/datetime",
+    "value": "2008-09-19T11:33:00.631616"
+  },
+  "last_modified": {
+    "type": "/type/datetime",
+    "value": "2026-05-18T20:27:54.661165"
+  }
+}

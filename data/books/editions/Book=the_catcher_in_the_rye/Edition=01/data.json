@@ -1,0 +1,50 @@
+{
+  "identifiers": {
+    "goodreads": [
+      "2003949"
+    ]
+  },
+  "title": "Das Blumenorakel. 'Er liebt mich, er liebt mich nicht'.",
+  "authors": [
+    {
+      "key": "/authors/OL27247A"
+    }
+  ],
+  "publish_date": "February 1, 2000",
+  "publishers": [
+    "Goldmann"
+  ],
+  "type": {
+    "key": "/type/edition"
+  },
+  "isbn_13": [
+    "9783442162468"
+  ],
+  "isbn_10": [
+    "3442162467"
+  ],
+  "oclc_numbers": [
+    "76126405"
+  ],
+  "physical_format": "Paperback",
+  "source_records": [
+    "amazon:3442162467"
+  ],
+  "key": "/books/OL12709142M",
+  "number_of_pages": 268,
+  "works": [
+    {
+      "key": "/works/OL466465W"
+    }
+  ],
+  "latest_revision": 6,
+  "revision": 6,
+  "created": {
+    "type": "/type/datetime",
+    "value": "2008-04-30T20:50:18.033121"
+  },
+  "last_modified": {
+    "type": "/type/datetime",
+    "value": "2026-01-30T03:49:03.938303"
+  }
+}

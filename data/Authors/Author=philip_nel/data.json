@@ -1,0 +1,15 @@
+{
+  "name": "Philip Nel",
+  "personal_name": "Philip Nel",
+  "last_modified": {
+    "type": "/type/datetime",
+    "value": "2008-09-06 07:30:11.42823"
+  },
+  "key": "/authors/OL622143A",
+  "birth_date": "1969",
+  "type": {
+    "key": "/type/author"
+  },
+  "id": 1813483,
+  "revision": 3
+}

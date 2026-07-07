@@ -1,0 +1,38 @@
+{
+  "created": {
+    "type": "/type/datetime",
+    "value": "2011-01-06T22:26:11.401548"
+  },
+  "subjects": [
+    "Environmental aspects",
+    "Climatic changes",
+    "Environmental engineering",
+    "Global warming",
+    "Engineering geology"
+  ],
+  "latest_revision": 4,
+  "description": {
+    "type": "/type/text",
+    "value": "Climate discussions often focus on potential impacts over a long period of time—several decades, a century even. But change could also happen much more suddenly. What if we had a real climate emergency—how could we cool the planet in a hurry? This question has led a group of scientists to pursue extreme solutions: huge contraptions that would suck CO2 from the air, machines that brighten clouds and deflect sunlight away from the earth, even artificial volcanoes that spray heat-reflecting particles into the atmosphere. This is the radical and controversial world of geoengineering. How to Cool the Planet, Jeff Goodell explores the scientific, political, and moral aspects of geoengineering. How are we going to change the temperature of whole regions if we can’t even predict next week’s weather? What about wars waged with climate control as the primary weapon? There are certainly risks, but Goodell persuades us that geoengineering may be our last best hope, a Plan B for the environment. And if it is, we need to know enough to get it right."
+  },
+  "key": "/works/OL15626917W",
+  "title": "How to cool the planet",
+  "authors": [
+    {
+      "type": {
+        "key": "/type/author_role"
+      },
+      "author": {
+        "key": "/authors/OL33421A"
+      }
+    }
+  ],
+  "type": {
+    "key": "/type/work"
+  },
+  "last_modified": {
+    "type": "/type/datetime",
+    "value": "2020-02-14T07:14:50.671748"
+  },
+  "revision": 4
+}

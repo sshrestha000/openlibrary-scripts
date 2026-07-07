@@ -1,0 +1,49 @@
+{
+  "works": [
+    {
+      "key": "/works/OL468431W"
+    }
+  ],
+  "title": "The Great Gatsby / Der große Gatsby",
+  "publishers": [
+    "Anaconda"
+  ],
+  "publish_date": "2020",
+  "key": "/books/OL48590937M",
+  "type": {
+    "key": "/type/edition"
+  },
+  "identifiers": {
+    "bookbrainz": [
+      "16c17ff4-71d5-4c58-b183-8789574138c9"
+    ]
+  },
+  "covers": [
+    14369845
+  ],
+  "languages": [
+    {
+      "key": "/languages/ger"
+    },
+    {
+      "key": "/languages/eng"
+    }
+  ],
+  "number_of_pages": 431,
+  "copyright_date": "2013, 2020",
+  "physical_format": "Taschenbuch",
+  "subtitle": "Zweispachige Ausgabe",
+  "isbn_13": [
+    "9783730600009"
+  ],
+  "latest_revision": 4,
+  "revision": 4,
+  "created": {
+    "type": "/type/datetime",
+    "value": "2023-07-06T14:18:15.850094"
+  },
+  "last_modified": {
+    "type": "/type/datetime",
+    "value": "2026-02-22T15:32:59.648704"
+  }
+}

@@ -1,0 +1,66 @@
+{
+  "publishers": [
+    "Wydawn. Nauk. Uniwersytetu im. Adama Mickiewicza w Poznaniu"
+  ],
+  "subtitle": "jednostka i społeczeństwo w powieściach duńskiego pisarza Klausa Rifbjerga",
+  "series": [
+    "Seria Filologia skandynawska,",
+    "nr. 3"
+  ],
+  "lc_classifications": [
+    "PT8176.28.I32 Z73 1981"
+  ],
+  "latest_revision": 3,
+  "key": "/books/OL2241111M",
+  "authors": [
+    {
+      "key": "/authors/OL252291A"
+    }
+  ],
+  "publish_places": [
+    "Poznań"
+  ],
+  "languages": [
+    {
+      "key": "/languages/pol"
+    }
+  ],
+  "pagination": "98 p. ;",
+  "source_records": [
+    "marc:marc_loc_2016/BooksAll.2016.part19.utf8:140050075:977"
+  ],
+  "title": "Powieść jako diagnoza społeczna",
+  "lccn": [
+    "89112989"
+  ],
+  "notes": {
+    "type": "/type/text",
+    "value": "Bibliography: [89]-95.\nAt head of title: Uniwersytet im. Adama Mickiewicza w Poznaniu.\nSummary in German."
+  },
+  "number_of_pages": 98,
+  "created": {
+    "type": "/type/datetime",
+    "value": "2008-04-01T03:28:50.625462"
+  },
+  "edition_name": "Wyd. 1.",
+  "subjects": [
+    "Rifbjerg, Klaus -- Criticism and interpretation.",
+    "Rifbjerg, Klaus -- Political and social views."
+  ],
+  "publish_date": "1981",
+  "publish_country": "pl ",
+  "last_modified": {
+    "type": "/type/datetime",
+    "value": "2020-11-09T17:32:06.364700"
+  },
+  "by_statement": "Maria Krysztofiak-Kaszyńska.",
+  "works": [
+    {
+      "key": "/works/OL2064553W"
+    }
+  ],
+  "type": {
+    "key": "/type/edition"
+  },
+  "revision": 3
+}

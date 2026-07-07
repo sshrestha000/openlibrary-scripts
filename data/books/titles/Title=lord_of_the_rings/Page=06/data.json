@@ -1,0 +1,467 @@
+{
+  "numFound": 525,
+  "start": 500,
+  "numFoundExact": true,
+  "num_found": 525,
+  "documentation_url": "https://openlibrary.org/dev/docs/api/search",
+  "q": "",
+  "offset": null,
+  "docs": [
+    {
+      "author_key": [
+        "OL949446A"
+      ],
+      "author_name": [
+        "Susan Jeffers"
+      ],
+      "cover_i": 8739132,
+      "ebook_access": "no_ebook",
+      "edition_count": 0,
+      "has_fulltext": false,
+      "key": "/works/OL19915345W",
+      "public_scan_b": false,
+      "title": "Arda Inhabited: Environmental Relationships in the Lord of the Rings"
+    },
+    {
+      "author_key": [
+        "OL8382269A"
+      ],
+      "author_name": [
+        "Angela Westfild"
+      ],
+      "ebook_access": "no_ebook",
+      "edition_count": 1,
+      "first_publish_year": 2018,
+      "has_fulltext": false,
+      "key": "/works/OL29947006W",
+      "language": [
+        "eng"
+      ],
+      "public_scan_b": false,
+      "title": "Lord of the Rings and Warcraft Coloring Book"
+    },
+    {
+      "author_key": [
+        "OL8424607A"
+      ],
+      "author_name": [
+        "Westfild Angela"
+      ],
+      "ebook_access": "no_ebook",
+      "edition_count": 1,
+      "first_publish_year": 2020,
+      "has_fulltext": false,
+      "key": "/works/OL30696252W",
+      "language": [
+        "eng"
+      ],
+      "public_scan_b": false,
+      "title": "Lord of the Rings and Warcraft Coloring Book"
+    },
+    {
+      "author_key": [
+        "OL2838743A"
+      ],
+      "author_name": [
+        "Mike Searle"
+      ],
+      "cover_edition_key": "OL8018732M",
+      "cover_i": 1425352,
+      "ebook_access": "printdisabled",
+      "edition_count": 1,
+      "first_publish_year": 2007,
+      "has_fulltext": true,
+      "ia": [
+        "lordofringsonlin0000sear"
+      ],
+      "ia_collection": [
+        "internetarchivebooks",
+        "printdisabled"
+      ],
+      "key": "/works/OL8496177W",
+      "language": [
+        "eng"
+      ],
+      "public_scan_b": false,
+      "subtitle": "Prima Official Game Guide (Prima Official Game Guides)",
+      "title": "Lord of the Rings Online: Shadows of Angmar - World Companion"
+    },
+    {
+      "author_key": [
+        "OL3095943A"
+      ],
+      "author_name": [
+        "Decipher TCG"
+      ],
+      "cover_edition_key": "OL8786583M",
+      "cover_i": 1944056,
+      "ebook_access": "no_ebook",
+      "edition_count": 1,
+      "first_publish_year": 2003,
+      "has_fulltext": false,
+      "key": "/works/OL8945070W",
+      "language": [
+        "eng"
+      ],
+      "public_scan_b": false,
+      "title": "The Lord of the Rings Trading Card Game: Two-Player Trading Card Game"
+    },
+    {
+      "author_key": [
+        "OL11192465A"
+      ],
+      "author_name": [
+        "Dave's Dave's library"
+      ],
+      "ebook_access": "no_ebook",
+      "edition_count": 1,
+      "first_publish_year": 2020,
+      "has_fulltext": false,
+      "key": "/works/OL30670290W",
+      "language": [
+        "eng"
+      ],
+      "public_scan_b": false,
+      "title": "Lord of the Rings : the BEST of : Coloring Book : EXCLUSIVE EDITION : a Collection of over 40 Selected Best Illustrations"
+    },
+    {
+      "author_key": [
+        "OL3095949A"
+      ],
+      "author_name": [
+        "Decipher RPG"
+      ],
+      "cover_i": 1944057,
+      "ebook_access": "no_ebook",
+      "edition_count": 0,
+      "has_fulltext": false,
+      "key": "/works/OL8945088W",
+      "public_scan_b": false,
+      "title": "The Two Towers (The Lord of the Rings Roleplaying Adventure Game)"
+    },
+    {
+      "author_key": [
+        "OL26320A"
+      ],
+      "author_name": [
+        "J.R.R. Tolkien"
+      ],
+      "cover_edition_key": "OL8612785M",
+      "cover_i": 788355,
+      "ebook_access": "no_ebook",
+      "edition_count": 1,
+      "first_publish_year": 1992,
+      "has_fulltext": false,
+      "key": "/works/OL14933402W",
+      "language": [
+        "eng"
+      ],
+      "public_scan_b": false,
+      "title": "The J. R. R. Tolkien Audio Collection (Adventures of Tom Bombadil / Hobbit / Lord of the Rings / Road Goes Ever On / The Silmarillion)"
+    },
+    {
+      "author_key": [
+        "OL1388751A"
+      ],
+      "author_name": [
+        "David Salo"
+      ],
+      "cover_edition_key": "OL3291543M",
+      "cover_i": 666356,
+      "ebook_access": "no_ebook",
+      "edition_count": 1,
+      "first_publish_year": 2004,
+      "has_fulltext": false,
+      "key": "/works/OL5708436W",
+      "language": [
+        "eng"
+      ],
+      "public_scan_b": false,
+      "title": "A gateway to Sindarin: a grammar of an Elvish language from J.R.R. Tolkien's Lord of the rings"
+    },
+    {
+      "author_key": [
+        "OL6182660A"
+      ],
+      "author_name": [
+        "Alexander van de Bergh"
+      ],
+      "ebook_access": "no_ebook",
+      "edition_count": 1,
+      "first_publish_year": 2005,
+      "has_fulltext": false,
+      "key": "/works/OL13281328W",
+      "language": [
+        "ger"
+      ],
+      "public_scan_b": false,
+      "title": "Mittelerde und das 21. Jahrhundert: Zivilisationskritik und alternative Gesellschaftsentw urfe in J. R. R. Tolkiens \"The Lord of the Rings\""
+    },
+    {
+      "author_key": [
+        "OL3004357A"
+      ],
+      "author_name": [
+        "Oliver Loo"
+      ],
+      "ebook_access": "no_ebook",
+      "edition_count": 1,
+      "first_publish_year": 2010,
+      "has_fulltext": false,
+      "key": "/works/OL29003237W",
+      "language": [
+        "eng"
+      ],
+      "public_scan_b": false,
+      "title": "Tolkien English Glossary A Guide to Old Uncommon and Archaic Words Used in the Hobbit and the Lord of the Rings"
+    },
+    {
+      "author_key": [
+        "OL7776589A"
+      ],
+      "author_name": [
+        "Sergio Mazitto"
+      ],
+      "cover_edition_key": "OL27784377M",
+      "cover_i": 9189198,
+      "ebook_access": "no_ebook",
+      "edition_count": 1,
+      "first_publish_year": 2018,
+      "has_fulltext": false,
+      "key": "/works/OL20541537W",
+      "public_scan_b": false,
+      "title": "Tongariro National Park Trekking/Hiking/Walking Topographic Map Atlas Tolkien's The Lord of The Rings Filming Location New Zealand North Island ..."
+    },
+    {
+      "author_key": [
+        "OL4452469A"
+      ],
+      "author_name": [
+        "Brian Bates"
+      ],
+      "cover_edition_key": "OL27051070M",
+      "cover_i": 8669104,
+      "ebook_access": "no_ebook",
+      "edition_count": 1,
+      "first_publish_year": 2015,
+      "has_fulltext": false,
+      "key": "/works/OL19863436W",
+      "public_scan_b": false,
+      "title": "The Real Middle Earth: Exploring the Magic and Mystery of the Middle Ages, J.R.R. Tolkien, and \"The Lord of the Rings\""
+    },
+    {
+      "cover_edition_key": "OL47287349M",
+      "cover_i": 13746945,
+      "ebook_access": "no_ebook",
+      "edition_count": 1,
+      "has_fulltext": false,
+      "key": "/works/OL34928590W",
+      "public_scan_b": false,
+      "title": "Los Senores de los Anillos / Poder, Dinero y Doping en los Juegos Olimpicos  The Lords of the Rings / Power, Money and Doping / Drugs in the Modern Olympic Games"
+    },
+    {
+      "author_key": [
+        "OL7653351A"
+      ],
+      "author_name": [
+        "Liam Simon Blades"
+      ],
+      "cover_edition_key": "OL27383384M",
+      "cover_i": 8846255,
+      "ebook_access": "no_ebook",
+      "edition_count": 1,
+      "first_publish_year": 2017,
+      "has_fulltext": false,
+      "key": "/works/OL20196494W",
+      "public_scan_b": false,
+      "title": "The Rings Of The Lords"
+    },
+    {
+      "ebook_access": "no_ebook",
+      "edition_count": 1,
+      "has_fulltext": false,
+      "key": "/works/OL20505368M",
+      "language": [
+        "eng"
+      ],
+      "public_scan_b": false,
+      "title": "Lord of the gas rings."
+    },
+    {
+      "author_key": [
+        "OL3380195A"
+      ],
+      "author_name": [
+        "Herwig Schopper"
+      ],
+      "cover_i": 7826685,
+      "ebook_access": "printdisabled",
+      "edition_count": 3,
+      "first_publish_year": 2009,
+      "has_fulltext": true,
+      "ia": [
+        "leplordofcollide0000scho",
+        "leplordofcollide0000herw"
+      ],
+      "ia_collection": [
+        "binghamton-ol",
+        "internetarchivebooks",
+        "printdisabled"
+      ],
+      "key": "/works/OL17562554W",
+      "language": [
+        "eng"
+      ],
+      "public_scan_b": false,
+      "title": "LEP  The Lord of the Collider Rings at CERN 19802000"
+    },
+    {
+      "author_key": [
+        "OL2992550A"
+      ],
+      "author_name": [
+        "Beldeu Singh"
+      ],
+      "cover_edition_key": "OL8489393M",
+      "cover_i": 1811146,
+      "ebook_access": "no_ebook",
+      "edition_count": 1,
+      "first_publish_year": 2005,
+      "has_fulltext": false,
+      "key": "/works/OL8781438W",
+      "language": [
+        "eng"
+      ],
+      "public_scan_b": false,
+      "title": "Lord of the Living Ring"
+    },
+    {
+      "author_key": [
+        "OL13600249A",
+        "OL13600250A"
+      ],
+      "author_name": [
+        "Ron Sheppard",
+        "Leigh Ferrani"
+      ],
+      "ebook_access": "no_ebook",
+      "edition_count": 1,
+      "first_publish_year": 2014,
+      "has_fulltext": false,
+      "key": "/works/OL37820108W",
+      "language": [
+        "eng"
+      ],
+      "public_scan_b": false,
+      "title": "Lord of the Wedding Rings"
+    },
+    {
+      "author_key": [
+        "OL10688301A"
+      ],
+      "author_name": [
+        "Adele Preston"
+      ],
+      "ebook_access": "no_ebook",
+      "edition_count": 1,
+      "first_publish_year": 2022,
+      "has_fulltext": false,
+      "key": "/works/OL34385677W",
+      "language": [
+        "eng"
+      ],
+      "public_scan_b": false,
+      "title": "Midnight 𝒯𝒽𝑒 𝐿𝑜𝓇𝒹 𝒪𝒻 Τ𝒽𝑒 𝑅𝒾𝓃𝑔𝓈 Coloring Book"
+    },
+    {
+      "author_key": [
+        "OL7679404A"
+      ],
+      "author_name": [
+        "Dan Plouff"
+      ],
+      "ebook_access": "no_ebook",
+      "edition_count": 1,
+      "first_publish_year": 2020,
+      "has_fulltext": false,
+      "key": "/works/OL30674086W",
+      "language": [
+        "eng"
+      ],
+      "public_scan_b": false,
+      "title": "Secrets of the Alchemist Star Lord of Wars in a Rings of Time Matrix"
+    },
+    {
+      "author_key": [
+        "OL888939A"
+      ],
+      "author_name": [
+        "Mark Ross"
+      ],
+      "ebook_access": "no_ebook",
+      "edition_count": 1,
+      "first_publish_year": 2022,
+      "has_fulltext": false,
+      "key": "/works/OL34406053W",
+      "language": [
+        "eng"
+      ],
+      "public_scan_b": false,
+      "title": "Τhe Lord of Τhe Rings _ the BEST of _ Coloring Book _ a Collection of over 40 Selected Best Illustrations _ High Quality"
+    },
+    {
+      "author_key": [
+        "OL10801871A"
+      ],
+      "author_name": [
+        "Jason Morin"
+      ],
+      "ebook_access": "no_ebook",
+      "edition_count": 1,
+      "first_publish_year": 2022,
+      "has_fulltext": false,
+      "key": "/works/OL29201355W",
+      "language": [
+        "eng"
+      ],
+      "public_scan_b": false,
+      "title": "Lord of Τhe Rings - the BEST of - Coloring Book - EXCLUSIVE EDITION - a Collection of over 40 Selected Best Illustrations - High Quality"
+    },
+    {
+      "author_key": [
+        "OL11803460A"
+      ],
+      "author_name": [
+        "Sam Streeter"
+      ],
+      "ebook_access": "no_ebook",
+      "edition_count": 1,
+      "first_publish_year": 2022,
+      "has_fulltext": false,
+      "key": "/works/OL32535930W",
+      "language": [
+        "eng"
+      ],
+      "public_scan_b": false,
+      "title": "Τolkien's World Coloring Book - EXCLUSIVE EDITION - a Collection of over 40 Selected Best Illustrations Inspired by the Lord of Τhe Rings And Нobbit"
+    },
+    {
+      "author_key": [
+        "OL11956047A"
+      ],
+      "author_name": [
+        "McAlpin Collection of British History and Theology (Burke Library at Union Theological Seminary)"
+      ],
+      "ebook_access": "no_ebook",
+      "edition_count": 1,
+      "first_publish_year": 1642,
+      "has_fulltext": false,
+      "key": "/works/OL32962032W",
+      "language": [
+        "eng"
+      ],
+      "public_scan_b": false,
+      "title": "A Declaration Of The Lords and Commons Assembled in Parliament, For the speedy putting this City into a posture of defence, and to fortifie all the passages into the same, Divers Rebels, Traytors, and other il-affected people, in pursuit of a wicked designe to alter Religion, being now marching against the Parliament for de- struction of the same, and of the City of London. Also, an Ordinance of both Houses, decla- ring their Resolutions of making provision for those that shall be maimed in this present war, who are in the service of the Parliament; and for the wives and children of those that that shall be slaine. ... (5 lines)"
+    }
+  ]
+}

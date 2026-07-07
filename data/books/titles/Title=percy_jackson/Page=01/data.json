@@ -1,0 +1,1861 @@
+{
+  "numFound": 128,
+  "start": 0,
+  "numFoundExact": true,
+  "num_found": 128,
+  "documentation_url": "https://openlibrary.org/dev/docs/api/search",
+  "q": "",
+  "offset": null,
+  "docs": [
+    {
+      "author_key": [
+        "OL30765A"
+      ],
+      "author_name": [
+        "Rick Riordan"
+      ],
+      "cover_edition_key": "OL25892486M",
+      "cover_i": 7396660,
+      "ebook_access": "borrowable",
+      "edition_count": 27,
+      "first_publish_year": 2006,
+      "has_fulltext": true,
+      "ia": [
+        "percyjacksongree0000rior_h6c7",
+        "percyjacksongree0000rior",
+        "percyjacksonsgre0000unse",
+        "percyjacksongree0000rior_q8j0",
+        "percyjacksonsgre0000rior"
+      ],
+      "ia_collection": [
+        "cnusd-ol",
+        "delawarecountydistrictlibrary-ol",
+        "framingham-ol",
+        "goffstownlibrary-ol",
+        "hamiltonpubliclibrary-ol",
+        "inlibrary",
+        "internetarchivebooks",
+        "openlibrary-d-ol",
+        "printdisabled",
+        "rochester-ol",
+        "worthingtonlibraries-ol"
+      ],
+      "key": "/works/OL17054790W",
+      "language": [
+        "cat",
+        "por",
+        "pol",
+        "tur",
+        "eng",
+        "spa"
+      ],
+      "lending_edition_s": "OL32782884M",
+      "lending_identifier_s": "percyjacksongree0000rior_h6c7",
+      "public_scan_b": false,
+      "title": "Percy Jackson's Greek Gods"
+    },
+    {
+      "author_key": [
+        "OL30765A"
+      ],
+      "author_name": [
+        "Rick Riordan"
+      ],
+      "cover_edition_key": "OL27078468M",
+      "cover_i": 13012029,
+      "ebook_access": "borrowable",
+      "edition_count": 18,
+      "first_publish_year": 2015,
+      "has_fulltext": true,
+      "ia": [
+        "percyjacksonetle0000rior",
+        "percyjacksongree0000rior_v4g2",
+        "percyjacksonylos0000rior",
+        "percyjacksonsgre0000rior_m1s5",
+        "percyjacksonsgre0000rior_p3j3",
+        "percyjacksonsgre0000rior_z0w2",
+        "percyjacksongree0000rior_w2m0"
+      ],
+      "ia_collection": [
+        "cnusd-ol",
+        "gwulibraries-ol",
+        "hamiltonpubliclibrary-ol",
+        "inlibrary",
+        "internetarchivebooks",
+        "printdisabled",
+        "uni-ol",
+        "worthingtonlibraries-ol"
+      ],
+      "key": "/works/OL19669249W",
+      "language": [
+        "cat",
+        "pol",
+        "tur",
+        "eng",
+        "fre",
+        "spa"
+      ],
+      "lending_edition_s": "OL37767544M",
+      "lending_identifier_s": "percyjacksonetle0000rior",
+      "public_scan_b": false,
+      "title": "Percy Jackson's Greek heroes"
+    },
+    {
+      "author_key": [
+        "OL7828467A"
+      ],
+      "author_name": [
+        "Mary-Jane Knight"
+      ],
+      "cover_i": 6307924,
+      "ebook_access": "printdisabled",
+      "edition_count": 2,
+      "first_publish_year": 2010,
+      "has_fulltext": true,
+      "ia": [
+        "percyjacksonoly00rick"
+      ],
+      "ia_collection": [
+        "cnusd-ol",
+        "delawarecountydistrictlibrary-ol",
+        "internetarchivebooks",
+        "miltonpubliclibrary-ol",
+        "printdisabled"
+      ],
+      "key": "/works/OL17685821W",
+      "language": [
+        "eng"
+      ],
+      "public_scan_b": false,
+      "subtitle": "The Ultimate Guide",
+      "title": "Percy Jackson & the Olympians"
+    },
+    {
+      "author_key": [
+        "OL30765A"
+      ],
+      "author_name": [
+        "Rick Riordan"
+      ],
+      "cover_edition_key": "OL57576883M",
+      "cover_i": 15110536,
+      "ebook_access": "no_ebook",
+      "edition_count": 7,
+      "first_publish_year": 2024,
+      "has_fulltext": false,
+      "key": "/works/OL37833676W",
+      "language": [
+        "pol",
+        "eng",
+        "spa"
+      ],
+      "public_scan_b": false,
+      "title": "Percy Jackson and the Olympians"
+    },
+    {
+      "author_key": [
+        "OL30765A",
+        "OL2626463A"
+      ],
+      "author_name": [
+        "Rick Riordan",
+        "John Rocco"
+      ],
+      "cover_edition_key": "OL24087456M",
+      "cover_i": 6304834,
+      "ebook_access": "no_ebook",
+      "edition_count": 13,
+      "first_publish_year": 2009,
+      "has_fulltext": false,
+      "key": "/works/OL14955042W",
+      "language": [
+        "eng",
+        "fre"
+      ],
+      "public_scan_b": false,
+      "subtitle": "Books 1 - 5",
+      "title": "Percy Jackson and the Olympians Hardcover Boxed Set"
+    },
+    {
+      "author_key": [
+        "OL30765A"
+      ],
+      "author_name": [
+        "Rick Riordan"
+      ],
+      "cover_edition_key": "OL27320503M",
+      "cover_i": 8788886,
+      "ebook_access": "no_ebook",
+      "edition_count": 1,
+      "first_publish_year": 2019,
+      "has_fulltext": false,
+      "key": "/works/OL20140658W",
+      "language": [
+        "eng"
+      ],
+      "public_scan_b": false,
+      "title": "Percy Jackson Demigod Collection"
+    },
+    {
+      "author_key": [
+        "OL30765A"
+      ],
+      "author_name": [
+        "Rick Riordan"
+      ],
+      "cover_i": 8597962,
+      "ebook_access": "printdisabled",
+      "edition_count": 4,
+      "first_publish_year": 2013,
+      "has_fulltext": true,
+      "ia": [
+        "percyjacksonsing0000rior"
+      ],
+      "ia_collection": [
+        "internetarchivebooks",
+        "printdisabled"
+      ],
+      "key": "/works/OL19794412W",
+      "language": [
+        "eng"
+      ],
+      "public_scan_b": false,
+      "subtitle": "World Book Day 2019",
+      "title": "Percy Jackson and the Singer of Apollo"
+    },
+    {
+      "author_key": [
+        "OL9832280A"
+      ],
+      "author_name": [
+        "Sims ANN"
+      ],
+      "ebook_access": "no_ebook",
+      "edition_count": 1,
+      "first_publish_year": 2021,
+      "has_fulltext": false,
+      "key": "/works/OL26033878W",
+      "language": [
+        "eng"
+      ],
+      "public_scan_b": false,
+      "title": "Percy Jackson Quizzes : Percy Jackson Trivia"
+    },
+    {
+      "author_key": [
+        "OL30765A"
+      ],
+      "author_name": [
+        "Rick Riordan"
+      ],
+      "cover_i": 10795329,
+      "ebook_access": "no_ebook",
+      "edition_count": 1,
+      "first_publish_year": 2010,
+      "has_fulltext": false,
+      "key": "/works/OL24291333W",
+      "language": [
+        "fre"
+      ],
+      "public_scan_b": false,
+      "title": "Percy Jackson"
+    },
+    {
+      "author_key": [
+        "OL30765A"
+      ],
+      "author_name": [
+        "Rick Riordan"
+      ],
+      "ebook_access": "no_ebook",
+      "edition_count": 2,
+      "first_publish_year": 2005,
+      "has_fulltext": false,
+      "key": "/works/OL21855928W",
+      "public_scan_b": false,
+      "title": "percy jackson and the lightning theif"
+    },
+    {
+      "author_key": [
+        "OL7827667A"
+      ],
+      "author_name": [
+        "Rick riordhan"
+      ],
+      "ebook_access": "no_ebook",
+      "edition_count": 1,
+      "first_publish_year": 2013,
+      "has_fulltext": false,
+      "key": "/works/OL20658324W",
+      "public_scan_b": false,
+      "title": "Percy jackson"
+    },
+    {
+      "ebook_access": "no_ebook",
+      "edition_count": 1,
+      "first_publish_year": 2010,
+      "has_fulltext": false,
+      "key": "/works/OL17723709W",
+      "public_scan_b": false,
+      "title": "Percy jackson"
+    },
+    {
+      "author_key": [
+        "OL30765A"
+      ],
+      "author_name": [
+        "Rick Riordan"
+      ],
+      "cover_edition_key": "OL32199398M",
+      "cover_i": 10848711,
+      "ebook_access": "no_ebook",
+      "edition_count": 1,
+      "has_fulltext": false,
+      "key": "/works/OL24328092W",
+      "public_scan_b": false,
+      "subtitle": "The Lightning Thief / The Last Olympian / The Titans Curse / The Sea of Monsters / The Battle of the Labyrinth / The Demigod File",
+      "title": "Percy Jackson and the Olympians Collection"
+    },
+    {
+      "author_key": [
+        "OL30765A"
+      ],
+      "author_name": [
+        "Rick Riordan"
+      ],
+      "cover_edition_key": "OL30373601M",
+      "cover_i": 10451900,
+      "ebook_access": "no_ebook",
+      "edition_count": 1,
+      "first_publish_year": 2009,
+      "has_fulltext": false,
+      "key": "/works/OL22298317W",
+      "language": [
+        "eng"
+      ],
+      "public_scan_b": false,
+      "title": "Percy Jackson & the Olympians"
+    },
+    {
+      "author_key": [
+        "OL433234A",
+        "OL30765A"
+      ],
+      "author_name": [
+        "Terry Deary",
+        "Rick Riordan"
+      ],
+      "cover_i": 8468992,
+      "ebook_access": "borrowable",
+      "edition_count": 1,
+      "first_publish_year": 2009,
+      "has_fulltext": true,
+      "ia": [
+        "percyjacksonswor0000rior"
+      ],
+      "ia_collection": [
+        "inlibrary",
+        "internetarchivebooks",
+        "printdisabled"
+      ],
+      "key": "/works/OL19354995W",
+      "language": [
+        "eng"
+      ],
+      "lending_edition_s": "OL26811424M",
+      "lending_identifier_s": "percyjacksonswor0000rior",
+      "public_scan_b": false,
+      "title": "Horrible Histories - Groovy Greeks / Percy Jackson and the Sword of Hades"
+    },
+    {
+      "author_key": [
+        "OL30765A"
+      ],
+      "author_name": [
+        "Rick Riordan"
+      ],
+      "cover_edition_key": "OL46545388M",
+      "cover_i": 13317995,
+      "ebook_access": "no_ebook",
+      "edition_count": 3,
+      "first_publish_year": 2008,
+      "has_fulltext": false,
+      "key": "/works/OL24357177W",
+      "language": [
+        "eng"
+      ],
+      "public_scan_b": false,
+      "title": "Percy Jackson and the Olympians, Books I-III"
+    },
+    {
+      "author_key": [
+        "OL30765A"
+      ],
+      "author_name": [
+        "Rick Riordan"
+      ],
+      "cover_edition_key": "OL51347373M",
+      "cover_i": 14861135,
+      "ebook_access": "no_ebook",
+      "edition_count": 2,
+      "first_publish_year": 2023,
+      "has_fulltext": false,
+      "key": "/works/OL37936592W",
+      "language": [
+        "eng"
+      ],
+      "public_scan_b": false,
+      "title": "Percy Jackson and the Olympians"
+    },
+    {
+      "author_key": [
+        "OL10473552A"
+      ],
+      "author_name": [
+        "Stumpf ADAM"
+      ],
+      "ebook_access": "no_ebook",
+      "edition_count": 1,
+      "first_publish_year": 2021,
+      "has_fulltext": false,
+      "key": "/works/OL28095420W",
+      "language": [
+        "eng"
+      ],
+      "public_scan_b": false,
+      "title": "Percy Jackson Quizzes"
+    },
+    {
+      "author_key": [
+        "OL5130425A"
+      ],
+      "author_name": [
+        "Leigh Olsen"
+      ],
+      "cover_edition_key": "OL27403246M",
+      "cover_i": 8865583,
+      "ebook_access": "borrowable",
+      "edition_count": 2,
+      "first_publish_year": 2017,
+      "has_fulltext": true,
+      "ia": [
+        "percyjacksonmadl0000olse"
+      ],
+      "ia_collection": [
+        "inlibrary",
+        "internetarchivebooks",
+        "printdisabled"
+      ],
+      "key": "/works/OL20214130W",
+      "language": [
+        "eng"
+      ],
+      "lending_edition_s": "OL27403246M",
+      "lending_identifier_s": "percyjacksonmadl0000olse",
+      "public_scan_b": false,
+      "title": "Percy Jackson Mad Libs"
+    },
+    {
+      "cover_edition_key": "OL51259842M",
+      "cover_i": 14596377,
+      "ebook_access": "no_ebook",
+      "edition_count": 1,
+      "first_publish_year": 2023,
+      "has_fulltext": false,
+      "key": "/works/OL37916844W",
+      "public_scan_b": false,
+      "subtitle": "El mar de los monstruos",
+      "title": "Percy Jackson"
+    },
+    {
+      "author_key": [
+        "OL9803855A"
+      ],
+      "author_name": [
+        "Perkins BRIDGET"
+      ],
+      "ebook_access": "no_ebook",
+      "edition_count": 1,
+      "first_publish_year": 2021,
+      "has_fulltext": false,
+      "key": "/works/OL25929009W",
+      "language": [
+        "eng"
+      ],
+      "public_scan_b": false,
+      "title": "Percy Jackson Trivia Questions : Percy Jackson Knowledge Quiz"
+    },
+    {
+      "ebook_access": "no_ebook",
+      "edition_count": 1,
+      "first_publish_year": 2005,
+      "has_fulltext": false,
+      "key": "/works/OL21495180W",
+      "public_scan_b": false,
+      "title": "Percy Jackson y el ladrón del rayo"
+    },
+    {
+      "author_key": [
+        "OL2639286A"
+      ],
+      "author_name": [
+        "Rick Parker"
+      ],
+      "cover_i": 7792560,
+      "ebook_access": "no_ebook",
+      "edition_count": 1,
+      "first_publish_year": 2011,
+      "has_fulltext": false,
+      "key": "/works/OL17545461W",
+      "public_scan_b": false,
+      "title": "Percy Jackson And The Ovolactovegetarians"
+    },
+    {
+      "author_key": [
+        "OL10411923A"
+      ],
+      "author_name": [
+        "Stephanie McKethan"
+      ],
+      "ebook_access": "no_ebook",
+      "edition_count": 1,
+      "first_publish_year": 2021,
+      "has_fulltext": false,
+      "key": "/works/OL31015612W",
+      "language": [
+        "eng"
+      ],
+      "public_scan_b": false,
+      "title": "Percy Jackson"
+    },
+    {
+      "author_key": [
+        "OL9924471A",
+        "OL7629835A",
+        "OL7354349A"
+      ],
+      "author_name": [
+        "Sarah Ellen Burt",
+        "Debbie Ridgard",
+        "Sally Burt"
+      ],
+      "ebook_access": "no_ebook",
+      "edition_count": 1,
+      "first_publish_year": 2016,
+      "has_fulltext": false,
+      "key": "/works/OL34333042W",
+      "language": [
+        "eng"
+      ],
+      "public_scan_b": false,
+      "title": "Percy Jackson and the Lightning Thief"
+    },
+    {
+      "author_key": [
+        "OL30765A"
+      ],
+      "author_name": [
+        "Rick Riordan"
+      ],
+      "ebook_access": "no_ebook",
+      "edition_count": 1,
+      "first_publish_year": 2010,
+      "has_fulltext": false,
+      "key": "/works/OL16574594W",
+      "public_scan_b": false,
+      "title": "percy jackson and the olympians the lighning thief"
+    },
+    {
+      "author_key": [
+        "OL10368694A"
+      ],
+      "author_name": [
+        "Ken Cooke"
+      ],
+      "ebook_access": "no_ebook",
+      "edition_count": 1,
+      "first_publish_year": 2010,
+      "has_fulltext": false,
+      "key": "/works/OL27786565W",
+      "language": [
+        "eng"
+      ],
+      "public_scan_b": false,
+      "title": "Percy Jackson's"
+    },
+    {
+      "author_key": [
+        "OL30765A"
+      ],
+      "author_name": [
+        "Rick Riordan"
+      ],
+      "ebook_access": "no_ebook",
+      "edition_count": 1,
+      "first_publish_year": 2010,
+      "has_fulltext": false,
+      "key": "/works/OL16795309W",
+      "language": [
+        "eng"
+      ],
+      "public_scan_b": false,
+      "title": "PERCY JACKSON DEMI GOD FILES"
+    },
+    {
+      "author_key": [
+        "OL30765A",
+        "OL4309666A"
+      ],
+      "author_name": [
+        "Rick Riordan",
+        "Keith Robinson"
+      ],
+      "cover_edition_key": "OL29749807M",
+      "cover_i": 14858940,
+      "ebook_access": "no_ebook",
+      "edition_count": 1,
+      "first_publish_year": 2017,
+      "has_fulltext": false,
+      "key": "/works/OL21831283W",
+      "language": [
+        "eng"
+      ],
+      "public_scan_b": false,
+      "title": "Percy Jackson and the Olympians the Percy Jackson Coloring Book"
+    },
+    {
+      "author_key": [
+        "OL10202806A"
+      ],
+      "author_name": [
+        "Giesela Wetzel"
+      ],
+      "ebook_access": "no_ebook",
+      "edition_count": 1,
+      "first_publish_year": 2020,
+      "has_fulltext": false,
+      "key": "/works/OL27270266W",
+      "language": [
+        "ger"
+      ],
+      "public_scan_b": false,
+      "title": "Percy Jackson Malbuch"
+    },
+    {
+      "author_key": [
+        "OL30765A"
+      ],
+      "author_name": [
+        "Rick Riordan"
+      ],
+      "cover_edition_key": "OL31848674M",
+      "cover_i": 10540116,
+      "ebook_access": "no_ebook",
+      "edition_count": 1,
+      "first_publish_year": 2016,
+      "has_fulltext": false,
+      "key": "/works/OL24142447W",
+      "public_scan_b": false,
+      "title": "Il ladro di fulmini. Percy Jackson e gli dei dell'Olimpo"
+    },
+    {
+      "author_key": [
+        "OL11332462A"
+      ],
+      "author_name": [
+        "Hironaka Kawanari"
+      ],
+      "ebook_access": "no_ebook",
+      "edition_count": 2,
+      "first_publish_year": 2021,
+      "has_fulltext": false,
+      "key": "/works/OL31023173W",
+      "language": [
+        "eng"
+      ],
+      "public_scan_b": false,
+      "title": "Percy Jackson Trivia Book"
+    },
+    {
+      "author_key": [
+        "OL8521739A"
+      ],
+      "author_name": [
+        "Staci Verdun"
+      ],
+      "ebook_access": "no_ebook",
+      "edition_count": 1,
+      "first_publish_year": 2020,
+      "has_fulltext": false,
+      "key": "/works/OL30571514W",
+      "language": [
+        "ger"
+      ],
+      "public_scan_b": false,
+      "title": "Percy Jackson Malbuch"
+    },
+    {
+      "author_key": [
+        "OL9804111A"
+      ],
+      "author_name": [
+        "Tyree JESSICA"
+      ],
+      "ebook_access": "no_ebook",
+      "edition_count": 1,
+      "first_publish_year": 2021,
+      "has_fulltext": false,
+      "key": "/works/OL36136936W",
+      "language": [
+        "eng"
+      ],
+      "public_scan_b": false,
+      "title": "Percy Jackson Trivia : Percy Jackson Facts and Quizzes"
+    },
+    {
+      "author_key": [
+        "OL13702314A"
+      ],
+      "author_name": [
+        "Stephen Eastment"
+      ],
+      "ebook_access": "no_ebook",
+      "edition_count": 2,
+      "first_publish_year": 2014,
+      "has_fulltext": false,
+      "key": "/works/OL38158492W",
+      "language": [
+        "eng"
+      ],
+      "public_scan_b": false,
+      "title": "Percy Jackson"
+    },
+    {
+      "author_key": [
+        "OL10678453A"
+      ],
+      "author_name": [
+        "Clifford Ostane"
+      ],
+      "ebook_access": "no_ebook",
+      "edition_count": 1,
+      "first_publish_year": 2022,
+      "has_fulltext": false,
+      "key": "/works/OL28913124W",
+      "language": [
+        "eng"
+      ],
+      "public_scan_b": false,
+      "title": "Percy Jackson Trivia Quiz"
+    },
+    {
+      "author_key": [
+        "OL9655841A"
+      ],
+      "author_name": [
+        "Prewitt AMBER"
+      ],
+      "ebook_access": "no_ebook",
+      "edition_count": 1,
+      "first_publish_year": 2021,
+      "has_fulltext": false,
+      "key": "/works/OL25585188W",
+      "language": [
+        "eng"
+      ],
+      "public_scan_b": false,
+      "title": "Percy Jackson Trivia Quiz : Percy Jackson Questions and Answers"
+    },
+    {
+      "author_key": [
+        "OL7909593A"
+      ],
+      "author_name": [
+        "Summer Baker"
+      ],
+      "ebook_access": "no_ebook",
+      "edition_count": 3,
+      "first_publish_year": 2020,
+      "has_fulltext": false,
+      "key": "/works/OL21943408W",
+      "language": [
+        "eng"
+      ],
+      "public_scan_b": false,
+      "title": "Percy Jackson Coloring Book"
+    },
+    {
+      "ebook_access": "no_ebook",
+      "edition_count": 1,
+      "first_publish_year": 1999,
+      "has_fulltext": false,
+      "key": "/works/OL15019405W",
+      "public_scan_b": false,
+      "subtitle": "El Ladrón Del Rayo",
+      "title": "Percy Jackson Y Los Dioses Del Olimpo"
+    },
+    {
+      "author_key": [
+        "OL14601959A"
+      ],
+      "author_name": [
+        "Artemis Blaziken"
+      ],
+      "ebook_access": "no_ebook",
+      "edition_count": 1,
+      "first_publish_year": 2016,
+      "has_fulltext": false,
+      "key": "/works/OL41068549W",
+      "language": [
+        "eng"
+      ],
+      "public_scan_b": false,
+      "title": "PERCY JACKSON"
+    },
+    {
+      "author_key": [
+        "OL2659537A"
+      ],
+      "author_name": [
+        "Peter James"
+      ],
+      "ebook_access": "no_ebook",
+      "edition_count": 1,
+      "first_publish_year": 2017,
+      "has_fulltext": false,
+      "key": "/works/OL41167188W",
+      "language": [
+        "eng"
+      ],
+      "public_scan_b": false,
+      "title": "Percy Jackson"
+    },
+    {
+      "author_key": [
+        "OL14424125A"
+      ],
+      "author_name": [
+        "Wacko"
+      ],
+      "ebook_access": "no_ebook",
+      "edition_count": 1,
+      "first_publish_year": 2017,
+      "has_fulltext": false,
+      "key": "/works/OL40177949W",
+      "language": [
+        "eng"
+      ],
+      "public_scan_b": false,
+      "title": "Percy Jackson"
+    },
+    {
+      "author_key": [
+        "OL30765A"
+      ],
+      "author_name": [
+        "Rick Riordan"
+      ],
+      "cover_edition_key": "OL61423800M",
+      "cover_i": 15191827,
+      "ebook_access": "printdisabled",
+      "edition_count": 1,
+      "first_publish_year": 2024,
+      "has_fulltext": true,
+      "ia": [
+        "isbn_9781368112383"
+      ],
+      "ia_collection": [
+        "internetarchivebooks",
+        "printdisabled"
+      ],
+      "key": "/works/OL45025627W",
+      "language": [
+        "eng"
+      ],
+      "public_scan_b": false,
+      "title": "Percy Jackson"
+    },
+    {
+      "author_key": [
+        "OL11257632A"
+      ],
+      "author_name": [
+        "Zach Walsh"
+      ],
+      "ebook_access": "no_ebook",
+      "edition_count": 3,
+      "first_publish_year": 2020,
+      "has_fulltext": false,
+      "key": "/works/OL31004340W",
+      "language": [
+        "eng"
+      ],
+      "public_scan_b": false,
+      "title": "Percy Jackson Color by Number"
+    },
+    {
+      "author_key": [
+        "OL14505465A"
+      ],
+      "author_name": [
+        "Plutos Plutos D."
+      ],
+      "ebook_access": "no_ebook",
+      "edition_count": 3,
+      "first_publish_year": 2016,
+      "has_fulltext": false,
+      "key": "/works/OL40573655W",
+      "language": [
+        "eng"
+      ],
+      "public_scan_b": false,
+      "title": "Percy Jackson and the Olympians"
+    },
+    {
+      "author_key": [
+        "OL8521739A"
+      ],
+      "author_name": [
+        "Staci Verdun"
+      ],
+      "ebook_access": "no_ebook",
+      "edition_count": 1,
+      "first_publish_year": 2020,
+      "has_fulltext": false,
+      "key": "/works/OL30571534W",
+      "language": [
+        "ita"
+      ],
+      "public_scan_b": false,
+      "title": "Percy Jackson Libro Da Colorare"
+    },
+    {
+      "ebook_access": "borrowable",
+      "edition_count": 1,
+      "first_publish_year": 2011,
+      "has_fulltext": true,
+      "ia": [
+        "percyjacksonoact0000na"
+      ],
+      "ia_collection": [
+        "inlibrary",
+        "internetarchivebooks",
+        "printdisabled"
+      ],
+      "key": "/works/OL33996906W",
+      "lending_edition_s": "OL45990536M",
+      "lending_identifier_s": "percyjacksonoact0000na",
+      "public_scan_b": false,
+      "title": "Percy Jackson and the Oactovegetarians"
+    },
+    {
+      "author_key": [
+        "OL13751908A"
+      ],
+      "author_name": [
+        "Jay Menon"
+      ],
+      "ebook_access": "no_ebook",
+      "edition_count": 1,
+      "first_publish_year": 2015,
+      "has_fulltext": false,
+      "key": "/works/OL38232796W",
+      "language": [
+        "eng"
+      ],
+      "public_scan_b": false,
+      "title": "Percy Jackson and Kane Chronicles"
+    },
+    {
+      "author_key": [
+        "OL1371564A"
+      ],
+      "author_name": [
+        "Sam Johnson"
+      ],
+      "ebook_access": "no_ebook",
+      "edition_count": 2,
+      "first_publish_year": 2021,
+      "has_fulltext": false,
+      "key": "/works/OL28693501W",
+      "language": [
+        "eng"
+      ],
+      "public_scan_b": false,
+      "title": "Percy Jackson Puzzle Book"
+    },
+    {
+      "author_key": [
+        "OL9312843A"
+      ],
+      "author_name": [
+        "Mattie Hamby"
+      ],
+      "ebook_access": "no_ebook",
+      "edition_count": 1,
+      "first_publish_year": 2019,
+      "has_fulltext": false,
+      "key": "/works/OL30114817W",
+      "language": [
+        "eng"
+      ],
+      "public_scan_b": false,
+      "title": "Study Guide for Percy Jackson the Lightning Thief"
+    },
+    {
+      "author_key": [
+        "OL9803473A"
+      ],
+      "author_name": [
+        "Franklin WILNARDRICK"
+      ],
+      "ebook_access": "no_ebook",
+      "edition_count": 2,
+      "first_publish_year": 2021,
+      "has_fulltext": false,
+      "key": "/works/OL36122538W",
+      "language": [
+        "eng"
+      ],
+      "public_scan_b": false,
+      "title": "Percy Jackson Quizzes : How Well Do You Understand the Percy Jackson"
+    },
+    {
+      "cover_edition_key": "OL27317381M",
+      "cover_i": 8787042,
+      "ebook_access": "no_ebook",
+      "edition_count": 1,
+      "has_fulltext": false,
+      "key": "/works/OL20137434W",
+      "public_scan_b": false,
+      "title": "Percy Jackson in: Diebe im Olymp"
+    },
+    {
+      "author_key": [
+        "OL11250392A"
+      ],
+      "author_name": [
+        "Sunyat Vang"
+      ],
+      "ebook_access": "no_ebook",
+      "edition_count": 1,
+      "first_publish_year": 2020,
+      "has_fulltext": false,
+      "key": "/works/OL30812789W",
+      "language": [
+        "ger"
+      ],
+      "public_scan_b": false,
+      "title": "Percy Jackson Malbuch"
+    },
+    {
+      "author_key": [
+        "OL2965820A"
+      ],
+      "author_name": [
+        "[author not identified]"
+      ],
+      "cover_edition_key": "OL32063574M",
+      "cover_i": 10720905,
+      "ebook_access": "no_ebook",
+      "edition_count": 1,
+      "first_publish_year": 2014,
+      "has_fulltext": false,
+      "key": "/works/OL24241866W",
+      "public_scan_b": false,
+      "title": "Percy Jackson e Os Olimpianos - Vol 5 (Ed. Especia"
+    },
+    {
+      "cover_edition_key": "OL27306887M",
+      "cover_i": 8779613,
+      "ebook_access": "no_ebook",
+      "edition_count": 1,
+      "has_fulltext": false,
+      "key": "/works/OL20126912W",
+      "public_scan_b": false,
+      "title": "De zee van monsters (Percy Jackson en de Olympiërs)"
+    },
+    {
+      "author_key": [
+        "OL10026790A"
+      ],
+      "author_name": [
+        "Oliver ANDREW"
+      ],
+      "ebook_access": "no_ebook",
+      "edition_count": 1,
+      "first_publish_year": 2021,
+      "has_fulltext": false,
+      "key": "/works/OL36405773W",
+      "language": [
+        "eng"
+      ],
+      "public_scan_b": false,
+      "title": "Percy Jackson Trivia : Questions and Answers about Percy Jackson"
+    },
+    {
+      "author_key": [
+        "OL10115301A"
+      ],
+      "author_name": [
+        "DOUGLAS-NAGASAWA CORA"
+      ],
+      "ebook_access": "no_ebook",
+      "edition_count": 1,
+      "first_publish_year": 2021,
+      "has_fulltext": false,
+      "key": "/works/OL26961342W",
+      "language": [
+        "eng"
+      ],
+      "public_scan_b": false,
+      "title": "Percy Jackson Trivia Quiz : Percy Jackson Questions and Answers"
+    },
+    {
+      "ebook_access": "no_ebook",
+      "edition_count": 1,
+      "has_fulltext": false,
+      "key": "/works/OL32028110W",
+      "public_scan_b": false,
+      "title": "Percy Jackson and the Olympians Collection Rick Riordan 5 Books Set by Rick Riordan"
+    },
+    {
+      "cover_edition_key": "OL16731627M",
+      "cover_i": 5350618,
+      "ebook_access": "no_ebook",
+      "edition_count": 1,
+      "first_publish_year": 2007,
+      "has_fulltext": false,
+      "key": "/works/OL24110288W",
+      "language": [
+        "eng"
+      ],
+      "public_scan_b": false,
+      "title": "History of the Percy Jackson Grammar School"
+    },
+    {
+      "cover_edition_key": "OL26501715M",
+      "cover_i": 8258612,
+      "ebook_access": "no_ebook",
+      "edition_count": 1,
+      "first_publish_year": 2018,
+      "has_fulltext": false,
+      "key": "/works/OL17929661W",
+      "public_scan_b": false,
+      "title": "Magos y Semidioses. Percy Jackson se une a los Kane"
+    },
+    {
+      "author_key": [
+        "OL30765A"
+      ],
+      "author_name": [
+        "Rick Riordan"
+      ],
+      "cover_edition_key": "OL32905746M",
+      "cover_i": 11533634,
+      "ebook_access": "no_ebook",
+      "edition_count": 1,
+      "first_publish_year": 2020,
+      "has_fulltext": false,
+      "key": "/works/OL24777884W",
+      "public_scan_b": false,
+      "title": "Rick Riordan Collection 5 Books Set - Percy Jackson and The Greek Heroes, The Greek Gods, The Demigod Diaries, Demigods and Magicians, Singer of Apollo WBD 2019"
+    },
+    {
+      "author_key": [
+        "OL11212977A"
+      ],
+      "author_name": [
+        "Oriana Knight"
+      ],
+      "ebook_access": "no_ebook",
+      "edition_count": 1,
+      "first_publish_year": 2019,
+      "has_fulltext": false,
+      "key": "/works/OL30636154W",
+      "language": [
+        "eng"
+      ],
+      "public_scan_b": false,
+      "title": "Percy Jackson Colouring Book"
+    },
+    {
+      "author_key": [
+        "OL10320034A"
+      ],
+      "author_name": [
+        "Juan Munoz"
+      ],
+      "ebook_access": "no_ebook",
+      "edition_count": 1,
+      "first_publish_year": 2021,
+      "has_fulltext": false,
+      "key": "/works/OL31052368W",
+      "language": [
+        "eng"
+      ],
+      "public_scan_b": false,
+      "title": "Percy Jackson Coloring Book"
+    },
+    {
+      "author_key": [
+        "OL11266375A"
+      ],
+      "author_name": [
+        "stephanie shelton"
+      ],
+      "ebook_access": "no_ebook",
+      "edition_count": 1,
+      "first_publish_year": 2021,
+      "has_fulltext": false,
+      "key": "/works/OL30783716W",
+      "language": [
+        "eng"
+      ],
+      "public_scan_b": false,
+      "title": "Percy Jackson Trivia Book"
+    },
+    {
+      "author_key": [
+        "OL11252434A"
+      ],
+      "author_name": [
+        "Rocio SOLIS"
+      ],
+      "ebook_access": "no_ebook",
+      "edition_count": 1,
+      "first_publish_year": 2020,
+      "has_fulltext": false,
+      "key": "/works/OL35931920W",
+      "language": [
+        "eng"
+      ],
+      "public_scan_b": false,
+      "title": "Percy Jackson Book Trivia"
+    },
+    {
+      "author_key": [
+        "OL11257131A"
+      ],
+      "author_name": [
+        "Kim Scallorn"
+      ],
+      "ebook_access": "no_ebook",
+      "edition_count": 1,
+      "first_publish_year": 2021,
+      "has_fulltext": false,
+      "key": "/works/OL35754458W",
+      "language": [
+        "eng"
+      ],
+      "public_scan_b": false,
+      "title": "Percy Jackson Book Trivia"
+    },
+    {
+      "author_key": [
+        "OL10026267A"
+      ],
+      "author_name": [
+        "Dante Bagarinao"
+      ],
+      "ebook_access": "no_ebook",
+      "edition_count": 1,
+      "first_publish_year": 2021,
+      "has_fulltext": false,
+      "key": "/works/OL36373131W",
+      "language": [
+        "eng"
+      ],
+      "public_scan_b": false,
+      "title": "Percy Jackson Coloring Book"
+    },
+    {
+      "author_key": [
+        "OL13480403A"
+      ],
+      "author_name": [
+        "Brody Perry"
+      ],
+      "ebook_access": "no_ebook",
+      "edition_count": 1,
+      "first_publish_year": 2021,
+      "has_fulltext": false,
+      "key": "/works/OL37441470W",
+      "public_scan_b": false,
+      "title": "Percy Jackson Activity Book"
+    },
+    {
+      "author_key": [
+        "OL10680052A"
+      ],
+      "author_name": [
+        "Henry Maness"
+      ],
+      "ebook_access": "no_ebook",
+      "edition_count": 1,
+      "first_publish_year": 2022,
+      "has_fulltext": false,
+      "key": "/works/OL34218117W",
+      "language": [
+        "eng"
+      ],
+      "public_scan_b": false,
+      "title": "Percy Jackson Awesome Trivia"
+    },
+    {
+      "author_key": [
+        "OL10298710A"
+      ],
+      "author_name": [
+        "Mcinnis AMBER"
+      ],
+      "ebook_access": "no_ebook",
+      "edition_count": 1,
+      "first_publish_year": 2022,
+      "has_fulltext": false,
+      "key": "/works/OL27548223W",
+      "language": [
+        "eng"
+      ],
+      "public_scan_b": false,
+      "title": "Percy Jackson Trivia Book"
+    },
+    {
+      "author_key": [
+        "OL10022462A"
+      ],
+      "author_name": [
+        "Cartoon Coloring"
+      ],
+      "ebook_access": "no_ebook",
+      "edition_count": 1,
+      "first_publish_year": 2022,
+      "has_fulltext": false,
+      "key": "/works/OL28414104W",
+      "language": [
+        "eng"
+      ],
+      "public_scan_b": false,
+      "title": "Percy Jackson Coloring Book"
+    },
+    {
+      "author_key": [
+        "OL10327182A"
+      ],
+      "author_name": [
+        "Peacock MICHAEL"
+      ],
+      "ebook_access": "no_ebook",
+      "edition_count": 1,
+      "first_publish_year": 2022,
+      "has_fulltext": false,
+      "key": "/works/OL27658454W",
+      "language": [
+        "eng"
+      ],
+      "public_scan_b": false,
+      "title": "Ultimate Percy Jackson Quiz"
+    },
+    {
+      "author_key": [
+        "OL8395187A"
+      ],
+      "author_name": [
+        "Reuben Nisenfeld"
+      ],
+      "ebook_access": "no_ebook",
+      "edition_count": 1,
+      "first_publish_year": 2020,
+      "has_fulltext": false,
+      "key": "/works/OL22218447W",
+      "language": [
+        "eng"
+      ],
+      "public_scan_b": false,
+      "title": "Percy Jackson Book Trivia"
+    },
+    {
+      "author_key": [
+        "OL8521739A"
+      ],
+      "author_name": [
+        "Staci Verdun"
+      ],
+      "ebook_access": "no_ebook",
+      "edition_count": 1,
+      "first_publish_year": 2020,
+      "has_fulltext": false,
+      "key": "/works/OL22283508W",
+      "language": [
+        "eng"
+      ],
+      "public_scan_b": false,
+      "title": "Percy Jackson Coloring Book"
+    },
+    {
+      "author_key": [
+        "OL9659219A"
+      ],
+      "author_name": [
+        "Painting World!"
+      ],
+      "ebook_access": "no_ebook",
+      "edition_count": 2,
+      "first_publish_year": 2021,
+      "has_fulltext": false,
+      "key": "/works/OL31015835W",
+      "language": [
+        "eng"
+      ],
+      "public_scan_b": false,
+      "title": "Painting World! - Percy Jackson Coloring Book"
+    },
+    {
+      "cover_edition_key": "OL27306872M",
+      "cover_i": 8779598,
+      "ebook_access": "no_ebook",
+      "edition_count": 1,
+      "has_fulltext": false,
+      "key": "/works/OL20126897W",
+      "public_scan_b": false,
+      "title": "Percy Jackson en de andere helden / druk 1"
+    },
+    {
+      "author_key": [
+        "OL9803123A"
+      ],
+      "author_name": [
+        "Allen LACURSHA"
+      ],
+      "ebook_access": "no_ebook",
+      "edition_count": 1,
+      "first_publish_year": 2021,
+      "has_fulltext": false,
+      "key": "/works/OL36094285W",
+      "language": [
+        "eng"
+      ],
+      "public_scan_b": false,
+      "title": "Percy Jackson Trivia Quiz : How Well Do You Know Percy Jackson?"
+    },
+    {
+      "author_key": [
+        "OL9818447A"
+      ],
+      "author_name": [
+        "Andrei Carr"
+      ],
+      "ebook_access": "no_ebook",
+      "edition_count": 2,
+      "first_publish_year": 2021,
+      "has_fulltext": false,
+      "key": "/works/OL25985526W",
+      "language": [
+        "eng"
+      ],
+      "public_scan_b": false,
+      "title": "Quizzes Fun Facts Percy Jackson Trivia Book"
+    },
+    {
+      "author_key": [
+        "OL11175510A"
+      ],
+      "author_name": [
+        "The Lightning The Lightning Thief"
+      ],
+      "ebook_access": "no_ebook",
+      "edition_count": 2,
+      "first_publish_year": 2020,
+      "has_fulltext": false,
+      "key": "/works/OL30534232W",
+      "language": [
+        "eng"
+      ],
+      "public_scan_b": false,
+      "title": "Percy Jackson Dots Lines Spirals Coloring Book"
+    },
+    {
+      "author_key": [
+        "OL6748217A",
+        "OL12566704A"
+      ],
+      "author_name": [
+        "Rick Jordan",
+        "Itziar Zabala"
+      ],
+      "cover_edition_key": "OL47257346M",
+      "cover_i": 13706298,
+      "ebook_access": "no_ebook",
+      "edition_count": 1,
+      "first_publish_year": 2015,
+      "has_fulltext": false,
+      "key": "/works/OL34900516W",
+      "public_scan_b": false,
+      "title": "Percy Jackson& Olinpiarrak. Labirintoko borroka"
+    },
+    {
+      "author_key": [
+        "OL6748217A",
+        "OL1087803A"
+      ],
+      "author_name": [
+        "Rick Jordan",
+        "Koro Navarro"
+      ],
+      "cover_edition_key": "OL47257353M",
+      "cover_i": 13706310,
+      "ebook_access": "no_ebook",
+      "edition_count": 1,
+      "first_publish_year": 2013,
+      "has_fulltext": false,
+      "key": "/works/OL34900523W",
+      "public_scan_b": false,
+      "title": "Percy Jackson& Olinpiarrak. Tximistaren Lapurra"
+    },
+    {
+      "author_key": [
+        "OL12339225A"
+      ],
+      "author_name": [
+        "Chester Khan"
+      ],
+      "ebook_access": "no_ebook",
+      "edition_count": 1,
+      "first_publish_year": 2021,
+      "has_fulltext": false,
+      "key": "/works/OL34199967W",
+      "language": [
+        "eng"
+      ],
+      "public_scan_b": false,
+      "title": "Percy Jackson Horror Coloring Book"
+    },
+    {
+      "author_key": [
+        "OL10535245A"
+      ],
+      "author_name": [
+        "Tyeshia Watford"
+      ],
+      "ebook_access": "no_ebook",
+      "edition_count": 1,
+      "first_publish_year": 2022,
+      "has_fulltext": false,
+      "key": "/works/OL28411225W",
+      "language": [
+        "eng"
+      ],
+      "public_scan_b": false,
+      "title": "Percy Jackson Ultimate Trivia Challenge"
+    },
+    {
+      "author_key": [
+        "OL10675853A"
+      ],
+      "author_name": [
+        "Jeff Lester"
+      ],
+      "ebook_access": "no_ebook",
+      "edition_count": 1,
+      "first_publish_year": 2022,
+      "has_fulltext": false,
+      "key": "/works/OL28847849W",
+      "language": [
+        "eng"
+      ],
+      "public_scan_b": false,
+      "title": "Jeff Hades in Percy Jackson"
+    },
+    {
+      "author_key": [
+        "OL24244A"
+      ],
+      "author_name": [
+        "Stephanie True Peters"
+      ],
+      "cover_edition_key": "OL59288317M",
+      "cover_i": 15093951,
+      "ebook_access": "no_ebook",
+      "edition_count": 1,
+      "first_publish_year": 2025,
+      "has_fulltext": false,
+      "key": "/works/OL43499278W",
+      "public_scan_b": false,
+      "subtitle": "A Guide to Gods & Monsters",
+      "title": "Percy Jackson and the Olympians"
+    },
+    {
+      "author_key": [
+        "OL4451490A"
+      ],
+      "author_name": [
+        "Janet Russell"
+      ],
+      "ebook_access": "no_ebook",
+      "edition_count": 1,
+      "first_publish_year": 2022,
+      "has_fulltext": false,
+      "key": "/works/OL31165154W",
+      "language": [
+        "eng"
+      ],
+      "public_scan_b": false,
+      "title": "Percy Jackson Quizzes Challenge : Test Yourself If You Know about Percy Jackson"
+    },
+    {
+      "author_key": [
+        "OL9644585A"
+      ],
+      "author_name": [
+        "Tracie MOHLER"
+      ],
+      "ebook_access": "no_ebook",
+      "edition_count": 1,
+      "first_publish_year": 2021,
+      "has_fulltext": false,
+      "key": "/works/OL35808495W",
+      "language": [
+        "eng"
+      ],
+      "public_scan_b": false,
+      "title": "Percy Jackson Quizzes Challenge : Test Yourself If You Know about Percy Jackson"
+    },
+    {
+      "author_key": [
+        "OL9615611A"
+      ],
+      "author_name": [
+        "EDITH EVANS"
+      ],
+      "ebook_access": "no_ebook",
+      "edition_count": 1,
+      "first_publish_year": 2021,
+      "has_fulltext": false,
+      "key": "/works/OL35904456W",
+      "language": [
+        "eng"
+      ],
+      "public_scan_b": false,
+      "title": "Percy Jackson Trivia : All Percy Jackson Trivia Quizzes and Games for Fan"
+    },
+    {
+      "author_key": [
+        "OL10290332A"
+      ],
+      "author_name": [
+        "Selzer ARICA"
+      ],
+      "ebook_access": "no_ebook",
+      "edition_count": 1,
+      "first_publish_year": 2021,
+      "has_fulltext": false,
+      "key": "/works/OL34474057W",
+      "language": [
+        "eng"
+      ],
+      "public_scan_b": false,
+      "title": "Percy Jackson Trivia Quiz : How Well Do You Know about Percy Jackson ?"
+    },
+    {
+      "author_key": [
+        "OL9803182A"
+      ],
+      "author_name": [
+        "Raval YOGESH"
+      ],
+      "ebook_access": "no_ebook",
+      "edition_count": 1,
+      "first_publish_year": 2021,
+      "has_fulltext": false,
+      "key": "/works/OL36122794W",
+      "language": [
+        "eng"
+      ],
+      "public_scan_b": false,
+      "title": "Percy Jackson Ultimate Fan Quiz : Are You the Ultimate Percy Jackson Fan?"
+    },
+    {
+      "author_key": [
+        "OL9813807A"
+      ],
+      "author_name": [
+        "Mcmillian STACI"
+      ],
+      "ebook_access": "no_ebook",
+      "edition_count": 1,
+      "first_publish_year": 2021,
+      "has_fulltext": false,
+      "key": "/works/OL36103461W",
+      "language": [
+        "eng"
+      ],
+      "public_scan_b": false,
+      "title": "Percy Jackson Quizzes and Answers : How Well Do You Know Percy Jackson?"
+    },
+    {
+      "author_key": [
+        "OL9659219A"
+      ],
+      "author_name": [
+        "Painting World!"
+      ],
+      "ebook_access": "no_ebook",
+      "edition_count": 1,
+      "first_publish_year": 2021,
+      "has_fulltext": false,
+      "key": "/works/OL34400042W",
+      "language": [
+        "eng"
+      ],
+      "public_scan_b": false,
+      "title": "Painting World! - Percy Jackson Coloring Book"
+    },
+    {
+      "author_key": [
+        "OL6748217A",
+        "OL12566704A"
+      ],
+      "author_name": [
+        "Rick Jordan",
+        "Itziar Zabala"
+      ],
+      "cover_edition_key": "OL47257343M",
+      "cover_i": 13706295,
+      "ebook_access": "no_ebook",
+      "edition_count": 1,
+      "first_publish_year": 2016,
+      "has_fulltext": false,
+      "key": "/works/OL34900514W",
+      "public_scan_b": false,
+      "title": "Percy Jackson& Olinpiarrak. Olinpoko azken heroia"
+    },
+    {
+      "author_key": [
+        "OL10404677A"
+      ],
+      "author_name": [
+        "Whiz Bookz"
+      ],
+      "ebook_access": "no_ebook",
+      "edition_count": 1,
+      "first_publish_year": 2022,
+      "has_fulltext": false,
+      "key": "/works/OL27876436W",
+      "language": [
+        "eng"
+      ],
+      "public_scan_b": false,
+      "title": "Summary to Percy Jackson's Greek God"
+    },
+    {
+      "author_key": [
+        "OL10620912A"
+      ],
+      "author_name": [
+        "Jennifer Sink"
+      ],
+      "ebook_access": "no_ebook",
+      "edition_count": 1,
+      "first_publish_year": 2022,
+      "has_fulltext": false,
+      "key": "/works/OL28732826W",
+      "language": [
+        "eng"
+      ],
+      "public_scan_b": false,
+      "title": "Percy Jackson Amazing Quiz with Answer"
+    },
+    {
+      "author_key": [
+        "OL13712235A"
+      ],
+      "author_name": [
+        "Whizbooks"
+      ],
+      "ebook_access": "no_ebook",
+      "edition_count": 1,
+      "first_publish_year": 2018,
+      "has_fulltext": false,
+      "key": "/works/OL38280048W",
+      "language": [
+        "eng"
+      ],
+      "public_scan_b": false,
+      "title": "Summary of Percy Jackson's Greek Gods"
+    },
+    {
+      "author_key": [
+        "OL219851A"
+      ],
+      "author_name": [
+        "Julius Eric Thompson"
+      ],
+      "cover_edition_key": "OL1093569M",
+      "cover_i": 3877177,
+      "ebook_access": "no_ebook",
+      "edition_count": 1,
+      "first_publish_year": 1994,
+      "has_fulltext": false,
+      "key": "/works/OL1835963W",
+      "language": [
+        "eng"
+      ],
+      "public_scan_b": false,
+      "title": "Percy Greene and the Jackson advocate"
+    },
+    {
+      "author_key": [
+        "OL30765A"
+      ],
+      "author_name": [
+        "Rick Riordan"
+      ],
+      "ebook_access": "no_ebook",
+      "edition_count": 1,
+      "first_publish_year": 2025,
+      "has_fulltext": false,
+      "key": "/works/OL44554060W",
+      "language": [
+        "eng"
+      ],
+      "public_scan_b": false,
+      "title": "Percy Jackson and the Olympians Boxset"
+    },
+    {
+      "author_key": [
+        "OL16455957A"
+      ],
+      "author_name": [
+        "Rick Riordan"
+      ],
+      "ebook_access": "no_ebook",
+      "edition_count": 1,
+      "first_publish_year": 2021,
+      "has_fulltext": false,
+      "key": "/works/OL45620897W",
+      "language": [
+        "eng"
+      ],
+      "public_scan_b": false,
+      "title": "Percy Jackson 7-Book Box Set"
+    },
+    {
+      "author_key": [
+        "OL9615804A"
+      ],
+      "author_name": [
+        "Howell ETHAN"
+      ],
+      "ebook_access": "no_ebook",
+      "edition_count": 1,
+      "first_publish_year": 2021,
+      "has_fulltext": false,
+      "key": "/works/OL35962321W",
+      "language": [
+        "eng"
+      ],
+      "public_scan_b": false,
+      "title": "Percy Jackson Trivia : How Well Do You Know the Novel Percy Jackson and the Olympians"
+    }
+  ]
+}

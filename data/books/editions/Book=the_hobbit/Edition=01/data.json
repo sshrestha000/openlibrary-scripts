@@ -1,0 +1,45 @@
+{
+  "works": [
+    {
+      "key": "/works/OL27482W"
+    }
+  ],
+  "title": "Гобіт, або туди і звідти",
+  "publishers": [
+    "Астролябія"
+  ],
+  "publish_date": "2020",
+  "key": "/books/OL62190138M",
+  "type": {
+    "key": "/type/edition"
+  },
+  "identifiers": {},
+  "publish_places": [
+    "L'viv"
+  ],
+  "isbn_13": [
+    "9786176642145"
+  ],
+  "oclc_numbers": [
+    "1398513047"
+  ],
+  "languages": [
+    {
+      "key": "/languages/ukr"
+    }
+  ],
+  "translation_of": "The Hobbit",
+  "covers": [
+    15231842
+  ],
+  "latest_revision": 4,
+  "revision": 4,
+  "created": {
+    "type": "/type/datetime",
+    "value": "2026-06-22T10:46:02.681099"
+  },
+  "last_modified": {
+    "type": "/type/datetime",
+    "value": "2026-06-22T10:48:48.331648"
+  }
+}

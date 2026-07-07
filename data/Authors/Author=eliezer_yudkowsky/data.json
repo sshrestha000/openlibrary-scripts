@@ -1,0 +1,29 @@
+{
+  "name": "Eliezer Yudkowsky",
+  "key": "/authors/OL7288845A",
+  "type": {
+    "key": "/type/author"
+  },
+  "birth_date": "11 September 1979",
+  "remote_ids": {
+    "viaf": "1151594368605351858",
+    "wikidata": "Q704195"
+  },
+  "bio": {
+    "type": "/type/text",
+    "value": "American AI researcher and writer"
+  },
+  "photos": [
+    15136102
+  ],
+  "latest_revision": 4,
+  "revision": 4,
+  "created": {
+    "type": "/type/datetime",
+    "value": "2016-06-30T04:32:28.245917"
+  },
+  "last_modified": {
+    "type": "/type/datetime",
+    "value": "2025-10-26T12:55:13.766786"
+  }
+}

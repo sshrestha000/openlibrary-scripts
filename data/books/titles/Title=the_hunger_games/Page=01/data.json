@@ -1,0 +1,1911 @@
+{
+  "numFound": 87,
+  "start": 0,
+  "numFoundExact": true,
+  "num_found": 87,
+  "documentation_url": "https://openlibrary.org/dev/docs/api/search",
+  "q": "",
+  "offset": null,
+  "docs": [
+    {
+      "author_key": [
+        "OL1394359A"
+      ],
+      "author_name": [
+        "Suzanne Collins"
+      ],
+      "cover_edition_key": "OL37079404M",
+      "cover_i": 12646537,
+      "ebook_access": "borrowable",
+      "edition_count": 142,
+      "first_publish_year": 2008,
+      "has_fulltext": true,
+      "ia": [
+        "jieyouxi0000coll",
+        "hungergamessamsu0000suza",
+        "dehongerspelende0000suza",
+        "jieyouxii0001coll",
+        "losjuegosdelhamb0000coll",
+        "aclikoyunlari10000suza",
+        "elsjocsdelafami0001suza",
+        "losjuegosdelhamb0000coll_h5v5",
+        "hungergamesmovie0000suza",
+        "golodnyeigryknig0000coll",
+        "igrzyskasmierci0000coll",
+        "isbn_9781590272558",
+        "isbn_9789606665806",
+        "hungergames3volu0000unse",
+        "hungergames0000unse_o0u1",
+        "hungergames0000coll_v3w2",
+        "hungergames0000coll_u4y6",
+        "isbn_8935235200814",
+        "losjuegosdelhamb0000suza_w6g2",
+        "hungergamesitali0000suza",
+        "losjuegosdelhamb0000suza",
+        "hungergames0000suza",
+        "dietributevonpan0000coll_q0l4",
+        "hungergames0000coll_h4z0",
+        "hungergames0000coll_h3b7",
+        "hungergames0000coll_b7x9",
+        "hungergames0000coll_x4i0",
+        "hungergames0000coll_j2i9",
+        "hungergames0000coll_k5p0",
+        "hungergames0000coll_w3l3",
+        "hungergames0000coll_j6r4",
+        "isbn_9781407192239",
+        "hungergames0000coll_s7r6",
+        "hungergames0000coll_s1w4",
+        "catchingfire0000coll_m5h2",
+        "hungergames0000coll",
+        "hungergames0000unse",
+        "hungergamesthe0000suza",
+        "hungergames0000coll_q6d9",
+        "hungergames0000coll_w5z0",
+        "hungergames0000coll_z4i1",
+        "hungergames0000coll_l0b0",
+        "igrzyskamierci0000unse",
+        "hungergames0001coll",
+        "hungergames0000coll_z3q0",
+        "hungergamesfoile0000suza",
+        "hungergames0000coll_o6h5",
+        "hungergames0000coll_k1c1",
+        "hungergames0000coll_s8z6",
+        "hungergames00coll",
+        "hungergames0000coll_f3a8",
+        "hungergames00suza_3",
+        "hungergames00coll_0"
+      ],
+      "ia_collection": [
+        "aceportal",
+        "americana",
+        "bannedbooks",
+        "delawarecountydistrictlibrary",
+        "delawarecountydistrictlibrary-ol",
+        "hamiltonpubliclibrary-ol",
+        "inlibrary",
+        "internetarchivebooks",
+        "popularchinesebooks",
+        "printdisabled",
+        "toronto"
+      ],
+      "key": "/works/OL5735363W",
+      "language": [
+        "tur",
+        "fre",
+        "heb",
+        "eng",
+        "spa",
+        "cat",
+        "chi",
+        "tgl",
+        "dut",
+        "swe",
+        "rus",
+        "dan",
+        "gre",
+        "por",
+        "ita",
+        "vie",
+        "jpn",
+        "ger",
+        "pol"
+      ],
+      "lending_edition_s": "OL61277346M",
+      "lending_identifier_s": "jieyouxi0000coll",
+      "public_scan_b": false,
+      "title": "The Hunger Games"
+    },
+    {
+      "author_key": [
+        "OL1394359A"
+      ],
+      "author_name": [
+        "Suzanne Collins"
+      ],
+      "cover_edition_key": "OL39475965M",
+      "cover_i": 12878880,
+      "ebook_access": "borrowable",
+      "edition_count": 29,
+      "first_publish_year": 2010,
+      "has_fulltext": true,
+      "ia": [
+        "dietributevonpan0000suza_u1a0",
+        "dietributevonpan0000suza_j0n9",
+        "suzannecollinshu0000unse"
+      ],
+      "ia_collection": [
+        "inlibrary",
+        "internetarchivebooks",
+        "printdisabled"
+      ],
+      "key": "/works/OL15518787W",
+      "language": [
+        "cat",
+        "pol",
+        "ger",
+        "eng",
+        "ita",
+        "spa"
+      ],
+      "lending_edition_s": "OL48579294M",
+      "lending_identifier_s": "dietributevonpan0000suza_u1a0",
+      "public_scan_b": false,
+      "title": "The Hunger Games Trilogy (Hunger Games / Catching Fire / Mockingjay)"
+    },
+    {
+      "author_key": [
+        "OL1520421A"
+      ],
+      "author_name": [
+        "Kate Egan"
+      ],
+      "cover_edition_key": "OL27132499M",
+      "cover_i": 8783808,
+      "ebook_access": "printdisabled",
+      "edition_count": 5,
+      "first_publish_year": 2012,
+      "has_fulltext": true,
+      "ia": [
+        "hungergamesoffic00egan",
+        "hungergameslegui0000egan"
+      ],
+      "ia_collection": [
+        "americana",
+        "internetarchivebooks",
+        "openlibrary-d-ol",
+        "printdisabled"
+      ],
+      "key": "/works/OL19952185W",
+      "language": [
+        "eng"
+      ],
+      "public_scan_b": false,
+      "title": "The Hunger Games"
+    },
+    {
+      "author_key": [
+        "OL7289155A"
+      ],
+      "author_name": [
+        "Emily Seife"
+      ],
+      "cover_edition_key": "OL32106781M",
+      "cover_i": 10764522,
+      "ebook_access": "borrowable",
+      "edition_count": 2,
+      "first_publish_year": 2012,
+      "has_fulltext": true,
+      "ia": [
+        "hungergameslegui0000seif"
+      ],
+      "ia_collection": [
+        "inlibrary",
+        "internetarchivebooks",
+        "printdisabled"
+      ],
+      "key": "/works/OL24270778W",
+      "language": [
+        "eng",
+        "fre"
+      ],
+      "lending_edition_s": "OL32106781M",
+      "lending_identifier_s": "hungergameslegui0000seif",
+      "public_scan_b": false,
+      "title": "The Hunger games"
+    },
+    {
+      "author_key": [
+        "OL3779044A"
+      ],
+      "author_name": [
+        "Martin Howden"
+      ],
+      "cover_i": 7704212,
+      "ebook_access": "printdisabled",
+      "edition_count": 5,
+      "first_publish_year": 2012,
+      "has_fulltext": true,
+      "ia": [
+        "hungergamesaz0000howd"
+      ],
+      "ia_collection": [
+        "internetarchivebooks",
+        "openlibrary-d-ol",
+        "printdisabled"
+      ],
+      "key": "/works/OL17501218W",
+      "language": [
+        "eng"
+      ],
+      "public_scan_b": false,
+      "title": "The Hunger Games Az"
+    },
+    {
+      "author_key": [
+        "OL1520421A"
+      ],
+      "author_name": [
+        "Kate Egan"
+      ],
+      "cover_edition_key": "OL26158916M",
+      "cover_i": 8353621,
+      "ebook_access": "printdisabled",
+      "edition_count": 2,
+      "first_publish_year": 2012,
+      "has_fulltext": true,
+      "ia": [
+        "isbn_9780545425124"
+      ],
+      "ia_collection": [
+        "cnusd-ol",
+        "delawarecountydistrictlibrary-ol",
+        "denverpubliclibrary-ol",
+        "hamiltonpubliclibrary-ol",
+        "internetarchivebooks",
+        "printdisabled",
+        "stmaryscountylibrary"
+      ],
+      "key": "/works/OL17568286W",
+      "language": [
+        "eng"
+      ],
+      "public_scan_b": false,
+      "title": "The World of the Hunger Games"
+    },
+    {
+      "author_key": [
+        "OL29758A"
+      ],
+      "author_name": [
+        "Lois H. Gresh"
+      ],
+      "cover_edition_key": "OL25011207M",
+      "cover_i": 6955307,
+      "ebook_access": "printdisabled",
+      "edition_count": 1,
+      "first_publish_year": 2011,
+      "has_fulltext": true,
+      "ia": [
+        "hungergamescompa0000gres"
+      ],
+      "ia_collection": [
+        "cnusd-ol",
+        "delawarecountydistrictlibrary-ol",
+        "internetarchivebooks",
+        "printdisabled"
+      ],
+      "key": "/works/OL16126431W",
+      "language": [
+        "eng"
+      ],
+      "public_scan_b": false,
+      "title": "The hunger games companion"
+    },
+    {
+      "author_key": [
+        "OL7108064A"
+      ],
+      "author_name": [
+        "Emily Ansara Baines"
+      ],
+      "cover_edition_key": "OL25273567M",
+      "cover_i": 12489932,
+      "ebook_access": "printdisabled",
+      "edition_count": 3,
+      "first_publish_year": 2011,
+      "has_fulltext": true,
+      "ia": [
+        "unofficialhunger0000bain"
+      ],
+      "ia_collection": [
+        "hamiltonpubliclibrary-ol",
+        "internetarchivebooks",
+        "printdisabled",
+        "uni-ol"
+      ],
+      "key": "/works/OL16589208W",
+      "language": [
+        "eng"
+      ],
+      "public_scan_b": false,
+      "title": "The unofficial hunger games cookbook"
+    },
+    {
+      "author_key": [
+        "OL7520716A"
+      ],
+      "author_name": [
+        "Jennifer Lawrence"
+      ],
+      "ebook_access": "no_ebook",
+      "edition_count": 1,
+      "first_publish_year": 2015,
+      "has_fulltext": false,
+      "key": "/works/OL33790993W",
+      "public_scan_b": false,
+      "title": "The Hunger Games"
+    },
+    {
+      "author_key": [
+        "OL7327138A"
+      ],
+      "author_name": [
+        "Caroline Carpenter"
+      ],
+      "cover_i": 7667905,
+      "ebook_access": "printdisabled",
+      "edition_count": 2,
+      "first_publish_year": 2012,
+      "has_fulltext": true,
+      "ia": [
+        "guidetohungergam0000carp"
+      ],
+      "ia_collection": [
+        "delawarecountydistrictlibrary-ol",
+        "internetarchivebooks",
+        "openlibrary-d-ol",
+        "printdisabled"
+      ],
+      "key": "/works/OL17483050W",
+      "language": [
+        "eng"
+      ],
+      "public_scan_b": false,
+      "title": "Guide To The Hunger Games"
+    },
+    {
+      "author_key": [
+        "OL7308577A"
+      ],
+      "author_name": [
+        "Nicola Balkind"
+      ],
+      "cover_i": 7540902,
+      "ebook_access": "borrowable",
+      "edition_count": 1,
+      "first_publish_year": 2014,
+      "has_fulltext": true,
+      "ia": [
+        "fanphenomenahung0000unse"
+      ],
+      "ia_collection": [
+        "inlibrary",
+        "internetarchivebooks",
+        "printdisabled"
+      ],
+      "key": "/works/OL17419188W",
+      "language": [
+        "eng"
+      ],
+      "lending_edition_s": "OL26001540M",
+      "lending_identifier_s": "fanphenomenahung0000unse",
+      "public_scan_b": false,
+      "title": "The Hunger Games"
+    },
+    {
+      "author_key": [
+        "OL395749A"
+      ],
+      "author_name": [
+        "John R. Vile"
+      ],
+      "ebook_access": "no_ebook",
+      "edition_count": 1,
+      "first_publish_year": 2010,
+      "has_fulltext": false,
+      "key": "/works/OL38690704W",
+      "public_scan_b": false,
+      "title": "The Hunger Games Trilogy"
+    },
+    {
+      "author_key": [
+        "OL7520714A",
+        "OL3087878A",
+        "OL7520715A",
+        "OL3524149A",
+        "OL7520716A"
+      ],
+      "author_name": [
+        "Francis Lawrence",
+        "Simon Beaufoy",
+        "Jacobsen, Nina (Producer)",
+        "Jon Kilik",
+        "Jennifer Lawrence"
+      ],
+      "ebook_access": "no_ebook",
+      "edition_count": 1,
+      "first_publish_year": 2014,
+      "has_fulltext": false,
+      "key": "/works/OL19709869W",
+      "language": [
+        "eng"
+      ],
+      "public_scan_b": false,
+      "title": "The Hunger Games, catching fire"
+    },
+    {
+      "author_key": [
+        "OL7484563A"
+      ],
+      "author_name": [
+        "Megan DeVos"
+      ],
+      "cover_edition_key": "OL26799544M",
+      "cover_i": 8455770,
+      "ebook_access": "no_ebook",
+      "edition_count": 1,
+      "first_publish_year": 2019,
+      "has_fulltext": false,
+      "key": "/works/OL19342193W",
+      "public_scan_b": false,
+      "title": "Anarchy: The Hunger Games for a new generation"
+    },
+    {
+      "author_key": [
+        "OL3700957A"
+      ],
+      "author_name": [
+        "Spark Publishing"
+      ],
+      "cover_i": 7846503,
+      "ebook_access": "borrowable",
+      "edition_count": 1,
+      "first_publish_year": 2014,
+      "has_fulltext": true,
+      "ia": [
+        "hungergamessuzan0000spar"
+      ],
+      "ia_collection": [
+        "inlibrary",
+        "internetarchivebooks",
+        "printdisabled"
+      ],
+      "key": "/works/OL17572741W",
+      "lending_edition_s": "OL26175874M",
+      "lending_identifier_s": "hungergamessuzan0000spar",
+      "public_scan_b": false,
+      "subtitle": "Suzanne Collins",
+      "title": "The Hunger Games"
+    },
+    {
+      "author_key": [
+        "OL7289155A"
+      ],
+      "author_name": [
+        "Emily Seife"
+      ],
+      "cover_i": 7787002,
+      "ebook_access": "printdisabled",
+      "edition_count": 1,
+      "first_publish_year": 2012,
+      "has_fulltext": true,
+      "ia": [
+        "hungergamestribu0000seif"
+      ],
+      "ia_collection": [
+        "delawarecountydistrictlibrary-ol",
+        "denverpubliclibrary-ol",
+        "hamiltonpubliclibrary-ol",
+        "internetarchivebooks",
+        "printdisabled"
+      ],
+      "key": "/works/OL17542687W",
+      "public_scan_b": false,
+      "title": "The Hunger Games Tribute Guide"
+    },
+    {
+      "author_key": [
+        "OL1394359A"
+      ],
+      "author_name": [
+        "Suzanne Collins"
+      ],
+      "cover_edition_key": "OL34118379M",
+      "cover_i": 12024298,
+      "ebook_access": "no_ebook",
+      "edition_count": 11,
+      "first_publish_year": 2010,
+      "has_fulltext": false,
+      "key": "/works/OL35756566W",
+      "language": [
+        "eng",
+        "fre",
+        "spa"
+      ],
+      "public_scan_b": false,
+      "title": "The Hunger Games / Catching Fire / Mockingjay / The Ballad of Songbirds and Snakes"
+    },
+    {
+      "author_key": [
+        "OL240054A"
+      ],
+      "author_name": [
+        "Brian J. Robb"
+      ],
+      "cover_edition_key": "OL29194219M",
+      "cover_i": 10559010,
+      "ebook_access": "borrowable",
+      "edition_count": 3,
+      "first_publish_year": 2014,
+      "has_fulltext": true,
+      "ia": [
+        "briefguidetohung0000robb"
+      ],
+      "ia_collection": [
+        "inlibrary",
+        "internetarchivebooks",
+        "printdisabled"
+      ],
+      "key": "/works/OL21525531W",
+      "language": [
+        "eng"
+      ],
+      "lending_edition_s": "OL29194219M",
+      "lending_identifier_s": "briefguidetohung0000robb",
+      "public_scan_b": false,
+      "title": "Brief Guide to the Hunger Games"
+    },
+    {
+      "cover_edition_key": "OL27595698M",
+      "cover_i": 9047178,
+      "ebook_access": "no_ebook",
+      "edition_count": 1,
+      "has_fulltext": false,
+      "key": "/works/OL20380247W",
+      "public_scan_b": false,
+      "title": "The Hunger Games. Die Tribute von Panem."
+    },
+    {
+      "author_key": [
+        "OL9612880A"
+      ],
+      "author_name": [
+        "Rockridge University Press"
+      ],
+      "cover_edition_key": "OL34118253M",
+      "cover_i": 12024290,
+      "ebook_access": "no_ebook",
+      "edition_count": 1,
+      "first_publish_year": 2012,
+      "has_fulltext": false,
+      "key": "/works/OL25443971W",
+      "public_scan_b": false,
+      "title": "The Unofficial Recipes of The Hunger Games"
+    },
+    {
+      "author_key": [
+        "OL9110591A"
+      ],
+      "author_name": [
+        "Justine Carl Capistrano"
+      ],
+      "ebook_access": "no_ebook",
+      "edition_count": 1,
+      "first_publish_year": 2021,
+      "has_fulltext": false,
+      "key": "/works/OL24216634W",
+      "language": [
+        "fil",
+        "eng"
+      ],
+      "public_scan_b": false,
+      "title": "The Hunger Games - Philippine Version"
+    },
+    {
+      "author_key": [
+        "OL29758A"
+      ],
+      "author_name": [
+        "Lois H. Gresh"
+      ],
+      "cover_i": 7827902,
+      "ebook_access": "borrowable",
+      "edition_count": 1,
+      "first_publish_year": 2011,
+      "has_fulltext": true,
+      "ia": [
+        "unofficialhunger0000gres"
+      ],
+      "ia_collection": [
+        "inlibrary",
+        "internetarchivebooks",
+        "openlibrary-d-ol",
+        "printdisabled"
+      ],
+      "key": "/works/OL17563166W",
+      "lending_edition_s": "OL26153716M",
+      "lending_identifier_s": "unofficialhunger0000gres",
+      "public_scan_b": false,
+      "title": "The Unofficial Hunger Games Companion"
+    },
+    {
+      "author_key": [
+        "OL6857565A",
+        "OL7080913A"
+      ],
+      "author_name": [
+        "George A. Dunn",
+        "Nicolas Michaud"
+      ],
+      "cover_edition_key": "OL25206067M",
+      "cover_i": 8660606,
+      "ebook_access": "no_ebook",
+      "edition_count": 5,
+      "first_publish_year": 2012,
+      "has_fulltext": false,
+      "key": "/works/OL16509608W",
+      "language": [
+        "eng"
+      ],
+      "public_scan_b": false,
+      "title": "The Hunger Games and philosophy"
+    },
+    {
+      "author_key": [
+        "OL7289155A"
+      ],
+      "author_name": [
+        "Emily Seife"
+      ],
+      "cover_edition_key": "OL26870313M",
+      "cover_i": 8566240,
+      "ebook_access": "no_ebook",
+      "edition_count": 1,
+      "first_publish_year": 2012,
+      "has_fulltext": false,
+      "key": "/works/OL19650543W",
+      "public_scan_b": false,
+      "title": "The Hunger Games Tribute Guide"
+    },
+    {
+      "author_key": [
+        "OL7596973A"
+      ],
+      "author_name": [
+        "Rockridge Press"
+      ],
+      "cover_edition_key": "OL40386544M",
+      "cover_i": 13729925,
+      "ebook_access": "no_ebook",
+      "edition_count": 1,
+      "first_publish_year": 2012,
+      "has_fulltext": false,
+      "key": "/works/OL29374622W",
+      "language": [
+        "eng"
+      ],
+      "public_scan_b": false,
+      "title": "Unofficial Recipes of the Hunger Games"
+    },
+    {
+      "author_key": [
+        "OL5014916A"
+      ],
+      "author_name": [
+        "Tom Henthorne"
+      ],
+      "ebook_access": "no_ebook",
+      "edition_count": 1,
+      "first_publish_year": 2012,
+      "has_fulltext": false,
+      "key": "/works/OL16672777W",
+      "language": [
+        "eng"
+      ],
+      "public_scan_b": false,
+      "title": "Approaching the Hunger Games trilogy"
+    },
+    {
+      "author_key": [
+        "OL7306060A"
+      ],
+      "author_name": [
+        "Evie Parker"
+      ],
+      "cover_i": 7523541,
+      "ebook_access": "borrowable",
+      "edition_count": 1,
+      "has_fulltext": true,
+      "ia": [
+        "100unofficialtri0000park"
+      ],
+      "ia_collection": [
+        "hamiltonpubliclibrary-ol",
+        "inlibrary",
+        "internetarchivebooks",
+        "printdisabled"
+      ],
+      "key": "/works/OL17410393W",
+      "lending_edition_s": "OL25992061M",
+      "lending_identifier_s": "100unofficialtri0000park",
+      "public_scan_b": false,
+      "title": "100 Unofficial Tribute To The Hunger Games"
+    },
+    {
+      "author_key": [
+        "OL7519441A"
+      ],
+      "author_name": [
+        "Sia (Singer)"
+      ],
+      "ebook_access": "no_ebook",
+      "edition_count": 1,
+      "first_publish_year": 2013,
+      "has_fulltext": false,
+      "key": "/works/OL19707059W",
+      "language": [
+        "eng"
+      ],
+      "public_scan_b": false,
+      "title": "The Hunger Games, catching fire"
+    },
+    {
+      "author_key": [
+        "OL3490784A"
+      ],
+      "author_name": [
+        "Jamey Heit"
+      ],
+      "cover_edition_key": "OL28160150M",
+      "cover_i": 10099949,
+      "ebook_access": "no_ebook",
+      "edition_count": 2,
+      "first_publish_year": 2015,
+      "has_fulltext": false,
+      "key": "/works/OL20802435W",
+      "language": [
+        "eng"
+      ],
+      "public_scan_b": false,
+      "title": "The Politics of the Hunger Games"
+    },
+    {
+      "author_key": [
+        "OL8330886A"
+      ],
+      "author_name": [
+        "Janelle Blasdel"
+      ],
+      "ebook_access": "no_ebook",
+      "edition_count": 2,
+      "first_publish_year": 2012,
+      "has_fulltext": false,
+      "key": "/works/OL25370103W",
+      "language": [
+        "eng"
+      ],
+      "public_scan_b": false,
+      "title": "CliffsNotes on Collins' the Hunger Games"
+    },
+    {
+      "author_key": [
+        "OL3764280A"
+      ],
+      "author_name": [
+        "Tim Palen"
+      ],
+      "ebook_access": "no_ebook",
+      "edition_count": 1,
+      "first_publish_year": 2015,
+      "has_fulltext": false,
+      "key": "/works/OL21274426W",
+      "language": [
+        "eng"
+      ],
+      "public_scan_b": false,
+      "title": "Tim Palen - Photographs from the Hunger Games"
+    },
+    {
+      "author_key": [
+        "OL10457333A"
+      ],
+      "author_name": [
+        "Julie Clawson"
+      ],
+      "cover_edition_key": "OL42877618M",
+      "cover_i": 14477204,
+      "ebook_access": "borrowable",
+      "edition_count": 1,
+      "first_publish_year": 2013,
+      "has_fulltext": true,
+      "ia": [
+        "hungergamesgospe0000juli"
+      ],
+      "ia_collection": [
+        "inlibrary",
+        "internetarchivebooks",
+        "printdisabled"
+      ],
+      "key": "/works/OL31217450W",
+      "lending_edition_s": "OL42877618M",
+      "lending_identifier_s": "hungergamesgospe0000juli",
+      "public_scan_b": false,
+      "title": "The Hunger Games and the Gospel"
+    },
+    {
+      "author_key": [
+        "OL5014916A"
+      ],
+      "author_name": [
+        "Tom Henthorne"
+      ],
+      "ebook_access": "no_ebook",
+      "edition_count": 2,
+      "first_publish_year": 2012,
+      "has_fulltext": false,
+      "key": "/works/OL16672778W",
+      "language": [
+        "eng"
+      ],
+      "public_scan_b": false,
+      "title": "Approaching the Hunger Games trilogy"
+    },
+    {
+      "author_key": [
+        "OL5758536A"
+      ],
+      "author_name": [
+        "Tarja Laine"
+      ],
+      "cover_edition_key": "OL37320634M",
+      "cover_i": 14693424,
+      "ebook_access": "no_ebook",
+      "edition_count": 2,
+      "first_publish_year": 2021,
+      "has_fulltext": false,
+      "key": "/works/OL27405677W",
+      "language": [
+        "eng"
+      ],
+      "public_scan_b": false,
+      "title": "Emotional Ethics of the Hunger Games"
+    },
+    {
+      "author_key": [
+        "OL3339818A",
+        "OL7143534A"
+      ],
+      "author_name": [
+        "Mary Pharr",
+        "Leisa A. Clark"
+      ],
+      "cover_edition_key": "OL25355907M",
+      "cover_i": 9758782,
+      "ebook_access": "printdisabled",
+      "edition_count": 1,
+      "first_publish_year": 2012,
+      "has_fulltext": true,
+      "ia": [
+        "ofbreadbloodhung0000unse"
+      ],
+      "ia_collection": [
+        "internetarchivebooks",
+        "printdisabled"
+      ],
+      "key": "/works/OL16681851W",
+      "language": [
+        "eng"
+      ],
+      "public_scan_b": false,
+      "title": "Of bread, blood, and the Hunger Games"
+    },
+    {
+      "author_key": [
+        "OL14578743A"
+      ],
+      "author_name": [
+        "Amplified Publishing"
+      ],
+      "ebook_access": "no_ebook",
+      "edition_count": 1,
+      "first_publish_year": 2015,
+      "has_fulltext": false,
+      "key": "/works/OL40952564W",
+      "language": [
+        "eng"
+      ],
+      "public_scan_b": false,
+      "title": "Surviving the Hunger Games"
+    },
+    {
+      "author_key": [
+        "OL6914951A"
+      ],
+      "author_name": [
+        "Jack Goldstein"
+      ],
+      "ebook_access": "no_ebook",
+      "edition_count": 2,
+      "first_publish_year": 2014,
+      "has_fulltext": false,
+      "key": "/works/OL39639991W",
+      "language": [
+        "eng"
+      ],
+      "public_scan_b": false,
+      "title": "101 Amazing Facts about the Hunger Games"
+    },
+    {
+      "author_key": [
+        "OL7685480A"
+      ],
+      "author_name": [
+        "Sarah Tieck"
+      ],
+      "ebook_access": "no_ebook",
+      "edition_count": 1,
+      "first_publish_year": 2013,
+      "has_fulltext": false,
+      "key": "/works/OL27101708W",
+      "language": [
+        "eng"
+      ],
+      "public_scan_b": false,
+      "title": "Liam Hemsworth : Star of the Hunger Games"
+    },
+    {
+      "author_key": [
+        "OL7685480A"
+      ],
+      "author_name": [
+        "Sarah Tieck"
+      ],
+      "ebook_access": "no_ebook",
+      "edition_count": 1,
+      "first_publish_year": 2013,
+      "has_fulltext": false,
+      "key": "/works/OL39154063W",
+      "language": [
+        "eng"
+      ],
+      "public_scan_b": false,
+      "title": "Jennifer Lawrence : Star of the Hunger Games"
+    },
+    {
+      "author_key": [
+        "OL7685480A"
+      ],
+      "author_name": [
+        "Sarah Tieck"
+      ],
+      "ebook_access": "no_ebook",
+      "edition_count": 1,
+      "first_publish_year": 2013,
+      "has_fulltext": false,
+      "key": "/works/OL39152118W",
+      "language": [
+        "eng"
+      ],
+      "public_scan_b": false,
+      "title": "Liam Hemsworth : Star of the Hunger Games"
+    },
+    {
+      "author_key": [
+        "OL1394359A"
+      ],
+      "author_name": [
+        "Suzanne Collins"
+      ],
+      "cover_edition_key": "OL37079417M",
+      "cover_i": 12646551,
+      "ebook_access": "borrowable",
+      "edition_count": 1,
+      "first_publish_year": 2012,
+      "has_fulltext": true,
+      "ia": [
+        "hangagemu0000coll"
+      ],
+      "ia_collection": [
+        "inlibrary",
+        "internetarchivebooks",
+        "printdisabled"
+      ],
+      "key": "/works/OL27311513W",
+      "language": [
+        "jpn"
+      ],
+      "lending_edition_s": "OL37079417M",
+      "lending_identifier_s": "hangagemu0000coll",
+      "public_scan_b": false,
+      "title": "The Hunger Games [2/2]"
+    },
+    {
+      "author_key": [
+        "OL7708762A"
+      ],
+      "author_name": [
+        "Deidre Anne Evans Garriott"
+      ],
+      "cover_edition_key": "OL27545005M",
+      "cover_i": 9000763,
+      "ebook_access": "no_ebook",
+      "edition_count": 2,
+      "first_publish_year": 2014,
+      "has_fulltext": false,
+      "key": "/works/OL20336715W",
+      "language": [
+        "eng"
+      ],
+      "public_scan_b": false,
+      "title": "Space and Place in the Hunger Games"
+    },
+    {
+      "author_key": [
+        "OL2636949A"
+      ],
+      "author_name": [
+        "Susan Gray"
+      ],
+      "ebook_access": "no_ebook",
+      "edition_count": 2,
+      "first_publish_year": 2020,
+      "has_fulltext": false,
+      "key": "/works/OL30809039W",
+      "language": [
+        "eng"
+      ],
+      "public_scan_b": false,
+      "title": "Hunger Games : Playing in the Kitchen"
+    },
+    {
+      "author_key": [
+        "OL1709812A"
+      ],
+      "author_name": [
+        "Mel Williams"
+      ],
+      "cover_i": 7468596,
+      "ebook_access": "printdisabled",
+      "edition_count": 1,
+      "first_publish_year": 2012,
+      "has_fulltext": true,
+      "ia": [
+        "starsinarenameet0000will"
+      ],
+      "ia_collection": [
+        "internetarchivebooks",
+        "printdisabled"
+      ],
+      "key": "/works/OL17382837W",
+      "public_scan_b": false,
+      "title": "Stars In The Arena Meet The Hotties Of The Hunger Games Unauthorized Biographies"
+    },
+    {
+      "ebook_access": "no_ebook",
+      "edition_count": 1,
+      "has_fulltext": false,
+      "key": "/works/OL37538941W",
+      "public_scan_b": false,
+      "title": "The Hunger Games Tribute Guide"
+    },
+    {
+      "author_key": [
+        "OL2704318A"
+      ],
+      "author_name": [
+        "Scholastic Staff"
+      ],
+      "ebook_access": "no_ebook",
+      "edition_count": 1,
+      "first_publish_year": 2012,
+      "has_fulltext": false,
+      "key": "/works/OL21492439W",
+      "language": [
+        "eng"
+      ],
+      "public_scan_b": false,
+      "title": "World of the Hunger Games"
+    },
+    {
+      "author_key": [
+        "OL1709812A"
+      ],
+      "author_name": [
+        "Mel Williams"
+      ],
+      "cover_i": 7759555,
+      "ebook_access": "borrowable",
+      "edition_count": 1,
+      "first_publish_year": 2012,
+      "has_fulltext": true,
+      "ia": [
+        "starsofhungergam0000will"
+      ],
+      "ia_collection": [
+        "inlibrary",
+        "internetarchivebooks",
+        "printdisabled"
+      ],
+      "key": "/works/OL17528950W",
+      "lending_edition_s": "OL26118297M",
+      "lending_identifier_s": "starsofhungergam0000will",
+      "public_scan_b": false,
+      "title": "Stars of the Hunger Games"
+    },
+    {
+      "author_key": [
+        "OL927589A",
+        "OL3793458A"
+      ],
+      "author_name": [
+        "Patricia Chapman",
+        "Margaret Kyle"
+      ],
+      "ebook_access": "no_ebook",
+      "edition_count": 1,
+      "first_publish_year": 2012,
+      "has_fulltext": false,
+      "key": "/works/OL26315794W",
+      "language": [
+        "eng"
+      ],
+      "public_scan_b": false,
+      "title": "Bible in the Hunger Games"
+    },
+    {
+      "author_key": [
+        "OL2355327A"
+      ],
+      "author_name": [
+        "Scholastic"
+      ],
+      "ebook_access": "no_ebook",
+      "edition_count": 1,
+      "first_publish_year": 2016,
+      "has_fulltext": false,
+      "key": "/works/OL32402318W",
+      "language": [
+        "eng"
+      ],
+      "public_scan_b": false,
+      "title": "World of the Hunger Games"
+    },
+    {
+      "author_key": [
+        "OL2355327A"
+      ],
+      "author_name": [
+        "Scholastic"
+      ],
+      "ebook_access": "no_ebook",
+      "edition_count": 1,
+      "first_publish_year": 2016,
+      "has_fulltext": false,
+      "key": "/works/OL21279151W",
+      "language": [
+        "eng"
+      ],
+      "public_scan_b": false,
+      "title": "World of the Hunger Games"
+    },
+    {
+      "author_key": [
+        "OL7596973A"
+      ],
+      "author_name": [
+        "Rockridge Press"
+      ],
+      "ebook_access": "no_ebook",
+      "edition_count": 1,
+      "first_publish_year": 2012,
+      "has_fulltext": false,
+      "key": "/works/OL36840618W",
+      "language": [
+        "eng"
+      ],
+      "public_scan_b": false,
+      "title": "Unofficial Recipes of the Hunger Games"
+    },
+    {
+      "author_key": [
+        "OL2741867A"
+      ],
+      "author_name": [
+        "Coldplay"
+      ],
+      "ebook_access": "no_ebook",
+      "edition_count": 2,
+      "first_publish_year": 2013,
+      "has_fulltext": false,
+      "key": "/works/OL26559324W",
+      "language": [
+        "eng"
+      ],
+      "public_scan_b": false,
+      "title": "Atlas Sheet Music : (from the Hunger Games: Catching Fire)"
+    },
+    {
+      "ebook_access": "no_ebook",
+      "edition_count": 1,
+      "has_fulltext": false,
+      "key": "/works/OL33765549W",
+      "public_scan_b": false,
+      "title": "Le Monde de The Hunger Games"
+    },
+    {
+      "author_key": [
+        "OL6914951A"
+      ],
+      "author_name": [
+        "Jack Goldstein"
+      ],
+      "ebook_access": "no_ebook",
+      "edition_count": 1,
+      "first_publish_year": 2014,
+      "has_fulltext": false,
+      "key": "/works/OL40564689W",
+      "language": [
+        "eng"
+      ],
+      "public_scan_b": false,
+      "title": "Hunger Games - the Ultimate Quiz Book"
+    },
+    {
+      "author_key": [
+        "OL6914951A"
+      ],
+      "author_name": [
+        "Jack Goldstein"
+      ],
+      "ebook_access": "no_ebook",
+      "edition_count": 1,
+      "first_publish_year": 2014,
+      "has_fulltext": false,
+      "key": "/works/OL39649343W",
+      "language": [
+        "eng"
+      ],
+      "public_scan_b": false,
+      "title": "Hunger Games - the Ultimate Quiz Book"
+    },
+    {
+      "author_key": [
+        "OL6914951A"
+      ],
+      "author_name": [
+        "Jack Goldstein"
+      ],
+      "ebook_access": "no_ebook",
+      "edition_count": 1,
+      "first_publish_year": 2014,
+      "has_fulltext": false,
+      "key": "/works/OL39649864W",
+      "language": [
+        "eng"
+      ],
+      "public_scan_b": false,
+      "title": "Hunger Games - the Ultimate Quiz Book"
+    },
+    {
+      "author_key": [
+        "OL14412783A"
+      ],
+      "author_name": [
+        "Middle School Novel Inc."
+      ],
+      "ebook_access": "no_ebook",
+      "edition_count": 1,
+      "first_publish_year": 2014,
+      "has_fulltext": false,
+      "key": "/works/OL40629603W",
+      "language": [
+        "eng"
+      ],
+      "public_scan_b": false,
+      "title": "Novel Unit for the Hunger Games"
+    },
+    {
+      "author_key": [
+        "OL6914951A"
+      ],
+      "author_name": [
+        "Jack Goldstein"
+      ],
+      "ebook_access": "no_ebook",
+      "edition_count": 1,
+      "first_publish_year": 2014,
+      "has_fulltext": false,
+      "key": "/works/OL39638139W",
+      "language": [
+        "eng"
+      ],
+      "public_scan_b": false,
+      "title": "Hunger Games - the Ultimate Quiz Book"
+    },
+    {
+      "author_key": [
+        "OL2843145A"
+      ],
+      "author_name": [
+        "Running Press"
+      ],
+      "ebook_access": "no_ebook",
+      "edition_count": 1,
+      "has_fulltext": false,
+      "key": "/works/OL45396987W",
+      "public_scan_b": false,
+      "title": "The Hunger Games Cross-Stitch Kit"
+    },
+    {
+      "author_key": [
+        "OL9612926A"
+      ],
+      "author_name": [
+        "Kayla Ann"
+      ],
+      "cover_edition_key": "OL34118382M",
+      "cover_i": 12024299,
+      "ebook_access": "no_ebook",
+      "edition_count": 1,
+      "first_publish_year": 2020,
+      "has_fulltext": false,
+      "key": "/works/OL25444066W",
+      "public_scan_b": false,
+      "title": "Agency in The Hunger Games"
+    },
+    {
+      "author_key": [
+        "OL240220A"
+      ],
+      "author_name": [
+        "Sylvia Woods"
+      ],
+      "ebook_access": "no_ebook",
+      "edition_count": 1,
+      "first_publish_year": 2013,
+      "has_fulltext": false,
+      "key": "/works/OL26543250W",
+      "language": [
+        "eng"
+      ],
+      "public_scan_b": false,
+      "title": "Safe and Sound from the Hunger Games"
+    },
+    {
+      "author_key": [
+        "OL7717117A"
+      ],
+      "author_name": [
+        "Superstars!"
+      ],
+      "cover_edition_key": "OL27577406M",
+      "cover_i": 9031690,
+      "ebook_access": "borrowable",
+      "edition_count": 1,
+      "first_publish_year": 2013,
+      "has_fulltext": true,
+      "ia": [
+        "superstarsstarso0000fusa_d6r2"
+      ],
+      "ia_collection": [
+        "inlibrary",
+        "internetarchivebooks",
+        "printdisabled"
+      ],
+      "key": "/works/OL20365114W",
+      "lending_edition_s": "OL27577406M",
+      "lending_identifier_s": "superstarsstarso0000fusa_d6r2",
+      "public_scan_b": false,
+      "title": "Superstars! The Stars of The Hunger Games"
+    },
+    {
+      "author_key": [
+        "OL2728352A"
+      ],
+      "author_name": [
+        "Ed Scholastic"
+      ],
+      "cover_edition_key": "OL34118661M",
+      "cover_i": 12024308,
+      "ebook_access": "no_ebook",
+      "edition_count": 1,
+      "first_publish_year": 2012,
+      "has_fulltext": false,
+      "key": "/works/OL25444282W",
+      "public_scan_b": false,
+      "title": "The Hunger Games Official Illustrated Movie Companion"
+    },
+    {
+      "author_key": [
+        "OL6914951A"
+      ],
+      "author_name": [
+        "Jack Goldstein"
+      ],
+      "ebook_access": "no_ebook",
+      "edition_count": 1,
+      "first_publish_year": 2014,
+      "has_fulltext": false,
+      "key": "/works/OL39647885W",
+      "language": [
+        "eng"
+      ],
+      "public_scan_b": false,
+      "title": "101 Amazing Facts about the Hunger Games"
+    },
+    {
+      "author_key": [
+        "OL7106922A"
+      ],
+      "author_name": [
+        "Jody Jensen Shaffer"
+      ],
+      "cover_i": 7612578,
+      "ebook_access": "no_ebook",
+      "edition_count": 1,
+      "first_publish_year": 2013,
+      "has_fulltext": false,
+      "key": "/works/OL17455170W",
+      "public_scan_b": false,
+      "title": "Josh Hutcherson The Hunger Games Hot Hero"
+    },
+    {
+      "author_key": [
+        "OL7342548A"
+      ],
+      "author_name": [
+        "Creek Stewart"
+      ],
+      "cover_i": 7777504,
+      "ebook_access": "printdisabled",
+      "edition_count": 1,
+      "first_publish_year": 2013,
+      "has_fulltext": true,
+      "ia": [
+        "unofficialhunger0000stew"
+      ],
+      "ia_collection": [
+        "internetarchivebooks",
+        "printdisabled"
+      ],
+      "key": "/works/OL17537935W",
+      "public_scan_b": false,
+      "title": "The Unofficial Hunger Games Survival Strategy Guide"
+    },
+    {
+      "author_key": [
+        "OL9102949A"
+      ],
+      "author_name": [
+        "Novel Units"
+      ],
+      "ebook_access": "no_ebook",
+      "edition_count": 1,
+      "first_publish_year": 2019,
+      "has_fulltext": false,
+      "key": "/works/OL44115520W",
+      "public_scan_b": false,
+      "title": "The Hunger Games Novel Units Student Packet"
+    },
+    {
+      "author_key": [
+        "OL2622155A",
+        "OL9917824A",
+        "OL927589A"
+      ],
+      "author_name": [
+        "John Bird",
+        "Michael J. Schwartzentruber",
+        "Patricia Chapman"
+      ],
+      "ebook_access": "no_ebook",
+      "edition_count": 1,
+      "first_publish_year": 2012,
+      "has_fulltext": false,
+      "key": "/works/OL26318774W",
+      "language": [
+        "eng"
+      ],
+      "public_scan_b": false,
+      "title": "Bible in the Hunger Games 10-Pack"
+    },
+    {
+      "author_key": [
+        "OL29758A"
+      ],
+      "author_name": [
+        "Lois H. Gresh"
+      ],
+      "ebook_access": "no_ebook",
+      "edition_count": 1,
+      "first_publish_year": 2012,
+      "has_fulltext": false,
+      "key": "/works/OL36465545W",
+      "language": [
+        "eng"
+      ],
+      "public_scan_b": false,
+      "title": "How to Survive the Hunger Games"
+    },
+    {
+      "author_key": [
+        "OL7905433A"
+      ],
+      "author_name": [
+        "Penelope Bloom"
+      ],
+      "ebook_access": "no_ebook",
+      "edition_count": 1,
+      "first_publish_year": 2025,
+      "has_fulltext": false,
+      "key": "/works/OL44550861W",
+      "language": [
+        "eng"
+      ],
+      "public_scan_b": false,
+      "title": "Unbound : The Hunger Games Meets Avatar"
+    },
+    {
+      "author_key": [
+        "OL2461349A"
+      ],
+      "author_name": [
+        "Gary Wiener"
+      ],
+      "ebook_access": "no_ebook",
+      "edition_count": 1,
+      "first_publish_year": 2014,
+      "has_fulltext": false,
+      "key": "/works/OL28367806W",
+      "language": [
+        "eng"
+      ],
+      "public_scan_b": false,
+      "title": "Violence in Suzanne Collins's - The Hunger Games Trilogy"
+    },
+    {
+      "author_key": [
+        "OL2461349A"
+      ],
+      "author_name": [
+        "Gary Wiener"
+      ],
+      "ebook_access": "no_ebook",
+      "edition_count": 1,
+      "first_publish_year": 2014,
+      "has_fulltext": false,
+      "key": "/works/OL28386864W",
+      "language": [
+        "eng"
+      ],
+      "public_scan_b": false,
+      "title": "Violence in Suzanne Collins' the Hunger Games Trilogy"
+    },
+    {
+      "author_key": [
+        "OL8091645A",
+        "OL8091643A",
+        "OL7484749A"
+      ],
+      "author_name": [
+        "Mary F. Pharr",
+        "Leisa A. Clark",
+        "Donald E. Palumbo"
+      ],
+      "ebook_access": "no_ebook",
+      "edition_count": 1,
+      "first_publish_year": 2012,
+      "has_fulltext": false,
+      "key": "/works/OL38020868W",
+      "language": [
+        "eng"
+      ],
+      "public_scan_b": false,
+      "title": "Of Bread, Blood and the Hunger Games"
+    },
+    {
+      "author_key": [
+        "OL9802903A"
+      ],
+      "author_name": [
+        "Jennifer Jensen"
+      ],
+      "ebook_access": "no_ebook",
+      "edition_count": 1,
+      "first_publish_year": 2013,
+      "has_fulltext": false,
+      "key": "/works/OL32460956W",
+      "language": [
+        "eng"
+      ],
+      "public_scan_b": false,
+      "title": "Complete Idiot's Guide to the World of the Hunger Games"
+    },
+    {
+      "author_key": [
+        "OL7695205A"
+      ],
+      "author_name": [
+        "Zhange Ni"
+      ],
+      "ebook_access": "no_ebook",
+      "edition_count": 1,
+      "first_publish_year": 2020,
+      "has_fulltext": false,
+      "key": "/works/OL26588850W",
+      "language": [
+        "eng"
+      ],
+      "public_scan_b": false,
+      "title": "Religion and the Arts in <i>the Hunger Games</i>"
+    },
+    {
+      "author_key": [
+        "OL7308414A"
+      ],
+      "author_name": [
+        "Pillar Box Red Publishing Ltd"
+      ],
+      "cover_i": 7539704,
+      "ebook_access": "no_ebook",
+      "edition_count": 1,
+      "first_publish_year": 2012,
+      "has_fulltext": false,
+      "key": "/works/OL17418582W",
+      "public_scan_b": false,
+      "title": "We Love You Stars of the Hunger Games Annual 2013"
+    },
+    {
+      "author_key": [
+        "OL6881258A"
+      ],
+      "author_name": [
+        "Diane Dakers"
+      ],
+      "cover_edition_key": "OL27451039M",
+      "cover_i": 8909927,
+      "ebook_access": "no_ebook",
+      "edition_count": 2,
+      "first_publish_year": 2016,
+      "has_fulltext": false,
+      "key": "/works/OL20253606W",
+      "language": [
+        "eng"
+      ],
+      "public_scan_b": false,
+      "title": "American Life and Best Sellers from the Catcher in the Rye to the Hunger Games"
+    },
+    {
+      "author_key": [
+        "OL2461349A"
+      ],
+      "author_name": [
+        "Gary Wiener"
+      ],
+      "cover_edition_key": "OL26860108M",
+      "cover_i": 8554658,
+      "ebook_access": "printdisabled",
+      "edition_count": 1,
+      "first_publish_year": 2014,
+      "has_fulltext": true,
+      "ia": [
+        "violenceinsuzann0000unse"
+      ],
+      "ia_collection": [
+        "goffstownlibrary-ol",
+        "internetarchivebooks",
+        "openlibrary-d-ol",
+        "printdisabled",
+        "universityofcoloradoboulder-ol"
+      ],
+      "key": "/works/OL19639802W",
+      "public_scan_b": false,
+      "title": "Violence in Suzanne Collins's the Hunger Games Trilogy (Social Issues in Literature)"
+    },
+    {
+      "author_key": [
+        "OL2835247A"
+      ],
+      "author_name": [
+        "Danny White"
+      ],
+      "cover_i": 7542870,
+      "ebook_access": "borrowable",
+      "edition_count": 1,
+      "first_publish_year": 2013,
+      "has_fulltext": true,
+      "ia": [
+        "jenniferliamjosh0000whit"
+      ],
+      "ia_collection": [
+        "inlibrary",
+        "internetarchivebooks",
+        "printdisabled"
+      ],
+      "key": "/works/OL17420184W",
+      "lending_edition_s": "OL26002604M",
+      "lending_identifier_s": "jenniferliamjosh0000whit",
+      "public_scan_b": false,
+      "title": "Jennifer Liam And Josh An Unauthorized Biography Of The Stars Of The Hunger Games"
+    },
+    {
+      "author_key": [
+        "OL13191448A"
+      ],
+      "author_name": [
+        "Lisa Kubatzki"
+      ],
+      "ebook_access": "no_ebook",
+      "edition_count": 1,
+      "first_publish_year": 2018,
+      "has_fulltext": false,
+      "key": "/works/OL36700882W",
+      "language": [
+        "ger"
+      ],
+      "public_scan_b": false,
+      "title": "Concepts of Nature in Young Adult Dystopian Fiction. Suzanne Collins' the Hunger Games Series"
+    },
+    {
+      "author_key": [
+        "OL7315682A"
+      ],
+      "author_name": [
+        "Mick O'Shea"
+      ],
+      "cover_i": 7590158,
+      "ebook_access": "printdisabled",
+      "edition_count": 1,
+      "first_publish_year": 2012,
+      "has_fulltext": true,
+      "ia": [
+        "beyonddistrict120000oshe"
+      ],
+      "ia_collection": [
+        "internetarchivebooks",
+        "printdisabled"
+      ],
+      "key": "/works/OL17443943W",
+      "public_scan_b": false,
+      "title": "Beyond District 12 The Stars Of The Hunger Games Jennifer Lawrence Josh Hutcherson Liam Hemsworth"
+    },
+    {
+      "author_key": [
+        "OL11404906A"
+      ],
+      "author_name": [
+        "Ethan Rhys"
+      ],
+      "ebook_access": "no_ebook",
+      "edition_count": 1,
+      "first_publish_year": 2017,
+      "has_fulltext": false,
+      "key": "/works/OL41717956W",
+      "language": [
+        "eng"
+      ],
+      "public_scan_b": false,
+      "title": "Notebook : Journal Dot-Grid,Graph,Lined,Blank No Lined : the Hunger Games"
+    },
+    {
+      "author_key": [
+        "OL13175623A"
+      ],
+      "author_name": [
+        "Nicole Eismann"
+      ],
+      "ebook_access": "no_ebook",
+      "edition_count": 1,
+      "first_publish_year": 2016,
+      "has_fulltext": false,
+      "key": "/works/OL36666013W",
+      "language": [
+        "eng"
+      ],
+      "public_scan_b": false,
+      "title": "Role of Women in Panem. a Discussion of the Female Characters in Suzanne Collins' Trilogy the Hunger Games"
+    },
+    {
+      "author_key": [
+        "OL13175551A"
+      ],
+      "author_name": [
+        "Iris Strimitzer"
+      ],
+      "ebook_access": "no_ebook",
+      "edition_count": 1,
+      "first_publish_year": 2016,
+      "has_fulltext": false,
+      "key": "/works/OL36675665W",
+      "language": [
+        "eng"
+      ],
+      "public_scan_b": false,
+      "title": "Mockingjay, Symbol of a Revolution. Power and Dangers of Mass Media in the Hunger Games Trilogy by Suzanne Collins"
+    },
+    {
+      "author_key": [
+        "OL13175623A"
+      ],
+      "author_name": [
+        "Nicole Eismann"
+      ],
+      "ebook_access": "no_ebook",
+      "edition_count": 1,
+      "first_publish_year": 2016,
+      "has_fulltext": false,
+      "key": "/works/OL36679975W",
+      "language": [
+        "ger"
+      ],
+      "public_scan_b": false,
+      "title": "From a Farouche Adolescent to an Important Part of Society. the Psychosocial Development of Katniss Everdeen in the Hunger Games Trilogy"
+    },
+    {
+      "author_key": [
+        "OL7296876A"
+      ],
+      "author_name": [
+        "Bratniss Everclean"
+      ],
+      "cover_edition_key": "OL27613101M",
+      "cover_i": 9062782,
+      "ebook_access": "borrowable",
+      "edition_count": 2,
+      "first_publish_year": 2012,
+      "has_fulltext": true,
+      "ia": [
+        "hungerbutmainlyd0000ever"
+      ],
+      "ia_collection": [
+        "inlibrary",
+        "internetarchivebooks",
+        "printdisabled"
+      ],
+      "key": "/works/OL20395899W",
+      "language": [
+        "eng"
+      ],
+      "lending_edition_s": "OL27613101M",
+      "lending_identifier_s": "hungerbutmainlyd0000ever",
+      "public_scan_b": false,
+      "title": "The Hunger But Mainly Death Games"
+    },
+    {
+      "author_key": [
+        "OL7296876A"
+      ],
+      "author_name": [
+        "Bratniss Everclean"
+      ],
+      "cover_i": 7460837,
+      "ebook_access": "borrowable",
+      "edition_count": 1,
+      "first_publish_year": 2011,
+      "has_fulltext": true,
+      "ia": [
+        "hungerbutmainlyd0000ever_a4z4"
+      ],
+      "ia_collection": [
+        "inlibrary",
+        "internetarchivebooks",
+        "printdisabled"
+      ],
+      "key": "/works/OL17378949W",
+      "lending_edition_s": "OL25958324M",
+      "lending_identifier_s": "hungerbutmainlyd0000ever_a4z4",
+      "public_scan_b": false,
+      "title": "The Hunger But Mainly Death Games A Parody"
+    }
+  ]
+}

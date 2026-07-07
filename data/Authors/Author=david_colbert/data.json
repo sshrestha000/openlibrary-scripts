@@ -1,0 +1,25 @@
+{
+  "name": "David Colbert",
+  "personal_name": "David Colbert",
+  "type": {
+    "key": "/type/author"
+  },
+  "remote_ids": {
+    "viaf": "17353032",
+    "wikidata": "Q47117576",
+    "isni": "000000010875223X",
+    "goodreads": "9516",
+    "lc_naf": "n96058181"
+  },
+  "key": "/authors/OL1399035A",
+  "latest_revision": 4,
+  "revision": 4,
+  "created": {
+    "type": "/type/datetime",
+    "value": "2008-04-01T03:28:50.625462"
+  },
+  "last_modified": {
+    "type": "/type/datetime",
+    "value": "2025-07-31T18:05:59.128440"
+  }
+}

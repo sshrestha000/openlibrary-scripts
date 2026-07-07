@@ -1,0 +1,210 @@
+{
+  "numFound": 212,
+  "start": 200,
+  "numFoundExact": true,
+  "num_found": 212,
+  "documentation_url": "https://openlibrary.org/dev/docs/api/search",
+  "q": "",
+  "offset": null,
+  "docs": [
+    {
+      "ebook_access": "no_ebook",
+      "edition_count": 1,
+      "has_fulltext": false,
+      "key": "/works/OL31362171W",
+      "public_scan_b": false,
+      "title": "The Lion, the Witch and the Wardrobe (Book 1 in the Chronicles of Narnia)"
+    },
+    {
+      "author_key": [
+        "OL13497172A"
+      ],
+      "author_name": [
+        "C.S. LEWIS"
+      ],
+      "ebook_access": "no_ebook",
+      "edition_count": 1,
+      "first_publish_year": 1955,
+      "has_fulltext": false,
+      "key": "/works/OL37493414W",
+      "public_scan_b": false,
+      "title": "THE MAGICIAN'S NEPHEW [BOOK 6 IN THE CHRONICLES OF NARNIA] BY C.S. LEWIS"
+    },
+    {
+      "ebook_access": "no_ebook",
+      "edition_count": 1,
+      "has_fulltext": false,
+      "key": "/works/OL31459136W",
+      "public_scan_b": false,
+      "title": "The Chronicles of Narnia C.S.Lewis 7 Book Complete Matching Box Set PB LOT"
+    },
+    {
+      "author_key": [
+        "OL31574A"
+      ],
+      "author_name": [
+        "C. S. Lewis"
+      ],
+      "cover_edition_key": "OL9149260M",
+      "cover_i": 1052374,
+      "ebook_access": "no_ebook",
+      "edition_count": 1,
+      "first_publish_year": 2000,
+      "has_fulltext": false,
+      "key": "/works/OL15095415W",
+      "language": [
+        "spa"
+      ],
+      "public_scan_b": false,
+      "title": "El Leon, LA Bruja, Y El Ropero (Lewis, C. S. Chronicles of Narnia. Bk. 1.)"
+    },
+    {
+      "author_key": [
+        "OL2741414A"
+      ],
+      "author_name": [
+        "Hal Leonard Corp."
+      ],
+      "cover_edition_key": "OL8495089M",
+      "cover_i": 1819367,
+      "ebook_access": "no_ebook",
+      "edition_count": 1,
+      "first_publish_year": 2006,
+      "has_fulltext": false,
+      "key": "/works/OL8235546W",
+      "language": [
+        "eng"
+      ],
+      "public_scan_b": false,
+      "title": "Music Inspired by The Chronicles of Narnia - The Lion, The Witch and the Wardrobe (Piano, Vocal, Guitar)"
+    },
+    {
+      "author_key": [
+        "OL11438607A"
+      ],
+      "author_name": [
+        "V. S. Lewis"
+      ],
+      "ebook_access": "no_ebook",
+      "edition_count": 1,
+      "first_publish_year": 2010,
+      "has_fulltext": false,
+      "key": "/works/OL31370118W",
+      "public_scan_b": false,
+      "title": "The Lion, the Witch, and the Wardrobe (The Chronicles of Narnia) - Russian Edition (with a dust-jacket)"
+    },
+    {
+      "author_key": [
+        "OL31574A"
+      ],
+      "author_name": [
+        "C. S. Lewis"
+      ],
+      "cover_edition_key": "OL49803092M",
+      "cover_i": 15006482,
+      "ebook_access": "printdisabled",
+      "edition_count": 1,
+      "first_publish_year": 1950,
+      "has_fulltext": true,
+      "ia": [
+        "lionwitchwardrob0000cspa"
+      ],
+      "ia_collection": [
+        "internetarchivebooks",
+        "printdisabled"
+      ],
+      "key": "/works/OL36870638W",
+      "language": [
+        "eng"
+      ],
+      "public_scan_b": false,
+      "title": "THE LION, THE WITCH AND THE WARDROBE A Story for Children; the Chronicles of Narnia Volume 1"
+    },
+    {
+      "author_key": [
+        "OL31574A"
+      ],
+      "author_name": [
+        "C. S. Lewis"
+      ],
+      "cover_edition_key": "OL50986992M",
+      "cover_i": 14892351,
+      "ebook_access": "printdisabled",
+      "edition_count": 1,
+      "first_publish_year": 1982,
+      "has_fulltext": true,
+      "ia": [
+        "bwb_KO-530-060"
+      ],
+      "ia_collection": [
+        "internetarchivebooks",
+        "printdisabled"
+      ],
+      "key": "/works/OL37786717W",
+      "language": [
+        "eng"
+      ],
+      "public_scan_b": false,
+      "title": "THE CHRONICLES OF NARNIA"
+    },
+    {
+      "author_key": [
+        "OL8394970A"
+      ],
+      "author_name": [
+        "michel david"
+      ],
+      "ebook_access": "no_ebook",
+      "edition_count": 1,
+      "first_publish_year": 2021,
+      "has_fulltext": false,
+      "key": "/works/OL27200045W",
+      "language": [
+        "eng"
+      ],
+      "public_scan_b": false,
+      "title": "Lion and the Witch Book Chronicles of Narnia and the Wardrobe : "
+    },
+    {
+      "ebook_access": "no_ebook",
+      "edition_count": 1,
+      "has_fulltext": false,
+      "key": "/works/OL31801011W",
+      "public_scan_b": false,
+      "title": "Lion, The Witch - The Chronicles Of Narnia The Lion, The Witch Andthe Wardrobe [ Kodansha English Bookstore] Japanese Language Book"
+    },
+    {
+      "author_key": [
+        "OL12986590A"
+      ],
+      "author_name": [
+        "C.S. Lewis"
+      ],
+      "ebook_access": "printdisabled",
+      "edition_count": 1,
+      "first_publish_year": 1950,
+      "has_fulltext": true,
+      "ia": [
+        "lionwitchchronic0000unse"
+      ],
+      "ia_collection": [
+        "internetarchivebooks",
+        "printdisabled"
+      ],
+      "key": "/works/OL43264018W",
+      "language": [
+        "eng"
+      ],
+      "public_scan_b": false,
+      "title": "Lion, The Witch - The Chronicles Of Narnia The Lion, The Witch Andthe Wardrobe [ Kodansha English Bookstore] Japanese Language Book"
+    },
+    {
+      "ebook_access": "no_ebook",
+      "edition_count": 1,
+      "has_fulltext": false,
+      "key": "/works/OL36513892W",
+      "public_scan_b": false,
+      "title": "The Chronicles of Narnia - A Complete Set of all Seven First Editions, each with Original Dust Jacket, and each in Fine Matching Custom Clamshell Box"
+    }
+  ]
+}

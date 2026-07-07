@@ -1,0 +1,1613 @@
+{
+  "numFound": 212,
+  "start": 100,
+  "numFoundExact": true,
+  "num_found": 212,
+  "documentation_url": "https://openlibrary.org/dev/docs/api/search",
+  "q": "",
+  "offset": null,
+  "docs": [
+    {
+      "author_key": [
+        "OL3448121A"
+      ],
+      "author_name": [
+        "John Pennington"
+      ],
+      "ebook_access": "no_ebook",
+      "edition_count": 1,
+      "first_publish_year": 2017,
+      "has_fulltext": false,
+      "key": "/works/OL40710083W",
+      "language": [
+        "eng"
+      ],
+      "public_scan_b": false,
+      "title": "Last Battle the Chronicles of Narnia by C. S. Lewis Student Workbook"
+    },
+    {
+      "author_key": [
+        "OL2832266A"
+      ],
+      "author_name": [
+        "Matthew Armstrong"
+      ],
+      "cover_edition_key": "OL9597530M",
+      "cover_i": 1070132,
+      "ebook_access": "no_ebook",
+      "edition_count": 2,
+      "first_publish_year": 2007,
+      "has_fulltext": false,
+      "key": "/works/OL32356878W",
+      "language": [
+        "eng"
+      ],
+      "public_scan_b": false,
+      "title": "Prince Caspian (The Chronicles of Narnia Picture Books #2)"
+    },
+    {
+      "author_key": [
+        "OL10881550A"
+      ],
+      "author_name": [
+        "Kay Debs"
+      ],
+      "ebook_access": "no_ebook",
+      "edition_count": 1,
+      "first_publish_year": 2017,
+      "has_fulltext": false,
+      "key": "/works/OL41744497W",
+      "language": [
+        "eng"
+      ],
+      "public_scan_b": false,
+      "title": "Chronicles of Narnia Coloring Book for Kids and Adults"
+    },
+    {
+      "author_key": [
+        "OL31574A"
+      ],
+      "author_name": [
+        "C. S. Lewis"
+      ],
+      "ebook_access": "no_ebook",
+      "edition_count": 1,
+      "first_publish_year": 1978,
+      "has_fulltext": false,
+      "key": "/works/OL44093634W",
+      "public_scan_b": false,
+      "title": "The Chronicles of Narnia"
+    },
+    {
+      "ebook_access": "no_ebook",
+      "edition_count": 1,
+      "has_fulltext": false,
+      "key": "/works/OL35302394W",
+      "public_scan_b": false,
+      "title": "Vietnamese Edition of \"Chronicles of Narnia"
+    },
+    {
+      "author_key": [
+        "OL7312931A"
+      ],
+      "author_name": [
+        "Julie Kloster"
+      ],
+      "cover_i": 7571117,
+      "ebook_access": "no_ebook",
+      "edition_count": 1,
+      "first_publish_year": 2008,
+      "has_fulltext": false,
+      "key": "/works/OL17434396W",
+      "public_scan_b": false,
+      "title": "The Eternal Truths Of Narnia Bible Studies And Leaders Guide For The Chronicles Of Narnia"
+    },
+    {
+      "author_key": [
+        "OL12438733A"
+      ],
+      "author_name": [
+        "Ioannis Wolfert"
+      ],
+      "ebook_access": "no_ebook",
+      "edition_count": 1,
+      "first_publish_year": 2020,
+      "has_fulltext": false,
+      "key": "/works/OL34374026W",
+      "language": [
+        "eng"
+      ],
+      "public_scan_b": false,
+      "title": "Chronicles of Narnia Dots Lines Spirals Coloring Book"
+    },
+    {
+      "cover_edition_key": "OL46835638M",
+      "cover_i": 13326708,
+      "ebook_access": "no_ebook",
+      "edition_count": 1,
+      "first_publish_year": 1956,
+      "has_fulltext": false,
+      "key": "/works/OL34523940W",
+      "public_scan_b": false,
+      "subtitle": "Full book",
+      "title": "The Chronicles of Narnia"
+    },
+    {
+      "author_key": [
+        "OL13179897A"
+      ],
+      "author_name": [
+        "Marta Zapa A-Kraj"
+      ],
+      "ebook_access": "no_ebook",
+      "edition_count": 1,
+      "first_publish_year": 2015,
+      "has_fulltext": false,
+      "key": "/works/OL36692366W",
+      "language": [
+        "eng"
+      ],
+      "public_scan_b": false,
+      "title": "Chronicles of Narnia As Knightly Story"
+    },
+    {
+      "author_key": [
+        "OL2993474A"
+      ],
+      "author_name": [
+        "Harry Gregson-Williams"
+      ],
+      "ebook_access": "no_ebook",
+      "edition_count": 1,
+      "first_publish_year": 2008,
+      "has_fulltext": false,
+      "key": "/works/OL26544234W",
+      "language": [
+        "eng"
+      ],
+      "public_scan_b": false,
+      "title": "Chronicles of Narnia - Prince Caspian (Songbook)"
+    },
+    {
+      "ebook_access": "no_ebook",
+      "edition_count": 1,
+      "has_fulltext": false,
+      "key": "/works/OL32635473W",
+      "public_scan_b": false,
+      "title": "The Complete Chronicles of Narnia, Wardrobe"
+    },
+    {
+      "author_key": [
+        "OL31574A"
+      ],
+      "author_name": [
+        "C.S. Lewis"
+      ],
+      "cover_edition_key": "OL28237860M",
+      "cover_i": 10169129,
+      "ebook_access": "no_ebook",
+      "edition_count": 1,
+      "first_publish_year": 2002,
+      "has_fulltext": false,
+      "key": "/works/OL20855649W",
+      "public_scan_b": false,
+      "title": "The Chronicles of Narnia Box Set"
+    },
+    {
+      "author_key": [
+        "OL31574A"
+      ],
+      "author_name": [
+        "C. S. Lewis"
+      ],
+      "ebook_access": "no_ebook",
+      "edition_count": 1,
+      "first_publish_year": 2005,
+      "has_fulltext": false,
+      "key": "/works/OL31695019W",
+      "public_scan_b": false,
+      "title": "The Chronicles of Narnia Prince Caspian"
+    },
+    {
+      "author_key": [
+        "OL31574A"
+      ],
+      "author_name": [
+        "C. S. Lewis"
+      ],
+      "ebook_access": "no_ebook",
+      "edition_count": 1,
+      "first_publish_year": 2022,
+      "has_fulltext": false,
+      "key": "/works/OL44579513W",
+      "language": [
+        "eng"
+      ],
+      "public_scan_b": false,
+      "title": "Chronicles of Narnia 7 Box Set"
+    },
+    {
+      "author_key": [
+        "OL31574A"
+      ],
+      "author_name": [
+        "C. S. Lewis"
+      ],
+      "ebook_access": "no_ebook",
+      "edition_count": 1,
+      "first_publish_year": 2005,
+      "has_fulltext": false,
+      "key": "/works/OL44177954W",
+      "public_scan_b": false,
+      "title": "The Last Battle (Chronicles of Narnia)"
+    },
+    {
+      "author_key": [
+        "OL31574A"
+      ],
+      "author_name": [
+        "C. S. Lewis"
+      ],
+      "ebook_access": "no_ebook",
+      "edition_count": 1,
+      "first_publish_year": 2008,
+      "has_fulltext": false,
+      "key": "/works/OL38933794W",
+      "public_scan_b": false,
+      "title": "Prince Caspian (The Chronicles of Narnia)"
+    },
+    {
+      "author_key": [
+        "OL31574A"
+      ],
+      "author_name": [
+        "C. S. Lewis"
+      ],
+      "ebook_access": "no_ebook",
+      "edition_count": 1,
+      "first_publish_year": 2005,
+      "has_fulltext": false,
+      "key": "/works/OL15095373W",
+      "public_scan_b": false,
+      "title": "The Chronicles of Narnia Boxed Set"
+    },
+    {
+      "ebook_access": "no_ebook",
+      "edition_count": 1,
+      "has_fulltext": false,
+      "key": "/works/OL45342057W",
+      "public_scan_b": false,
+      "title": "The Chronicles of Narnia (box set)"
+    },
+    {
+      "ebook_access": "no_ebook",
+      "edition_count": 1,
+      "has_fulltext": false,
+      "key": "/works/OL45342058W",
+      "public_scan_b": false,
+      "title": "The Chronicles of Narnia (box set)"
+    },
+    {
+      "author_key": [
+        "OL3028400A"
+      ],
+      "author_name": [
+        "Duncan Scott"
+      ],
+      "ebook_access": "no_ebook",
+      "edition_count": 1,
+      "first_publish_year": 2014,
+      "has_fulltext": false,
+      "key": "/works/OL40746466W",
+      "language": [
+        "eng"
+      ],
+      "public_scan_b": false,
+      "title": "Chronicles of Narnia : Language and Vocabulary"
+    },
+    {
+      "ebook_access": "no_ebook",
+      "edition_count": 1,
+      "has_fulltext": false,
+      "key": "/works/OL37251535W",
+      "public_scan_b": false,
+      "title": "The Last Battle : the chronicles of narnia"
+    },
+    {
+      "author_key": [
+        "OL31574A"
+      ],
+      "author_name": [
+        "C. S. Lewis"
+      ],
+      "ebook_access": "printdisabled",
+      "edition_count": 1,
+      "first_publish_year": 1956,
+      "has_fulltext": true,
+      "ia": [
+        "lastbattlechroni0000unse"
+      ],
+      "ia_collection": [
+        "internetarchivebooks",
+        "printdisabled"
+      ],
+      "key": "/works/OL43253292W",
+      "language": [
+        "eng"
+      ],
+      "public_scan_b": false,
+      "title": "The Last Battle : the chronicles of narnia"
+    },
+    {
+      "author_key": [
+        "OL13176200A"
+      ],
+      "author_name": [
+        "Lenka Seresova"
+      ],
+      "ebook_access": "no_ebook",
+      "edition_count": 1,
+      "first_publish_year": 2017,
+      "has_fulltext": false,
+      "key": "/works/OL36686695W",
+      "language": [
+        "eng"
+      ],
+      "public_scan_b": false,
+      "title": "Use of Mythological Elements in the Chronicles of Narnia by C. S. Lewis"
+    },
+    {
+      "author_key": [
+        "OL31574A"
+      ],
+      "author_name": [
+        "C. S. Lewis"
+      ],
+      "ebook_access": "no_ebook",
+      "edition_count": 1,
+      "first_publish_year": 1995,
+      "has_fulltext": false,
+      "key": "/works/OL31497685W",
+      "public_scan_b": false,
+      "title": "book 7,The last battle (Chronicles of Narnia) book1, (not a set)"
+    },
+    {
+      "author_key": [
+        "OL31574A"
+      ],
+      "author_name": [
+        "C.S. Lewis"
+      ],
+      "ebook_access": "no_ebook",
+      "edition_count": 1,
+      "first_publish_year": 1994,
+      "has_fulltext": false,
+      "key": "/works/OL33793419W",
+      "public_scan_b": false,
+      "title": "Prince Caspian (Chronicles of Narnia, Book 4)"
+    },
+    {
+      "ebook_access": "no_ebook",
+      "edition_count": 1,
+      "has_fulltext": false,
+      "key": "/works/OL31936917W",
+      "public_scan_b": false,
+      "title": "The Chronicles of Narnia - The Silver Chair"
+    },
+    {
+      "author_key": [
+        "OL31574A"
+      ],
+      "author_name": [
+        "C.S. Lewis"
+      ],
+      "ebook_access": "no_ebook",
+      "edition_count": 1,
+      "first_publish_year": 1980,
+      "has_fulltext": false,
+      "key": "/works/OL31524555W",
+      "public_scan_b": false,
+      "title": "The Chronicles of Narnia 7 Book Set"
+    },
+    {
+      "ebook_access": "no_ebook",
+      "edition_count": 1,
+      "has_fulltext": false,
+      "key": "/works/OL36003203W",
+      "public_scan_b": false,
+      "title": "The Chronicles of Narnia Collection - 7 Books"
+    },
+    {
+      "author_key": [
+        "OL9615611A"
+      ],
+      "author_name": [
+        "EDITH EVANS"
+      ],
+      "ebook_access": "no_ebook",
+      "edition_count": 1,
+      "first_publish_year": 2021,
+      "has_fulltext": false,
+      "key": "/works/OL35904033W",
+      "language": [
+        "eng"
+      ],
+      "public_scan_b": false,
+      "title": "Narnia Chronicles Quiz : Magical Facts and Quizzes about the Chronicles of Narnia"
+    },
+    {
+      "author_key": [
+        "OL14488573A"
+      ],
+      "author_name": [
+        "Thomas Williams"
+      ],
+      "ebook_access": "no_ebook",
+      "edition_count": 1,
+      "first_publish_year": 2005,
+      "has_fulltext": false,
+      "key": "/works/OL25361787W",
+      "language": [
+        "eng"
+      ],
+      "public_scan_b": false,
+      "title": "Heart of the Chronicles of Narnia"
+    },
+    {
+      "author_key": [
+        "OL10858732A"
+      ],
+      "author_name": [
+        "Gregory & Jerry L. Walls (editors) Bassham"
+      ],
+      "ebook_access": "no_ebook",
+      "edition_count": 1,
+      "first_publish_year": 2009,
+      "has_fulltext": false,
+      "key": "/works/OL29400601W",
+      "public_scan_b": false,
+      "title": "The Chronicles of Narnia and Philosophy"
+    },
+    {
+      "author_key": [
+        "OL2704188A"
+      ],
+      "author_name": [
+        "Walt Disney Pictures"
+      ],
+      "cover_edition_key": "OL8066023M",
+      "cover_i": 1454917,
+      "ebook_access": "no_ebook",
+      "edition_count": 1,
+      "first_publish_year": 2005,
+      "has_fulltext": false,
+      "key": "/works/OL8120892W",
+      "language": [
+        "eng"
+      ],
+      "public_scan_b": false,
+      "title": "The Chronicles of Narnia 2006 Calendar"
+    },
+    {
+      "author_key": [
+        "OL3017880A"
+      ],
+      "author_name": [
+        "Douglas D. Stauffer"
+      ],
+      "cover_edition_key": "OL35732375M",
+      "cover_i": 12474119,
+      "ebook_access": "borrowable",
+      "edition_count": 1,
+      "first_publish_year": 2006,
+      "has_fulltext": true,
+      "ia": [
+        "chroniclesofnarn0000stau"
+      ],
+      "ia_collection": [
+        "inlibrary",
+        "internetarchivebooks",
+        "printdisabled"
+      ],
+      "key": "/works/OL26446528W",
+      "language": [
+        "eng"
+      ],
+      "lending_edition_s": "OL35732375M",
+      "lending_identifier_s": "chroniclesofnarn0000stau",
+      "public_scan_b": false,
+      "title": "The chronicles of Narnia"
+    },
+    {
+      "author_key": [
+        "OL5371565A"
+      ],
+      "author_name": [
+        "H. Leigh Davis"
+      ],
+      "ebook_access": "no_ebook",
+      "edition_count": 1,
+      "first_publish_year": 2005,
+      "has_fulltext": false,
+      "key": "/works/OL18801735W",
+      "language": [
+        "eng"
+      ],
+      "public_scan_b": false,
+      "title": "The chronicles of Narnia"
+    },
+    {
+      "author_key": [
+        "OL31574A"
+      ],
+      "author_name": [
+        "C.S. Lewis"
+      ],
+      "cover_edition_key": "OL9950968M",
+      "cover_i": 14524263,
+      "ebook_access": "borrowable",
+      "edition_count": 1,
+      "first_publish_year": 2005,
+      "has_fulltext": true,
+      "ia": [
+        "teawithmrtumnust0000unse"
+      ],
+      "ia_collection": [
+        "inlibrary",
+        "internetarchivebooks",
+        "printdisabled"
+      ],
+      "key": "/works/OL32960307W",
+      "lending_edition_s": "OL9950968M",
+      "lending_identifier_s": "teawithmrtumnust0000unse",
+      "public_scan_b": false,
+      "title": "Tea with Mr. Tumnus (The Chronicles of Narnia: The Lion, The Witch and The Wardrobe)"
+    },
+    {
+      "author_key": [
+        "OL6308864A"
+      ],
+      "author_name": [
+        "COLIN DURIEZ"
+      ],
+      "ebook_access": "no_ebook",
+      "edition_count": 1,
+      "has_fulltext": false,
+      "key": "/works/OL13421598W",
+      "language": [
+        "und"
+      ],
+      "public_scan_b": false,
+      "title": "C.S. LEWIS CHRONICLES: THE INDISPENSABLE BIOGRAPHY OF THE CREATOR OF NARNIA, FULL OF LITTLE KNOWN FACTS,.."
+    },
+    {
+      "author_key": [
+        "OL11727756A"
+      ],
+      "author_name": [
+        "Parker Haddock"
+      ],
+      "ebook_access": "no_ebook",
+      "edition_count": 1,
+      "first_publish_year": 2019,
+      "has_fulltext": false,
+      "key": "/works/OL32322643W",
+      "language": [
+        "eng"
+      ],
+      "public_scan_b": false,
+      "title": "The White Witch of The Chronicles of Narnia"
+    },
+    {
+      "ebook_access": "no_ebook",
+      "edition_count": 1,
+      "has_fulltext": false,
+      "key": "/works/OL32124516W",
+      "public_scan_b": false,
+      "title": "The Chronicles of Narnia Book 4,5,6"
+    },
+    {
+      "ebook_access": "no_ebook",
+      "edition_count": 1,
+      "has_fulltext": false,
+      "key": "/works/OL34695279W",
+      "public_scan_b": false,
+      "title": "Exploring C. S. Lewis' the Chronicles of Narnia"
+    },
+    {
+      "author_key": [
+        "OL12986590A"
+      ],
+      "author_name": [
+        "C.S. Lewis"
+      ],
+      "ebook_access": "no_ebook",
+      "edition_count": 1,
+      "first_publish_year": 1956,
+      "has_fulltext": false,
+      "key": "/works/OL36430578W",
+      "public_scan_b": false,
+      "title": "The Last Battle (Chronicles of Narnia, Book 7)"
+    },
+    {
+      "author_key": [
+        "OL31574A"
+      ],
+      "author_name": [
+        "C.S. Lewis"
+      ],
+      "cover_edition_key": "OL29558749M",
+      "cover_i": 10398197,
+      "ebook_access": "no_ebook",
+      "edition_count": 1,
+      "first_publish_year": 2000,
+      "has_fulltext": false,
+      "key": "/works/OL21722219W",
+      "public_scan_b": false,
+      "title": "The Chronicles of Narnia - U.K. Box Set"
+    },
+    {
+      "author_key": [
+        "OL11467724A"
+      ],
+      "author_name": [
+        "C.S Lewis"
+      ],
+      "ebook_access": "printdisabled",
+      "edition_count": 1,
+      "first_publish_year": 1951,
+      "has_fulltext": true,
+      "ia": [
+        "chronicllesofnar0000csle"
+      ],
+      "ia_collection": [
+        "internetarchivebooks",
+        "printdisabled"
+      ],
+      "key": "/works/OL43143584W",
+      "language": [
+        "eng"
+      ],
+      "public_scan_b": false,
+      "title": "The Chroniclles of Narnia Prince Caspian Book 4"
+    },
+    {
+      "ebook_access": "no_ebook",
+      "edition_count": 1,
+      "first_publish_year": 2006,
+      "has_fulltext": false,
+      "key": "/works/OL26540230W",
+      "language": [
+        "eng"
+      ],
+      "public_scan_b": false,
+      "title": "Music Inspired by the Chronicles of Narnia"
+    },
+    {
+      "ebook_access": "no_ebook",
+      "edition_count": 1,
+      "first_publish_year": 2006,
+      "has_fulltext": false,
+      "key": "/works/OL26549044W",
+      "language": [
+        "eng"
+      ],
+      "public_scan_b": false,
+      "title": "Music Inspired by the Chronicles of Narnia"
+    },
+    {
+      "ebook_access": "no_ebook",
+      "edition_count": 1,
+      "first_publish_year": 2006,
+      "has_fulltext": false,
+      "key": "/works/OL26546703W",
+      "language": [
+        "eng"
+      ],
+      "public_scan_b": false,
+      "title": "Music Inspired by the Chronicles of Narnia"
+    },
+    {
+      "author_key": [
+        "OL31574A"
+      ],
+      "author_name": [
+        "C.S. Lewis"
+      ],
+      "ebook_access": "no_ebook",
+      "edition_count": 1,
+      "first_publish_year": 1777,
+      "has_fulltext": false,
+      "key": "/works/OL33840500W",
+      "public_scan_b": false,
+      "title": "The Voyage of the Dawn Treader (Chronicles of Narnia) by C. S. Lewis (2007-08-14)"
+    },
+    {
+      "author_key": [
+        "OL10621212A"
+      ],
+      "author_name": [
+        "Mccants SHAYLA"
+      ],
+      "ebook_access": "no_ebook",
+      "edition_count": 1,
+      "first_publish_year": 2021,
+      "has_fulltext": false,
+      "key": "/works/OL28740977W",
+      "language": [
+        "eng"
+      ],
+      "public_scan_b": false,
+      "title": "Chronicles of Narnia Quiz for Fans : the Lion, the Witch and the Wardrobe Trivia"
+    },
+    {
+      "author_key": [
+        "OL31574A"
+      ],
+      "author_name": [
+        "C.S. Lewis"
+      ],
+      "ebook_access": "no_ebook",
+      "edition_count": 1,
+      "first_publish_year": 2008,
+      "has_fulltext": false,
+      "key": "/works/OL33741817W",
+      "public_scan_b": false,
+      "title": "Prince Caspian the chronicles of narnia (movie images inside)"
+    },
+    {
+      "ebook_access": "no_ebook",
+      "edition_count": 1,
+      "has_fulltext": false,
+      "key": "/works/OL35994136W",
+      "public_scan_b": false,
+      "title": "PRINCE CASPIAN - The Chronicles of Narnia Book (2) Two"
+    },
+    {
+      "author_key": [
+        "OL15442454A"
+      ],
+      "author_name": [
+        "C.S lewis"
+      ],
+      "ebook_access": "printdisabled",
+      "edition_count": 1,
+      "first_publish_year": 1975,
+      "has_fulltext": true,
+      "ia": [
+        "princecaspianchr0000unse"
+      ],
+      "ia_collection": [
+        "internetarchivebooks",
+        "printdisabled"
+      ],
+      "key": "/works/OL43312143W",
+      "language": [
+        "eng"
+      ],
+      "public_scan_b": false,
+      "title": "PRINCE CASPIAN - The Chronicles of Narnia Book (2) Two"
+    },
+    {
+      "author_key": [
+        "OL7146192A"
+      ],
+      "author_name": [
+        "Monika B. Hilder"
+      ],
+      "ebook_access": "no_ebook",
+      "edition_count": 1,
+      "first_publish_year": 2013,
+      "has_fulltext": false,
+      "key": "/works/OL16688674W",
+      "language": [
+        "eng"
+      ],
+      "public_scan_b": false,
+      "title": "Feminine ethos in C.S. Lewis's Chronicles of Narnia"
+    },
+    {
+      "author_key": [
+        "OL31574A",
+        "OL14414709A",
+        "OL14414710A"
+      ],
+      "author_name": [
+        "C. S. Lewis",
+        "Phil Phil Watterson",
+        "Mary Mary Giraldo"
+      ],
+      "ebook_access": "no_ebook",
+      "edition_count": 1,
+      "first_publish_year": 2015,
+      "has_fulltext": false,
+      "key": "/works/OL40497587W",
+      "language": [
+        "eng"
+      ],
+      "public_scan_b": false,
+      "title": "Prince Caspian (the Chronicles of Narnia) - C. S. Lewis"
+    },
+    {
+      "author_key": [
+        "OL31574A",
+        "OL14414709A",
+        "OL14414710A"
+      ],
+      "author_name": [
+        "C. S. Lewis",
+        "Phil Phil Watterson",
+        "Mary Mary Giraldo"
+      ],
+      "ebook_access": "no_ebook",
+      "edition_count": 1,
+      "first_publish_year": 2015,
+      "has_fulltext": false,
+      "key": "/works/OL40823419W",
+      "language": [
+        "eng"
+      ],
+      "public_scan_b": false,
+      "title": "Magician's Nephew (the Chronicles of Narnia) - C. S. Lewis"
+    },
+    {
+      "author_key": [
+        "OL31574A",
+        "OL14414709A",
+        "OL14414710A"
+      ],
+      "author_name": [
+        "C. S. Lewis",
+        "Phil Phil Watterson",
+        "Mary Mary Giraldo"
+      ],
+      "ebook_access": "no_ebook",
+      "edition_count": 1,
+      "first_publish_year": 2015,
+      "has_fulltext": false,
+      "key": "/works/OL40598343W",
+      "language": [
+        "eng"
+      ],
+      "public_scan_b": false,
+      "title": "Last Battle (the Chronicles of Narnia) - C. S. Lewis"
+    },
+    {
+      "author_key": [
+        "OL31574A",
+        "OL1078747A"
+      ],
+      "author_name": [
+        "C. S. Lewis",
+        "Pauline Baynes"
+      ],
+      "ebook_access": "no_ebook",
+      "edition_count": 1,
+      "first_publish_year": 2025,
+      "has_fulltext": false,
+      "key": "/works/OL44588706W",
+      "language": [
+        "eng"
+      ],
+      "public_scan_b": false,
+      "title": "Chronicles of Narnia 7-In-1 Deluxe Hardcover Slipcase"
+    },
+    {
+      "author_key": [
+        "OL3601849A",
+        "OL3601850A",
+        "OL3601851A",
+        "OL3601852A"
+      ],
+      "author_name": [
+        "A. Quail",
+        "M. York",
+        "I. Richardson",
+        "C. Bloom"
+      ],
+      "ebook_access": "no_ebook",
+      "edition_count": 1,
+      "first_publish_year": 1978,
+      "has_fulltext": false,
+      "key": "/works/OL11334281M",
+      "language": [
+        "eng"
+      ],
+      "public_scan_b": false,
+      "title": "Chronicles of Narnia Super Soundbook (Ssbc701 7 Cassettes)"
+    },
+    {
+      "ebook_access": "no_ebook",
+      "edition_count": 1,
+      "first_publish_year": 2025,
+      "has_fulltext": false,
+      "key": "/works/OL45342062W",
+      "public_scan_b": false,
+      "title": "The Chronicles of Narnia 7 Books Collection Box Set"
+    },
+    {
+      "ebook_access": "no_ebook",
+      "edition_count": 1,
+      "first_publish_year": 2025,
+      "has_fulltext": false,
+      "key": "/works/OL45342063W",
+      "public_scan_b": false,
+      "title": "The Chronicles of Narnia 7 Books Collection Box Set"
+    },
+    {
+      "author_key": [
+        "OL9631468A"
+      ],
+      "author_name": [
+        "Phillip BROWN"
+      ],
+      "ebook_access": "no_ebook",
+      "edition_count": 1,
+      "first_publish_year": 2021,
+      "has_fulltext": false,
+      "key": "/works/OL35834373W",
+      "language": [
+        "eng"
+      ],
+      "public_scan_b": false,
+      "title": "Chronicles of Narnia Ultimate Trivia : the Lion, the Witch and the Wardrobe Quiz Book"
+    },
+    {
+      "ebook_access": "no_ebook",
+      "edition_count": 1,
+      "first_publish_year": 2005,
+      "has_fulltext": false,
+      "key": "/works/OL33874680W",
+      "public_scan_b": false,
+      "title": "Edmund and the White Witch (The Chronicles of Narnia: The Lion, the Witch and the Wardrobe) (Narnia)"
+    },
+    {
+      "author_key": [
+        "OL9631626A"
+      ],
+      "author_name": [
+        "Regina Graves"
+      ],
+      "ebook_access": "no_ebook",
+      "edition_count": 1,
+      "first_publish_year": 2021,
+      "has_fulltext": false,
+      "key": "/works/OL35952288W",
+      "language": [
+        "eng"
+      ],
+      "public_scan_b": false,
+      "title": "Chronicles of Narnia Awesome Trivia : Things You Don't Want to Miss in the Seriesa"
+    },
+    {
+      "author_key": [
+        "OL3448121A"
+      ],
+      "author_name": [
+        "John Pennington"
+      ],
+      "ebook_access": "no_ebook",
+      "edition_count": 1,
+      "first_publish_year": 2017,
+      "has_fulltext": false,
+      "key": "/works/OL41142204W",
+      "language": [
+        "eng"
+      ],
+      "public_scan_b": false,
+      "title": "Student Workbook for the Silver Chair the Chronicles of Narnia"
+    },
+    {
+      "author_key": [
+        "OL31574A"
+      ],
+      "author_name": [
+        "C.S. Lewis"
+      ],
+      "cover_edition_key": "OL43297506M",
+      "cover_i": 15078041,
+      "ebook_access": "printdisabled",
+      "edition_count": 1,
+      "first_publish_year": 1980,
+      "has_fulltext": true,
+      "ia": [
+        "thevoyageofdawnt0000csle"
+      ],
+      "ia_collection": [
+        "internetarchivebooks",
+        "printdisabled"
+      ],
+      "key": "/works/OL31620524W",
+      "language": [
+        "eng"
+      ],
+      "public_scan_b": false,
+      "title": "'THE VOYAGE OF THE ''DAWN TREADER'' (THE CHRONICLES OF NARNIA)'"
+    },
+    {
+      "ebook_access": "no_ebook",
+      "edition_count": 1,
+      "has_fulltext": false,
+      "key": "/works/OL34546558W",
+      "public_scan_b": false,
+      "title": "The Voyage of the Dawn Treader (The Chronicles of Narnia)"
+    },
+    {
+      "author_key": [
+        "OL31574A"
+      ],
+      "author_name": [
+        "C. S. Lewis"
+      ],
+      "ebook_access": "no_ebook",
+      "edition_count": 1,
+      "first_publish_year": 2021,
+      "has_fulltext": false,
+      "key": "/works/OL30900356W",
+      "language": [
+        "eng"
+      ],
+      "public_scan_b": false,
+      "title": "Voyage of the Dawn Treader (Chronicles of Narnia #3)"
+    },
+    {
+      "author_key": [
+        "OL31574A"
+      ],
+      "author_name": [
+        "C.S. Lewis"
+      ],
+      "ebook_access": "no_ebook",
+      "edition_count": 1,
+      "first_publish_year": 1975,
+      "has_fulltext": false,
+      "key": "/works/OL33910000W",
+      "public_scan_b": false,
+      "title": "The Silver Chair (The Chronicles of Narnia Ser., Bk.6)"
+    },
+    {
+      "ebook_access": "no_ebook",
+      "edition_count": 1,
+      "has_fulltext": false,
+      "key": "/works/OL34702606W",
+      "public_scan_b": false,
+      "title": "The Lion, The Witch and The Wardrobe (Chronicles of Narnia)"
+    },
+    {
+      "author_key": [
+        "OL31574A"
+      ],
+      "author_name": [
+        "C. S. Lewis"
+      ],
+      "cover_edition_key": "OL35694121M",
+      "cover_i": 12391432,
+      "ebook_access": "no_ebook",
+      "edition_count": 1,
+      "first_publish_year": 2017,
+      "has_fulltext": false,
+      "key": "/works/OL26426433W",
+      "public_scan_b": false,
+      "title": "The Chronicles of Narnia 8-Book Box Set + Trivia Book"
+    },
+    {
+      "author_key": [
+        "OL21705A"
+      ],
+      "author_name": [
+        "Robert J. Marzano"
+      ],
+      "ebook_access": "no_ebook",
+      "edition_count": 1,
+      "first_publish_year": 1995,
+      "has_fulltext": false,
+      "key": "/works/OL11219348M",
+      "language": [
+        "eng"
+      ],
+      "public_scan_b": false,
+      "title": "Teaching high fantasy using the Chronicles of Narnia (Literacy plus)"
+    },
+    {
+      "ebook_access": "no_ebook",
+      "edition_count": 1,
+      "first_publish_year": 2005,
+      "has_fulltext": false,
+      "key": "/works/OL10668394M",
+      "language": [
+        "eng"
+      ],
+      "public_scan_b": false,
+      "title": "The Chronicles of Narnia 3 Pack DVD Set - BBC Version"
+    },
+    {
+      "author_key": [
+        "OL584028A"
+      ],
+      "author_name": [
+        "Paul F. Ford"
+      ],
+      "cover_edition_key": "OL22768134M",
+      "cover_i": 12944995,
+      "ebook_access": "borrowable",
+      "edition_count": 1,
+      "first_publish_year": 2005,
+      "has_fulltext": true,
+      "ia": [
+        "companiontonarni0000ford"
+      ],
+      "ia_collection": [
+        "inlibrary",
+        "internetarchivebooks",
+        "printdisabled"
+      ],
+      "key": "/works/OL3496221W",
+      "language": [
+        "eng"
+      ],
+      "lending_edition_s": "OL22768134M",
+      "lending_identifier_s": "companiontonarni0000ford",
+      "public_scan_b": false,
+      "title": "Companion to Narnia: A Complete Guide to the Magical World of C.S. Lewis's the Chronicles of Narnia"
+    },
+    {
+      "author_key": [
+        "OL1395658A"
+      ],
+      "author_name": [
+        "Jasmine Jones"
+      ],
+      "ebook_access": "no_ebook",
+      "edition_count": 1,
+      "first_publish_year": 2005,
+      "has_fulltext": false,
+      "key": "/works/OL5740646W",
+      "language": [
+        "eng"
+      ],
+      "public_scan_b": false,
+      "title": "The chronicles of Narnia"
+    },
+    {
+      "author_key": [
+        "OL9853839A"
+      ],
+      "author_name": [
+        "Rebecca WEBER"
+      ],
+      "ebook_access": "no_ebook",
+      "edition_count": 1,
+      "first_publish_year": 2021,
+      "has_fulltext": false,
+      "key": "/works/OL36165032W",
+      "language": [
+        "eng"
+      ],
+      "public_scan_b": false,
+      "title": "Chronicles of Narnia : the Lion, the Witch and the Wardrobe Trivia"
+    },
+    {
+      "author_key": [
+        "OL3448121A"
+      ],
+      "author_name": [
+        "John Pennington"
+      ],
+      "ebook_access": "no_ebook",
+      "edition_count": 1,
+      "first_publish_year": 2017,
+      "has_fulltext": false,
+      "key": "/works/OL40315962W",
+      "language": [
+        "eng"
+      ],
+      "public_scan_b": false,
+      "title": "Study Guide Student Workbook for Prince Caspian the Chronicles of Narnia"
+    },
+    {
+      "ebook_access": "no_ebook",
+      "edition_count": 1,
+      "has_fulltext": false,
+      "key": "/works/OL31657890W",
+      "public_scan_b": false,
+      "title": "The Lion, the Witch and the Wardrobe (The Chronicles of Narnia)"
+    },
+    {
+      "author_key": [
+        "OL31574A"
+      ],
+      "author_name": [
+        "C.S. Lewis"
+      ],
+      "ebook_access": "no_ebook",
+      "edition_count": 1,
+      "first_publish_year": 2000,
+      "has_fulltext": false,
+      "key": "/works/OL31676536W",
+      "public_scan_b": false,
+      "title": "The Silver Chair (The Chronicles of Narnia, Full-Color Collector's Edition)"
+    },
+    {
+      "author_key": [
+        "OL3054487A"
+      ],
+      "author_name": [
+        "Not Stated"
+      ],
+      "ebook_access": "no_ebook",
+      "edition_count": 1,
+      "has_fulltext": false,
+      "key": "/works/OL31879142W",
+      "public_scan_b": false,
+      "title": "The Chronicles of Narnia - The Lion, The Witch and the Wardrobe."
+    },
+    {
+      "author_key": [
+        "OL31574A",
+        "OL1078747A"
+      ],
+      "author_name": [
+        "C.S. Lewis",
+        "Pauline Baynes"
+      ],
+      "ebook_access": "no_ebook",
+      "edition_count": 1,
+      "first_publish_year": 2013,
+      "has_fulltext": false,
+      "key": "/works/OL29380473W",
+      "language": [
+        "eng"
+      ],
+      "public_scan_b": false,
+      "title": "Chronicles of Narnia 7-In-1 Bundle with Bonus Book, Boxen"
+    },
+    {
+      "ebook_access": "no_ebook",
+      "edition_count": 1,
+      "has_fulltext": false,
+      "key": "/works/OL38919671W",
+      "public_scan_b": false,
+      "title": "Khroniki Narnii. Serebryanoe kreslo = The Chronicles of Narnia. The Silver Chair"
+    },
+    {
+      "author_key": [
+        "OL228699A",
+        "OL8312682A"
+      ],
+      "author_name": [
+        "Christin Ditchfield",
+        "Kathie Szitas"
+      ],
+      "ebook_access": "no_ebook",
+      "edition_count": 1,
+      "first_publish_year": 2008,
+      "has_fulltext": false,
+      "key": "/works/OL21728312W",
+      "language": [
+        "eng"
+      ],
+      "public_scan_b": false,
+      "title": "Christian Teacher's Guide to the Chronicles of Narnia, Grades 2 - 5"
+    },
+    {
+      "author_key": [
+        "OL228699A"
+      ],
+      "author_name": [
+        "Christin Ditchfield"
+      ],
+      "cover_i": 7469021,
+      "ebook_access": "no_ebook",
+      "edition_count": 1,
+      "first_publish_year": 2008,
+      "has_fulltext": false,
+      "key": "/works/OL17383043W",
+      "public_scan_b": false,
+      "title": "A Christian Teachers Guide to the Chronicles of Narnia Grades 25"
+    },
+    {
+      "author_key": [
+        "OL31574A"
+      ],
+      "author_name": [
+        "C. S. Lewis"
+      ],
+      "ebook_access": "no_ebook",
+      "edition_count": 1,
+      "first_publish_year": 2020,
+      "has_fulltext": false,
+      "key": "/works/OL30768572W",
+      "language": [
+        "eng"
+      ],
+      "public_scan_b": false,
+      "title": "Lion, the Witch and the Wardrobe (Chronicles of Narnia #1)"
+    },
+    {
+      "author_key": [
+        "OL31574A"
+      ],
+      "author_name": [
+        "C. S. Lewis"
+      ],
+      "ebook_access": "no_ebook",
+      "edition_count": 1,
+      "first_publish_year": 2018,
+      "has_fulltext": false,
+      "key": "/works/OL40550440W",
+      "language": [
+        "eng"
+      ],
+      "public_scan_b": false,
+      "title": "Lion, the Witch and the Wardrobe (Chronicles of Narnia #1)"
+    },
+    {
+      "author_key": [
+        "OL3448121A"
+      ],
+      "author_name": [
+        "John Pennington"
+      ],
+      "ebook_access": "no_ebook",
+      "edition_count": 1,
+      "first_publish_year": 2017,
+      "has_fulltext": false,
+      "key": "/works/OL41005626W",
+      "language": [
+        "eng"
+      ],
+      "public_scan_b": false,
+      "title": "Magician's Nephew the Chronicles of Narnia by C. S. Lewis Student Workbook"
+    },
+    {
+      "author_key": [
+        "OL3448121A"
+      ],
+      "author_name": [
+        "John Pennington"
+      ],
+      "ebook_access": "no_ebook",
+      "edition_count": 1,
+      "first_publish_year": 2017,
+      "has_fulltext": false,
+      "key": "/works/OL40985093W",
+      "language": [
+        "eng"
+      ],
+      "public_scan_b": false,
+      "title": "Silver Chair the Chronicles of Narnia by C. S. Lewis Student Workbook"
+    },
+    {
+      "author_key": [
+        "OL3448121A"
+      ],
+      "author_name": [
+        "John Pennington"
+      ],
+      "ebook_access": "no_ebook",
+      "edition_count": 1,
+      "first_publish_year": 2017,
+      "has_fulltext": false,
+      "key": "/works/OL41547213W",
+      "language": [
+        "eng"
+      ],
+      "public_scan_b": false,
+      "title": "Prince Caspian the Chronicles of Narnia by C. S. Lewis Student Workbook"
+    },
+    {
+      "author_key": [
+        "OL3448121A"
+      ],
+      "author_name": [
+        "John Pennington"
+      ],
+      "ebook_access": "no_ebook",
+      "edition_count": 1,
+      "first_publish_year": 2017,
+      "has_fulltext": false,
+      "key": "/works/OL41548805W",
+      "language": [
+        "eng"
+      ],
+      "public_scan_b": false,
+      "title": "Study Guide Student Workbook for the Last Battle the Chronicles of Narnia"
+    },
+    {
+      "ebook_access": "no_ebook",
+      "edition_count": 1,
+      "first_publish_year": 2005,
+      "has_fulltext": false,
+      "key": "/works/OL9238224M",
+      "public_scan_b": false,
+      "title": "Prince Caspian / the Return to Narnia Book 4 (The Chronicles of Narnia)"
+    },
+    {
+      "ebook_access": "no_ebook",
+      "edition_count": 1,
+      "first_publish_year": 2005,
+      "has_fulltext": false,
+      "key": "/works/OL7283517M",
+      "public_scan_b": false,
+      "title": "Prince Caspian / the Return to Narnia Book 4 (The Chronicles of Narnia)"
+    },
+    {
+      "ebook_access": "no_ebook",
+      "edition_count": 1,
+      "has_fulltext": false,
+      "key": "/works/OL29284316W",
+      "public_scan_b": false,
+      "title": "Voyage Of the 'Dawn Treader' - Book 3 in the Chronicles of Narnia"
+    },
+    {
+      "author_key": [
+        "OL31574A",
+        "OL14414709A",
+        "OL14414710A"
+      ],
+      "author_name": [
+        "C. S. Lewis",
+        "Phil Phil Watterson",
+        "Mary Mary Giraldo"
+      ],
+      "ebook_access": "no_ebook",
+      "edition_count": 1,
+      "first_publish_year": 2015,
+      "has_fulltext": false,
+      "key": "/works/OL41325791W",
+      "language": [
+        "eng"
+      ],
+      "public_scan_b": false,
+      "title": "Voyage of the Dawn Treader (the Chronicles of Narnia) - C. S. Lewis"
+    },
+    {
+      "author_key": [
+        "OL2993474A"
+      ],
+      "author_name": [
+        "Harry Gregson-Williams"
+      ],
+      "cover_edition_key": "OL11844161M",
+      "cover_i": 2816567,
+      "ebook_access": "no_ebook",
+      "edition_count": 1,
+      "first_publish_year": 2007,
+      "has_fulltext": false,
+      "key": "/works/OL8786461W",
+      "language": [
+        "eng"
+      ],
+      "public_scan_b": false,
+      "title": "THE CHRONICLES OF NARNIA     THE LION THE WITCH & THE     WARDROBE EASY PIANO"
+    },
+    {
+      "author_key": [
+        "OL31574A"
+      ],
+      "author_name": [
+        "C. S. Lewis"
+      ],
+      "cover_edition_key": "OL9149264M",
+      "cover_i": 1052378,
+      "ebook_access": "no_ebook",
+      "edition_count": 1,
+      "first_publish_year": 2000,
+      "has_fulltext": false,
+      "key": "/works/OL15095411W",
+      "language": [
+        "spa"
+      ],
+      "public_scan_b": false,
+      "title": "El Caballo Y Su Nino (Lewis, C. S. Chronicles of Narnia. 5.)"
+    },
+    {
+      "author_key": [
+        "OL31574A"
+      ],
+      "author_name": [
+        "C.S. Lewis"
+      ],
+      "ebook_access": "no_ebook",
+      "edition_count": 1,
+      "first_publish_year": 1980,
+      "has_fulltext": false,
+      "key": "/works/OL31924003W",
+      "public_scan_b": false,
+      "title": "The Lion, the Witch, And the Wardrobe (the Chronicles of Narnia, Book 2)"
+    },
+    {
+      "author_key": [
+        "OL31574A"
+      ],
+      "author_name": [
+        "C.S. Lewis"
+      ],
+      "ebook_access": "no_ebook",
+      "edition_count": 1,
+      "first_publish_year": 1991,
+      "has_fulltext": false,
+      "key": "/works/OL31790364W",
+      "public_scan_b": false,
+      "title": "The Lion, the Witch and the Wardrobe Centenary (The Illustrated Chronicles of Narnia)"
+    },
+    {
+      "author_key": [
+        "OL12986590A"
+      ],
+      "author_name": [
+        "C.S. Lewis"
+      ],
+      "ebook_access": "no_ebook",
+      "edition_count": 1,
+      "first_publish_year": 1950,
+      "has_fulltext": false,
+      "key": "/works/OL36881322W",
+      "public_scan_b": false,
+      "title": "The Lion the Witch and the Wardrobe (The Chronicles of Narnia, volume 2)"
+    },
+    {
+      "author_key": [
+        "OL31574A"
+      ],
+      "author_name": [
+        "C. S. Lewis"
+      ],
+      "ebook_access": "no_ebook",
+      "edition_count": 1,
+      "first_publish_year": 1970,
+      "has_fulltext": false,
+      "key": "/works/OL44124733W",
+      "public_scan_b": false,
+      "title": "The Lion, the Witch and the Wardrobe (The Chronicles of Narnia, Book 1)"
+    },
+    {
+      "author_key": [
+        "OL31574A",
+        "OL14414709A",
+        "OL14414710A"
+      ],
+      "author_name": [
+        "C. S. Lewis",
+        "Phil Phil Watterson",
+        "Mary Mary Giraldo"
+      ],
+      "ebook_access": "no_ebook",
+      "edition_count": 1,
+      "first_publish_year": 2015,
+      "has_fulltext": false,
+      "key": "/works/OL40598547W",
+      "language": [
+        "eng"
+      ],
+      "public_scan_b": false,
+      "title": "Lion, the Witch and the Wardrobe (the Chronicles of Narnia) - C. S. Lewis"
+    },
+    {
+      "author_key": [
+        "OL3448121A"
+      ],
+      "author_name": [
+        "John Pennington"
+      ],
+      "ebook_access": "no_ebook",
+      "edition_count": 1,
+      "first_publish_year": 2017,
+      "has_fulltext": false,
+      "key": "/works/OL41717423W",
+      "language": [
+        "eng"
+      ],
+      "public_scan_b": false,
+      "title": "Horse and His Boy the Chronicles of Narnia by C. S. Lewis Student Workbook"
+    },
+    {
+      "ebook_access": "no_ebook",
+      "edition_count": 1,
+      "has_fulltext": false,
+      "key": "/works/OL33660110W",
+      "public_scan_b": false,
+      "title": "By C. S. Lewis Prince Caspian (The Chronicles of Narnia, Book 4) (New Ed)"
+    }
+  ]
+}

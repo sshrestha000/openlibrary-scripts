@@ -1,0 +1,1859 @@
+{
+  "numFound": 3091,
+  "start": 800,
+  "numFoundExact": true,
+  "num_found": 3091,
+  "documentation_url": "https://openlibrary.org/dev/docs/api/search",
+  "q": "",
+  "offset": null,
+  "docs": [
+    {
+      "author_key": [
+        "OL10487517A"
+      ],
+      "author_name": [
+        "Elizabeth Swon"
+      ],
+      "ebook_access": "no_ebook",
+      "edition_count": 1,
+      "first_publish_year": 2022,
+      "has_fulltext": false,
+      "key": "/works/OL28142613W",
+      "language": [
+        "ger"
+      ],
+      "public_scan_b": false,
+      "title": "H́arry Potter Malbuch"
+    },
+    {
+      "author_key": [
+        "OL12403263A"
+      ],
+      "author_name": [
+        "Grünnoagkt Speichern"
+      ],
+      "ebook_access": "no_ebook",
+      "edition_count": 1,
+      "first_publish_year": 2022,
+      "has_fulltext": false,
+      "key": "/works/OL34259346W",
+      "language": [
+        "ger"
+      ],
+      "public_scan_b": false,
+      "title": "𝐇𝐚𝐫𝐫y 𝐏o𝐭𝐭e𝐫 Malbuch"
+    },
+    {
+      "author_key": [
+        "OL12372550A"
+      ],
+      "author_name": [
+        "Adela Adela Williams"
+      ],
+      "ebook_access": "no_ebook",
+      "edition_count": 1,
+      "first_publish_year": 2022,
+      "has_fulltext": false,
+      "key": "/works/OL34179387W",
+      "language": [
+        "ger"
+      ],
+      "public_scan_b": false,
+      "title": "𝐇𝐚𝐫𝐫𝚢 𝐏o𝐭𝐭e𝚛 Malbuch"
+    },
+    {
+      "author_key": [
+        "OL10331631A"
+      ],
+      "author_name": [
+        "Mysha Wells"
+      ],
+      "ebook_access": "no_ebook",
+      "edition_count": 1,
+      "first_publish_year": 2022,
+      "has_fulltext": false,
+      "key": "/works/OL27663603W",
+      "language": [
+        "ger"
+      ],
+      "public_scan_b": false,
+      "title": "H́arry Ṕotter Malbuch"
+    },
+    {
+      "author_key": [
+        "OL12398033A"
+      ],
+      "author_name": [
+        "Paperback new Coloring"
+      ],
+      "ebook_access": "no_ebook",
+      "edition_count": 1,
+      "first_publish_year": 2022,
+      "has_fulltext": false,
+      "key": "/works/OL34245174W",
+      "language": [
+        "ger"
+      ],
+      "public_scan_b": false,
+      "title": "𝐇𝐚𝐫𝐫y 𝐏ot𝖙e𝐫 Malbuch"
+    },
+    {
+      "author_key": [
+        "OL9623361A",
+        "OL188279A"
+      ],
+      "author_name": [
+        "Alohomora!",
+        "Chris Rankin"
+      ],
+      "ebook_access": "no_ebook",
+      "edition_count": 2,
+      "first_publish_year": 2022,
+      "has_fulltext": false,
+      "key": "/works/OL25467071W",
+      "language": [
+        "eng"
+      ],
+      "public_scan_b": false,
+      "title": "Unofficial Harry Potter Companion Volume 1 : Sorcerer's Stone"
+    },
+    {
+      "author_key": [
+        "OL23919A"
+      ],
+      "author_name": [
+        "J. K. Rowling"
+      ],
+      "cover_edition_key": "OL35670870M",
+      "cover_i": 12373688,
+      "ebook_access": "no_ebook",
+      "edition_count": 2,
+      "first_publish_year": 2020,
+      "has_fulltext": false,
+      "key": "/works/OL26418181W",
+      "public_scan_b": false,
+      "title": "Harry Potter House Ravenclaw Edition Series 16-20"
+    },
+    {
+      "author_key": [
+        "OL23919A"
+      ],
+      "author_name": [
+        "J. K. Rowling"
+      ],
+      "cover_edition_key": "OL30613578M",
+      "cover_i": 10476099,
+      "ebook_access": "no_ebook",
+      "edition_count": 2,
+      "first_publish_year": 2013,
+      "has_fulltext": false,
+      "key": "/works/OL22558419W",
+      "public_scan_b": false,
+      "title": "Harry Potter E Lordine Della Fenice Vol5"
+    },
+    {
+      "cover_edition_key": "OL47359725M",
+      "cover_i": 13952104,
+      "ebook_access": "no_ebook",
+      "edition_count": 1,
+      "has_fulltext": false,
+      "key": "/works/OL34995570W",
+      "public_scan_b": false,
+      "title": "Harry Potter 1 Harry Potter i kamien filozoficzny"
+    },
+    {
+      "author_key": [
+        "OL23919A"
+      ],
+      "author_name": [
+        "J. K. Rowling"
+      ],
+      "cover_edition_key": "OL47481656M",
+      "cover_i": 14089983,
+      "ebook_access": "no_ebook",
+      "edition_count": 1,
+      "first_publish_year": 2020,
+      "has_fulltext": false,
+      "key": "/works/OL35104505W",
+      "public_scan_b": false,
+      "title": "Harry Potter 2 - Harry Potter og Hemmelighedernes Kammer"
+    },
+    {
+      "author_key": [
+        "OL1549720A"
+      ],
+      "author_name": [
+        "Stephen Harvard"
+      ],
+      "ebook_access": "no_ebook",
+      "edition_count": 1,
+      "first_publish_year": 2012,
+      "has_fulltext": false,
+      "key": "/works/OL38247082W",
+      "language": [
+        "eng"
+      ],
+      "public_scan_b": false,
+      "title": "Harry Potter - the Harry Potter Spellbook - Unofficial Guide"
+    },
+    {
+      "ebook_access": "no_ebook",
+      "edition_count": 1,
+      "first_publish_year": 2003,
+      "has_fulltext": false,
+      "key": "/works/OL10756516M",
+      "public_scan_b": false,
+      "title": "Harry Potter Carrier Bags X12 (Harry Potter)"
+    },
+    {
+      "author_key": [
+        "OL11273403A"
+      ],
+      "author_name": [
+        "Francis Rabb"
+      ],
+      "ebook_access": "no_ebook",
+      "edition_count": 1,
+      "first_publish_year": 2020,
+      "has_fulltext": false,
+      "key": "/works/OL35796982W",
+      "language": [
+        "ger"
+      ],
+      "public_scan_b": false,
+      "title": "Wie Man Zeichnet Harry Potter : Harry Potter Zeichnungsbuch"
+    },
+    {
+      "author_key": [
+        "OL351812A"
+      ],
+      "author_name": [
+        "George King"
+      ],
+      "cover_edition_key": "OL33000556M",
+      "cover_i": 11647009,
+      "ebook_access": "no_ebook",
+      "edition_count": 2,
+      "first_publish_year": 2019,
+      "has_fulltext": false,
+      "key": "/works/OL24831312W",
+      "language": [
+        "eng"
+      ],
+      "public_scan_b": false,
+      "title": "The Essential Harry Potter Cookbook"
+    },
+    {
+      "author_key": [
+        "OL10014599A"
+      ],
+      "author_name": [
+        "Sasha Eager"
+      ],
+      "ebook_access": "no_ebook",
+      "edition_count": 2,
+      "first_publish_year": 2021,
+      "has_fulltext": false,
+      "key": "/works/OL30759594W",
+      "language": [
+        "fre"
+      ],
+      "public_scan_b": false,
+      "title": "Livre des Sorts Harry Potter"
+    },
+    {
+      "author_key": [
+        "OL11285495A"
+      ],
+      "author_name": [
+        "Sky Land"
+      ],
+      "ebook_access": "no_ebook",
+      "edition_count": 2,
+      "first_publish_year": 2019,
+      "has_fulltext": false,
+      "key": "/works/OL30850177W",
+      "language": [
+        "eng"
+      ],
+      "public_scan_b": false,
+      "title": "How to Draw Harry Potter"
+    },
+    {
+      "author_key": [
+        "OL7632568A",
+        "OL2875727A"
+      ],
+      "author_name": [
+        "Veronica Hinke",
+        "Jody Revenson"
+      ],
+      "ebook_access": "no_ebook",
+      "edition_count": 2,
+      "first_publish_year": 2024,
+      "has_fulltext": false,
+      "key": "/works/OL37585158W",
+      "language": [
+        "eng"
+      ],
+      "public_scan_b": false,
+      "title": "Harry Potter Afternoon Tea Magic"
+    },
+    {
+      "author_key": [
+        "OL13019766A"
+      ],
+      "author_name": [
+        "Carol K."
+      ],
+      "ebook_access": "no_ebook",
+      "edition_count": 2,
+      "first_publish_year": 2021,
+      "has_fulltext": false,
+      "key": "/works/OL36119426W",
+      "language": [
+        "eng"
+      ],
+      "public_scan_b": false,
+      "title": "Harry Potter Potion Cocktail Cookbook"
+    },
+    {
+      "author_key": [
+        "OL10876127A"
+      ],
+      "author_name": [
+        "Nina Riddle"
+      ],
+      "ebook_access": "borrowable",
+      "edition_count": 2,
+      "first_publish_year": 2017,
+      "has_fulltext": true,
+      "ia": [
+        "harrypotterjokes0000nina"
+      ],
+      "ia_collection": [
+        "inlibrary",
+        "internetarchivebooks",
+        "printdisabled"
+      ],
+      "key": "/works/OL29619375W",
+      "language": [
+        "eng"
+      ],
+      "lending_edition_s": "OL40752632M",
+      "lending_identifier_s": "harrypotterjokes0000nina",
+      "public_scan_b": false,
+      "title": "Harry Potter Jokes for Kids"
+    },
+    {
+      "author_key": [
+        "OL10971964A"
+      ],
+      "author_name": [
+        "Richard stone lee"
+      ],
+      "ebook_access": "no_ebook",
+      "edition_count": 2,
+      "first_publish_year": 2019,
+      "has_fulltext": false,
+      "key": "/works/OL29682239W",
+      "language": [
+        "eng"
+      ],
+      "public_scan_b": false,
+      "title": "585 Harry Potter Random Facts"
+    },
+    {
+      "author_key": [
+        "OL10886283A"
+      ],
+      "author_name": [
+        "Andy Warick"
+      ],
+      "ebook_access": "no_ebook",
+      "edition_count": 2,
+      "first_publish_year": 2018,
+      "has_fulltext": false,
+      "key": "/works/OL29596917W",
+      "language": [
+        "eng"
+      ],
+      "public_scan_b": false,
+      "title": "How to Draw Harry Potter"
+    },
+    {
+      "author_key": [
+        "OL7659745A"
+      ],
+      "author_name": [
+        "Patricia M. Lyons"
+      ],
+      "cover_edition_key": "OL27400290M",
+      "cover_i": 8862671,
+      "ebook_access": "printdisabled",
+      "edition_count": 2,
+      "first_publish_year": 2017,
+      "has_fulltext": true,
+      "ia": [
+        "teachingfaithwit0000lyon"
+      ],
+      "ia_collection": [
+        "internetarchivebooks",
+        "printdisabled"
+      ],
+      "key": "/works/OL20211496W",
+      "language": [
+        "eng"
+      ],
+      "public_scan_b": false,
+      "title": "Teaching Faith with Harry Potter"
+    },
+    {
+      "author_key": [
+        "OL6792779A"
+      ],
+      "author_name": [
+        "Shira Wolosky Weiss"
+      ],
+      "cover_edition_key": "OL25000903M",
+      "cover_i": 9917474,
+      "ebook_access": "no_ebook",
+      "edition_count": 2,
+      "first_publish_year": 2010,
+      "has_fulltext": false,
+      "key": "/works/OL16113157W",
+      "language": [
+        "eng"
+      ],
+      "public_scan_b": false,
+      "title": "The riddles of Harry Potter"
+    },
+    {
+      "author_key": [
+        "OL392226A"
+      ],
+      "author_name": [
+        "Richard Abanes"
+      ],
+      "cover_edition_key": "OL8182343M",
+      "cover_i": 1575281,
+      "ebook_access": "no_ebook",
+      "edition_count": 2,
+      "first_publish_year": 2003,
+      "has_fulltext": false,
+      "key": "/works/OL2685664W",
+      "language": [
+        "spa"
+      ],
+      "public_scan_b": false,
+      "title": "Harry Potter y la Biblia"
+    },
+    {
+      "author_key": [
+        "OL23919A"
+      ],
+      "author_name": [
+        "J. K. Rowling"
+      ],
+      "cover_edition_key": "OL12956019M",
+      "cover_i": 3345090,
+      "ebook_access": "no_ebook",
+      "edition_count": 2,
+      "first_publish_year": 2001,
+      "has_fulltext": false,
+      "key": "/works/OL15267440W",
+      "language": [
+        "spa"
+      ],
+      "public_scan_b": false,
+      "title": "Las Aventuras de Harry Potter"
+    },
+    {
+      "author_key": [
+        "OL8494217A"
+      ],
+      "author_name": [
+        "B. B. T. Malbuch"
+      ],
+      "ebook_access": "no_ebook",
+      "edition_count": 2,
+      "first_publish_year": 2020,
+      "has_fulltext": false,
+      "key": "/works/OL30709590W",
+      "language": [
+        "ger"
+      ],
+      "public_scan_b": false,
+      "title": "Harry Potter Malbuch Band1"
+    },
+    {
+      "author_key": [
+        "OL8494217A"
+      ],
+      "author_name": [
+        "B. B. T. Malbuch"
+      ],
+      "ebook_access": "no_ebook",
+      "edition_count": 2,
+      "first_publish_year": 2020,
+      "has_fulltext": false,
+      "key": "/works/OL30586504W",
+      "language": [
+        "ger"
+      ],
+      "public_scan_b": false,
+      "title": "Harry Potter Malbuch Band2"
+    },
+    {
+      "author_key": [
+        "OL9626216A"
+      ],
+      "author_name": [
+        "Jessica Jack"
+      ],
+      "ebook_access": "no_ebook",
+      "edition_count": 2,
+      "first_publish_year": 2018,
+      "has_fulltext": false,
+      "key": "/works/OL29629617W",
+      "language": [
+        "eng"
+      ],
+      "public_scan_b": false,
+      "title": "Harry Potter Unofficial Magic Spell"
+    },
+    {
+      "author_key": [
+        "OL23919A",
+        "OL12670945A"
+      ],
+      "author_name": [
+        "J. K. Rowling",
+        "Iñaki Mendiguren Bereziartu"
+      ],
+      "cover_edition_key": "OL47416971M",
+      "cover_i": 14015724,
+      "ebook_access": "no_ebook",
+      "edition_count": 2,
+      "first_publish_year": 2004,
+      "has_fulltext": false,
+      "key": "/works/OL35046996W",
+      "public_scan_b": false,
+      "title": "Harry Potter eta Fenixaren Ordena"
+    },
+    {
+      "author_key": [
+        "OL10479642A"
+      ],
+      "author_name": [
+        "Moseley Road Inc"
+      ],
+      "ebook_access": "no_ebook",
+      "edition_count": 2,
+      "first_publish_year": 2022,
+      "has_fulltext": false,
+      "key": "/works/OL28412458W",
+      "language": [
+        "eng"
+      ],
+      "public_scan_b": false,
+      "title": "Unofficial Harry Potter Coloring Book"
+    },
+    {
+      "author_key": [
+        "OL6914951A"
+      ],
+      "author_name": [
+        "Jack Goldstein"
+      ],
+      "ebook_access": "no_ebook",
+      "edition_count": 2,
+      "first_publish_year": 2012,
+      "has_fulltext": false,
+      "key": "/works/OL39638156W",
+      "language": [
+        "eng"
+      ],
+      "public_scan_b": false,
+      "title": "101 Amazing Harry Potter Facts"
+    },
+    {
+      "author_key": [
+        "OL7942368A"
+      ],
+      "author_name": [
+        "COLLECTIFS JEUNESSE"
+      ],
+      "cover_edition_key": "OL32607322M",
+      "cover_i": 11244300,
+      "ebook_access": "no_ebook",
+      "edition_count": 2,
+      "first_publish_year": 2021,
+      "has_fulltext": false,
+      "key": "/works/OL24586405W",
+      "public_scan_b": false,
+      "title": "AGENDA HARRY POTTER 2021-2022"
+    },
+    {
+      "author_key": [
+        "OL10884708A"
+      ],
+      "author_name": [
+        "Pablo Painter"
+      ],
+      "ebook_access": "no_ebook",
+      "edition_count": 2,
+      "first_publish_year": 2018,
+      "has_fulltext": false,
+      "key": "/works/OL29762762W",
+      "language": [
+        "eng"
+      ],
+      "public_scan_b": false,
+      "title": "How to Draw Harry Potter"
+    },
+    {
+      "author_key": [
+        "OL11019907A"
+      ],
+      "author_name": [
+        "Charlie Noah"
+      ],
+      "ebook_access": "no_ebook",
+      "edition_count": 2,
+      "first_publish_year": 2019,
+      "has_fulltext": false,
+      "key": "/works/OL29938860W",
+      "language": [
+        "eng"
+      ],
+      "public_scan_b": false,
+      "title": "Harry Potter Ultimate Spell Book"
+    },
+    {
+      "author_key": [
+        "OL10790710A"
+      ],
+      "author_name": [
+        "Juliana Ellis"
+      ],
+      "ebook_access": "no_ebook",
+      "edition_count": 2,
+      "first_publish_year": 2022,
+      "has_fulltext": false,
+      "key": "/works/OL29174230W",
+      "language": [
+        "eng"
+      ],
+      "public_scan_b": false,
+      "title": "How to Draw Harry Pot𝖙er"
+    },
+    {
+      "author_key": [
+        "OL1387902A"
+      ],
+      "author_name": [
+        "Connie Ann Kirk"
+      ],
+      "cover_edition_key": "OL9432840M",
+      "cover_i": 1773526,
+      "ebook_access": "no_ebook",
+      "edition_count": 2,
+      "first_publish_year": 2004,
+      "has_fulltext": false,
+      "key": "/works/OL5702982W",
+      "language": [
+        "eng"
+      ],
+      "public_scan_b": false,
+      "subtitle": " An Introduction to Literature for All Ages",
+      "title": "From Shakespeare to Harry Potter"
+    },
+    {
+      "author_key": [
+        "OL23919A"
+      ],
+      "author_name": [
+        "J. K. Rowling"
+      ],
+      "cover_edition_key": "OL35591006M",
+      "cover_i": 12298214,
+      "ebook_access": "no_ebook",
+      "edition_count": 1,
+      "first_publish_year": 2019,
+      "has_fulltext": false,
+      "key": "/works/OL26355336W",
+      "public_scan_b": false,
+      "title": "Harry Potter ve Lanetli Çocuk - Birinci ve İkinci Bölüm"
+    },
+    {
+      "author_key": [
+        "OL23919A"
+      ],
+      "author_name": [
+        "J. K. Rowling"
+      ],
+      "cover_edition_key": "OL35587962M",
+      "cover_i": 12297871,
+      "ebook_access": "no_ebook",
+      "edition_count": 1,
+      "first_publish_year": 2016,
+      "has_fulltext": false,
+      "key": "/works/OL26353573W",
+      "public_scan_b": false,
+      "title": "Harry Potter ve Sirlar Odasi 2 - Resimli Özel Baski"
+    },
+    {
+      "ebook_access": "no_ebook",
+      "edition_count": 1,
+      "has_fulltext": false,
+      "key": "/works/OL29965077W",
+      "public_scan_b": false,
+      "title": "Harry Potter e i doni della morte - Vol 7"
+    },
+    {
+      "author_key": [
+        "OL9623361A"
+      ],
+      "author_name": [
+        "Alohomora!"
+      ],
+      "ebook_access": "no_ebook",
+      "edition_count": 1,
+      "first_publish_year": 2023,
+      "has_fulltext": false,
+      "key": "/works/OL27494110W",
+      "language": [
+        "eng"
+      ],
+      "public_scan_b": false,
+      "title": "Unofficial Harry Potter Companion Volume Two - Chamber of Secrets"
+    },
+    {
+      "author_key": [
+        "OL8031086A"
+      ],
+      "author_name": [
+        "British Broadcasting Corporation Staff"
+      ],
+      "cover_edition_key": "OL7852159M",
+      "cover_i": 1284331,
+      "ebook_access": "no_ebook",
+      "edition_count": 1,
+      "first_publish_year": 2004,
+      "has_fulltext": false,
+      "key": "/works/OL17848993W",
+      "public_scan_b": false,
+      "title": "Harry Potter and the Prisoner of Azkaban Coloring Book"
+    },
+    {
+      "author_key": [
+        "OL23919A"
+      ],
+      "author_name": [
+        "J. K. Rowling"
+      ],
+      "cover_edition_key": "OL28276454M",
+      "cover_i": 10203263,
+      "ebook_access": "no_ebook",
+      "edition_count": 1,
+      "first_publish_year": 2005,
+      "has_fulltext": false,
+      "key": "/works/OL20879564W",
+      "public_scan_b": false,
+      "title": "Harry Potter and the Half Blood Prince, Vol. 1"
+    },
+    {
+      "author_key": [
+        "OL2073876A"
+      ],
+      "author_name": [
+        "Dedria Bryfonski"
+      ],
+      "cover_edition_key": "OL17053058M",
+      "cover_i": 8046553,
+      "ebook_access": "printdisabled",
+      "edition_count": 1,
+      "first_publish_year": 2009,
+      "has_fulltext": true,
+      "ia": [
+        "politicalissuesi0000bryf"
+      ],
+      "ia_collection": [
+        "hamiltonpubliclibrary-ol",
+        "internetarchivebooks",
+        "printdisabled",
+        "rochester-ol",
+        "udc-ol"
+      ],
+      "key": "/works/OL17763873W",
+      "language": [
+        "eng"
+      ],
+      "public_scan_b": false,
+      "title": "Political issues in J.K. Rowling's Harry Potter series"
+    },
+    {
+      "author_key": [
+        "OL2779449A"
+      ],
+      "author_name": [
+        "Alfred Publishing"
+      ],
+      "cover_edition_key": "OL10657770M",
+      "cover_i": 8233611,
+      "ebook_access": "no_ebook",
+      "edition_count": 1,
+      "first_publish_year": 2007,
+      "has_fulltext": false,
+      "key": "/works/OL9454881W",
+      "language": [
+        "eng"
+      ],
+      "public_scan_b": false,
+      "subtitle": "Piano Solos",
+      "title": "Selections From Harry Potter and the Order of the Phoenix"
+    },
+    {
+      "author_key": [
+        "OL9803211A"
+      ],
+      "author_name": [
+        "Edition Agenda Harry"
+      ],
+      "ebook_access": "no_ebook",
+      "edition_count": 4,
+      "first_publish_year": 2021,
+      "has_fulltext": false,
+      "key": "/works/OL26667476W",
+      "language": [
+        "fre"
+      ],
+      "public_scan_b": false,
+      "title": "Agenda Harry Potter : Agenda Scolaire 2021 - 2022 Thème"
+    },
+    {
+      "author_key": [
+        "OL9084902A"
+      ],
+      "author_name": [
+        "Kate Laurel"
+      ],
+      "ebook_access": "no_ebook",
+      "edition_count": 1,
+      "first_publish_year": 2019,
+      "has_fulltext": false,
+      "key": "/works/OL29970531W",
+      "language": [
+        "eng"
+      ],
+      "public_scan_b": false,
+      "title": "Harry Potter Word Search - Word Search Harry Potter Puzzles"
+    },
+    {
+      "author_key": [
+        "OL2703623A"
+      ],
+      "author_name": [
+        "Ted Enik"
+      ],
+      "cover_edition_key": "OL7512778M",
+      "cover_i": 277712,
+      "ebook_access": "no_ebook",
+      "edition_count": 1,
+      "first_publish_year": 2002,
+      "has_fulltext": false,
+      "key": "/works/OL8118701W",
+      "language": [
+        "eng"
+      ],
+      "public_scan_b": false,
+      "title": "Harry Potter Art Coloring Book #4 (Harry Potter)"
+    },
+    {
+      "author_key": [
+        "OL10402531A"
+      ],
+      "author_name": [
+        "Jennifer Kagan"
+      ],
+      "ebook_access": "no_ebook",
+      "edition_count": 1,
+      "first_publish_year": 2021,
+      "has_fulltext": false,
+      "key": "/works/OL36299759W",
+      "language": [
+        "eng"
+      ],
+      "public_scan_b": false,
+      "title": "Harry Potter Trivia the 300 Secrets of Harry Potter"
+    },
+    {
+      "ebook_access": "no_ebook",
+      "edition_count": 1,
+      "has_fulltext": false,
+      "key": "/works/OL37471950W",
+      "public_scan_b": false,
+      "title": "Lego Harry Potter Searching Adventures (with Harry Potter Minifigure)"
+    },
+    {
+      "author_key": [
+        "OL530873A"
+      ],
+      "author_name": [
+        "Scott Fuller"
+      ],
+      "ebook_access": "no_ebook",
+      "edition_count": 1,
+      "first_publish_year": 2000,
+      "has_fulltext": false,
+      "key": "/works/OL3257978W",
+      "language": [
+        "eng"
+      ],
+      "public_scan_b": false,
+      "title": "Harry Potter Hogwarts Journal with Stickers (Harry Potter Series)"
+    },
+    {
+      "author_key": [
+        "OL11202771A"
+      ],
+      "author_name": [
+        "Charlie Charlie Durgan"
+      ],
+      "ebook_access": "no_ebook",
+      "edition_count": 1,
+      "first_publish_year": 2020,
+      "has_fulltext": false,
+      "key": "/works/OL30632205W",
+      "language": [
+        "eng"
+      ],
+      "public_scan_b": false,
+      "title": "Harry Potter Cookbook : Magical Recipes Inspired by Harry Potter"
+    },
+    {
+      "author_key": [
+        "OL11273403A"
+      ],
+      "author_name": [
+        "Francis Rabb"
+      ],
+      "ebook_access": "no_ebook",
+      "edition_count": 1,
+      "first_publish_year": 2020,
+      "has_fulltext": false,
+      "key": "/works/OL30808002W",
+      "language": [
+        "spa"
+      ],
+      "public_scan_b": false,
+      "title": "Cómo Dibujar Harry Potter : Harry Potter Libro de Dibujos"
+    },
+    {
+      "ebook_access": "no_ebook",
+      "edition_count": 1,
+      "first_publish_year": 2001,
+      "has_fulltext": false,
+      "key": "/works/OL7511616M",
+      "public_scan_b": false,
+      "title": "Harry Potter Nimbus Two Thousand Collectible Bookmark (Harry Potter)"
+    },
+    {
+      "author_key": [
+        "OL10097033A"
+      ],
+      "author_name": [
+        "Cassie Brummitt"
+      ],
+      "ebook_access": "no_ebook",
+      "edition_count": 3,
+      "first_publish_year": 2025,
+      "has_fulltext": false,
+      "key": "/works/OL44541655W",
+      "language": [
+        "eng"
+      ],
+      "public_scan_b": false,
+      "title": "From Harry Potter to the Wizarding World"
+    },
+    {
+      "author_key": [
+        "OL3018708A"
+      ],
+      "author_name": [
+        "Marie Lesoway"
+      ],
+      "ebook_access": "no_ebook",
+      "edition_count": 3,
+      "first_publish_year": 2001,
+      "has_fulltext": false,
+      "key": "/works/OL8823742W",
+      "public_scan_b": false,
+      "title": "The Definitive Harry Potter Guide Book Series"
+    },
+    {
+      "author_key": [
+        "OL9344201A"
+      ],
+      "author_name": [
+        "Insights"
+      ],
+      "cover_edition_key": "OL34167491M",
+      "cover_i": 12436991,
+      "ebook_access": "no_ebook",
+      "edition_count": 1,
+      "first_publish_year": 2021,
+      "has_fulltext": false,
+      "key": "/works/OL25476702W",
+      "language": [
+        "eng"
+      ],
+      "public_scan_b": false,
+      "title": "Harry Potter: Hogwarts 12-Month Undated Planner : (Harry Potter School Planner School, Harry Potter Gift, Harry Potter Stationery, Undated Planner)"
+    },
+    {
+      "author_key": [
+        "OL16034707A"
+      ],
+      "author_name": [
+        "J.k. Rowling"
+      ],
+      "ebook_access": "no_ebook",
+      "edition_count": 1,
+      "first_publish_year": 2025,
+      "has_fulltext": false,
+      "key": "/works/OL44577642W",
+      "language": [
+        "spa"
+      ],
+      "public_scan_b": false,
+      "title": "Pocket Potters - Harry Potter (Spanish Edition)"
+    },
+    {
+      "author_key": [
+        "OL10029195A"
+      ],
+      "author_name": [
+        "Chandler Bing"
+      ],
+      "ebook_access": "no_ebook",
+      "edition_count": 2,
+      "first_publish_year": 2021,
+      "has_fulltext": false,
+      "key": "/works/OL26647504W",
+      "language": [
+        "eng"
+      ],
+      "public_scan_b": false,
+      "title": "H́arry Ṕotter Activity Book : H́arry Ṕotter Activity Book for Kids Ages 9-12"
+    },
+    {
+      "ebook_access": "no_ebook",
+      "edition_count": 1,
+      "has_fulltext": false,
+      "key": "/works/OL32126917W",
+      "public_scan_b": false,
+      "title": "Harry Potter und der Gefangene von Askaban"
+    },
+    {
+      "author_key": [
+        "OL2834649A"
+      ],
+      "author_name": [
+        "Warner Bros"
+      ],
+      "ebook_access": "no_ebook",
+      "edition_count": 1,
+      "has_fulltext": false,
+      "key": "/works/OL27713629W",
+      "public_scan_b": false,
+      "title": "Harry Potter and the Philosopher's Stone Bookmark"
+    },
+    {
+      "author_key": [
+        "OL2875727A"
+      ],
+      "author_name": [
+        "Jody Revenson"
+      ],
+      "ebook_access": "no_ebook",
+      "edition_count": 1,
+      "first_publish_year": 2015,
+      "has_fulltext": false,
+      "key": "/works/OL29251706W",
+      "public_scan_b": false,
+      "title": "Harry Potter : Die Welt der magischen Wesen"
+    },
+    {
+      "author_key": [
+        "OL2875727A"
+      ],
+      "author_name": [
+        "Jody Revenson"
+      ],
+      "ebook_access": "no_ebook",
+      "edition_count": 1,
+      "first_publish_year": 2015,
+      "has_fulltext": false,
+      "key": "/works/OL20015368W",
+      "language": [
+        "eng"
+      ],
+      "public_scan_b": false,
+      "title": "Harry Potter magical places from the films"
+    },
+    {
+      "author_key": [
+        "OL7622127A"
+      ],
+      "author_name": [
+        "aa"
+      ],
+      "cover_edition_key": "OL27663112M",
+      "cover_i": 9105847,
+      "ebook_access": "no_ebook",
+      "edition_count": 1,
+      "first_publish_year": 1994,
+      "has_fulltext": false,
+      "key": "/works/OL20439862W",
+      "public_scan_b": false,
+      "title": "lego harry potter building the magical world"
+    },
+    {
+      "author_key": [
+        "OL2875727A"
+      ],
+      "author_name": [
+        "Jody Revenson"
+      ],
+      "ebook_access": "no_ebook",
+      "edition_count": 1,
+      "first_publish_year": 2020,
+      "has_fulltext": false,
+      "key": "/works/OL22140303W",
+      "language": [
+        "eng"
+      ],
+      "public_scan_b": false,
+      "title": "Harry Potter : the Film Vault - Volume 11"
+    },
+    {
+      "author_key": [
+        "OL7573316A"
+      ],
+      "author_name": [
+        "Barbara Maria Zollner"
+      ],
+      "cover_edition_key": "OL27068623M",
+      "cover_i": 8684475,
+      "ebook_access": "no_ebook",
+      "edition_count": 1,
+      "first_publish_year": 2003,
+      "has_fulltext": false,
+      "key": "/works/OL19881315W",
+      "language": [
+        "ger"
+      ],
+      "public_scan_b": false,
+      "title": "Langenscheidt grosses Zauberwörterbuch für Harry Potter-Fans"
+    },
+    {
+      "author_key": [
+        "OL9464244A"
+      ],
+      "author_name": [
+        "Prima Temp Authors Staff"
+      ],
+      "ebook_access": "no_ebook",
+      "edition_count": 1,
+      "first_publish_year": 2002,
+      "has_fulltext": false,
+      "key": "/works/OL25353275W",
+      "language": [
+        "eng"
+      ],
+      "public_scan_b": false,
+      "title": "Harry Potter and the Chamber of Secrets"
+    },
+    {
+      "author_key": [
+        "OL23919A"
+      ],
+      "author_name": [
+        "J. K. Rowling"
+      ],
+      "cover_edition_key": "OL12970649M",
+      "cover_i": 3272840,
+      "ebook_access": "no_ebook",
+      "edition_count": 1,
+      "first_publish_year": 2001,
+      "has_fulltext": false,
+      "key": "/works/OL15267507W",
+      "public_scan_b": false,
+      "title": "Harry Potter. Das Pop-up- Buch 2"
+    },
+    {
+      "author_key": [
+        "OL9225885A",
+        "OL9225884A"
+      ],
+      "author_name": [
+        "Metta Karuna",
+        "Zuno Sila"
+      ],
+      "ebook_access": "no_ebook",
+      "edition_count": 1,
+      "first_publish_year": 2019,
+      "has_fulltext": false,
+      "key": "/works/OL29820700W",
+      "language": [
+        "eng"
+      ],
+      "public_scan_b": false,
+      "title": "Book of Harry Potter Quotes and Images"
+    },
+    {
+      "author_key": [
+        "OL11210367A"
+      ],
+      "author_name": [
+        "Branden WARD"
+      ],
+      "ebook_access": "no_ebook",
+      "edition_count": 1,
+      "first_publish_year": 2020,
+      "has_fulltext": false,
+      "key": "/works/OL30628856W",
+      "language": [
+        "eng"
+      ],
+      "public_scan_b": false,
+      "title": "Halloween in Harry Potter This or That"
+    },
+    {
+      "author_key": [
+        "OL10436293A"
+      ],
+      "author_name": [
+        "Philip Plyming"
+      ],
+      "cover_edition_key": "OL38246458M",
+      "cover_i": 12792650,
+      "ebook_access": "borrowable",
+      "edition_count": 1,
+      "first_publish_year": 2001,
+      "has_fulltext": true,
+      "ia": [
+        "harrypottermeani0000plym"
+      ],
+      "ia_collection": [
+        "inlibrary",
+        "internetarchivebooks",
+        "periodicals",
+        "printdisabled",
+        "pub_grove-spirituality-series"
+      ],
+      "key": "/works/OL27975374W",
+      "language": [
+        "eng"
+      ],
+      "lending_edition_s": "OL38246458M",
+      "lending_identifier_s": "harrypottermeani0000plym",
+      "public_scan_b": false,
+      "title": "Harry Potter and the meaning of life"
+    },
+    {
+      "author_key": [
+        "OL231144A"
+      ],
+      "author_name": [
+        "Karen Farrington"
+      ],
+      "cover_i": 7694388,
+      "ebook_access": "borrowable",
+      "edition_count": 1,
+      "first_publish_year": 2010,
+      "has_fulltext": true,
+      "ia": [
+        "potterpensievetr0000farr"
+      ],
+      "ia_collection": [
+        "inlibrary",
+        "internetarchivebooks",
+        "printdisabled"
+      ],
+      "key": "/works/OL17496301W",
+      "lending_edition_s": "OL26083640M",
+      "lending_identifier_s": "potterpensievetr0000farr",
+      "public_scan_b": false,
+      "title": "The Potter Pensieve Trivial Delights From The World Of Harry Potter"
+    },
+    {
+      "author_key": [
+        "OL23919A"
+      ],
+      "author_name": [
+        "J. K. Rowling"
+      ],
+      "cover_edition_key": "OL35664023M",
+      "cover_i": 12369747,
+      "ebook_access": "no_ebook",
+      "edition_count": 1,
+      "first_publish_year": 2019,
+      "has_fulltext": false,
+      "key": "/works/OL26415020W",
+      "public_scan_b": false,
+      "title": "Harry Potter e o Enigma do Principe - Edicao Comemorativa dos 20 anos da Colecao Harry Potter"
+    },
+    {
+      "author_key": [
+        "OL2834649A",
+        "OL9611183A"
+      ],
+      "author_name": [
+        "Warner Bros",
+        "Warner Bros. Entertainment Staff"
+      ],
+      "cover_edition_key": "OL7511627M",
+      "cover_i": 276945,
+      "ebook_access": "no_ebook",
+      "edition_count": 1,
+      "first_publish_year": 2001,
+      "has_fulltext": false,
+      "key": "/works/OL18145104W",
+      "language": [
+        "eng"
+      ],
+      "public_scan_b": false,
+      "title": "Scenes from Harry Potter and the Sorcerer's Stone Stained Glass Art (Harry Potter Stained Glass Books)"
+    },
+    {
+      "author_key": [
+        "OL589508A"
+      ],
+      "author_name": [
+        "Joanna Farrow"
+      ],
+      "cover_edition_key": "OL46545173M",
+      "cover_i": 13316223,
+      "ebook_access": "no_ebook",
+      "edition_count": 2,
+      "first_publish_year": 2022,
+      "has_fulltext": false,
+      "key": "/works/OL27492480W",
+      "language": [
+        "spa"
+      ],
+      "public_scan_b": false,
+      "title": "Cocina de Hogwarts / the Official Harry Potter Baking Book"
+    },
+    {
+      "author_key": [
+        "OL10461490A"
+      ],
+      "author_name": [
+        "Vincent Verret"
+      ],
+      "ebook_access": "no_ebook",
+      "edition_count": 2,
+      "first_publish_year": 2018,
+      "has_fulltext": false,
+      "key": "/works/OL40624419W",
+      "language": [
+        "eng"
+      ],
+      "public_scan_b": false,
+      "title": "Study Guide : Harry Potter and the Goblet of Fire"
+    },
+    {
+      "author_key": [
+        "OL2834598A"
+      ],
+      "author_name": [
+        "Gail Lew"
+      ],
+      "cover_edition_key": "OL8005500M",
+      "cover_i": 1416046,
+      "ebook_access": "no_ebook",
+      "edition_count": 2,
+      "first_publish_year": 2002,
+      "has_fulltext": false,
+      "key": "/works/OL8487793W",
+      "language": [
+        "eng"
+      ],
+      "public_scan_b": false,
+      "title": "Themes from Harry Potter and the Chamber of Secrets"
+    },
+    {
+      "author_key": [
+        "OL7037362A"
+      ],
+      "author_name": [
+        "Tanis Gray"
+      ],
+      "ebook_access": "no_ebook",
+      "edition_count": 1,
+      "first_publish_year": 2020,
+      "has_fulltext": false,
+      "key": "/works/OL29251743W",
+      "public_scan_b": false,
+      "title": "Harry Potter : Magisch stricken : Das offizielle Harry-Potter-Strickbuch. Aus den Filmen mit Harry Potter"
+    },
+    {
+      "author_key": [
+        "OL2703818A"
+      ],
+      "author_name": [
+        "Fiona Simpson"
+      ],
+      "cover_edition_key": "OL7514341M",
+      "cover_i": 278727,
+      "ebook_access": "no_ebook",
+      "edition_count": 1,
+      "first_publish_year": 2005,
+      "has_fulltext": false,
+      "key": "/works/OL8120753W",
+      "language": [
+        "eng"
+      ],
+      "public_scan_b": false,
+      "title": "Harry Potter and the Goblet of Fire Book of Creatures"
+    },
+    {
+      "author_key": [
+        "OL63110A"
+      ],
+      "author_name": [
+        "Marie Morreale"
+      ],
+      "cover_i": 278728,
+      "ebook_access": "borrowable",
+      "edition_count": 1,
+      "first_publish_year": 2005,
+      "has_fulltext": true,
+      "ia": [
+        "harrypottergoble0000unse_k7f3"
+      ],
+      "ia_collection": [
+        "inlibrary",
+        "internetarchivebooks",
+        "printdisabled"
+      ],
+      "key": "/works/OL766736W",
+      "language": [
+        "eng"
+      ],
+      "lending_edition_s": "OL7514342M",
+      "lending_identifier_s": "harrypottergoble0000unse_k7f3",
+      "public_scan_b": false,
+      "title": "Harry Potter and the Goblet of Fire Movie Poster Book"
+    },
+    {
+      "author_key": [
+        "OL2623174A"
+      ],
+      "author_name": [
+        "Julia Eccleshare"
+      ],
+      "cover_edition_key": "OL9654362M",
+      "cover_i": 1572536,
+      "ebook_access": "printdisabled",
+      "edition_count": 2,
+      "first_publish_year": 2002,
+      "has_fulltext": true,
+      "ia": [
+        "guidetoharrypott0000eccl"
+      ],
+      "ia_collection": [
+        "bpljordan-ol",
+        "framingham-ol",
+        "gwulibraries-ol",
+        "internetarchivebooks",
+        "printdisabled",
+        "rochester-ol",
+        "universityofcoloradoboulder-ol",
+        "universityofoklahoma-ol"
+      ],
+      "key": "/works/OL262081W",
+      "language": [
+        "eng"
+      ],
+      "public_scan_b": false,
+      "title": "A Guide to the Harry Potter Novels (Contemporary Classics in Children's Literature)"
+    },
+    {
+      "author_key": [
+        "OL3891307A"
+      ],
+      "author_name": [
+        "Benoit Virole"
+      ],
+      "cover_edition_key": "OL12384691M",
+      "cover_i": 13063999,
+      "ebook_access": "borrowable",
+      "edition_count": 1,
+      "first_publish_year": 2002,
+      "has_fulltext": true,
+      "ia": [
+        "lenchantementhar0000viro"
+      ],
+      "ia_collection": [
+        "inlibrary",
+        "internetarchivebooks",
+        "printdisabled"
+      ],
+      "key": "/works/OL9916891W",
+      "language": [
+        "fre"
+      ],
+      "lending_edition_s": "OL12384691M",
+      "lending_identifier_s": "lenchantementhar0000viro",
+      "public_scan_b": false,
+      "title": "L'Enchantement Harry Potter"
+    },
+    {
+      "author_key": [
+        "OL9248987A"
+      ],
+      "author_name": [
+        "O Claude"
+      ],
+      "cover_edition_key": "OL32542854M",
+      "cover_i": 11191241,
+      "ebook_access": "no_ebook",
+      "edition_count": 1,
+      "first_publish_year": 2021,
+      "has_fulltext": false,
+      "key": "/works/OL24548510W",
+      "public_scan_b": false,
+      "title": "Harry Potter Coloring Book"
+    },
+    {
+      "author_key": [
+        "OL2875727A"
+      ],
+      "author_name": [
+        "Jody Revenson"
+      ],
+      "cover_edition_key": "OL34119016M",
+      "cover_i": 14678067,
+      "ebook_access": "no_ebook",
+      "edition_count": 1,
+      "first_publish_year": 2021,
+      "has_fulltext": false,
+      "key": "/works/OL25444559W",
+      "language": [
+        "eng"
+      ],
+      "public_scan_b": false,
+      "title": "Harry Potter : Magical Meditations"
+    },
+    {
+      "author_key": [
+        "OL3113071A"
+      ],
+      "author_name": [
+        "Collectif"
+      ],
+      "cover_edition_key": "OL31876764M",
+      "cover_i": 10553188,
+      "ebook_access": "no_ebook",
+      "edition_count": 1,
+      "first_publish_year": 2021,
+      "has_fulltext": false,
+      "key": "/works/OL24153607W",
+      "public_scan_b": false,
+      "title": "Harry Potter - Destination Poudlard"
+    },
+    {
+      "author_key": [
+        "OL9662768A"
+      ],
+      "author_name": [
+        "Amina Amina Gerhold"
+      ],
+      "ebook_access": "no_ebook",
+      "edition_count": 1,
+      "first_publish_year": 2020,
+      "has_fulltext": false,
+      "key": "/works/OL25582010W",
+      "language": [
+        "eng"
+      ],
+      "public_scan_b": false,
+      "title": "Harry Potter Trivia Book"
+    },
+    {
+      "author_key": [
+        "OL1300682A"
+      ],
+      "author_name": [
+        "Thomas Brown"
+      ],
+      "ebook_access": "no_ebook",
+      "edition_count": 1,
+      "first_publish_year": 2019,
+      "has_fulltext": false,
+      "key": "/works/OL25897961W",
+      "language": [
+        "eng"
+      ],
+      "public_scan_b": false,
+      "title": "Magical Harry Potter Recipes"
+    },
+    {
+      "author_key": [
+        "OL11093734A"
+      ],
+      "author_name": [
+        "Art Therapy Art Therapy Press"
+      ],
+      "ebook_access": "no_ebook",
+      "edition_count": 1,
+      "first_publish_year": 2019,
+      "has_fulltext": false,
+      "key": "/works/OL30282381W",
+      "language": [
+        "eng"
+      ],
+      "public_scan_b": false,
+      "title": "Harry Potter Coloring Book"
+    },
+    {
+      "author_key": [
+        "OL1433279A"
+      ],
+      "author_name": [
+        "Linda Nelson"
+      ],
+      "ebook_access": "no_ebook",
+      "edition_count": 1,
+      "first_publish_year": 2020,
+      "has_fulltext": false,
+      "key": "/works/OL30688309W",
+      "language": [
+        "eng"
+      ],
+      "public_scan_b": false,
+      "title": "Magical Harry Potter Recipes"
+    },
+    {
+      "author_key": [
+        "OL11160674A"
+      ],
+      "author_name": [
+        "Venya Krozavtski"
+      ],
+      "ebook_access": "no_ebook",
+      "edition_count": 1,
+      "first_publish_year": 2020,
+      "has_fulltext": false,
+      "key": "/works/OL30617722W",
+      "language": [
+        "eng"
+      ],
+      "public_scan_b": false,
+      "title": "Harry Potter Activity Book"
+    },
+    {
+      "author_key": [
+        "OL8402432A"
+      ],
+      "author_name": [
+        "Calesia Hubbard"
+      ],
+      "ebook_access": "no_ebook",
+      "edition_count": 1,
+      "first_publish_year": 2020,
+      "has_fulltext": false,
+      "key": "/works/OL30677403W",
+      "language": [
+        "eng"
+      ],
+      "public_scan_b": false,
+      "title": "Harry Potter Quiz Book"
+    },
+    {
+      "author_key": [
+        "OL11263002A"
+      ],
+      "author_name": [
+        "Mildred HOLDING"
+      ],
+      "ebook_access": "no_ebook",
+      "edition_count": 1,
+      "first_publish_year": 2020,
+      "has_fulltext": false,
+      "key": "/works/OL30771966W",
+      "language": [
+        "eng"
+      ],
+      "public_scan_b": false,
+      "title": "Challenges for Harry Potter"
+    },
+    {
+      "author_key": [
+        "OL11242580A"
+      ],
+      "author_name": [
+        "Hermina Hermina Feil"
+      ],
+      "ebook_access": "no_ebook",
+      "edition_count": 1,
+      "first_publish_year": 2020,
+      "has_fulltext": false,
+      "key": "/works/OL30712530W",
+      "language": [
+        "eng"
+      ],
+      "public_scan_b": false,
+      "title": "Harry Potter Trivia Book"
+    },
+    {
+      "author_key": [
+        "OL11237624A"
+      ],
+      "author_name": [
+        "Steve Bolry"
+      ],
+      "ebook_access": "no_ebook",
+      "edition_count": 1,
+      "first_publish_year": 2020,
+      "has_fulltext": false,
+      "key": "/works/OL30700448W",
+      "language": [
+        "eng"
+      ],
+      "public_scan_b": false,
+      "title": "Harry Potter Coloring Book"
+    },
+    {
+      "author_key": [
+        "OL11192023A"
+      ],
+      "author_name": [
+        "Sam Long"
+      ],
+      "ebook_access": "no_ebook",
+      "edition_count": 1,
+      "first_publish_year": 2020,
+      "has_fulltext": false,
+      "key": "/works/OL30649004W",
+      "language": [
+        "eng"
+      ],
+      "public_scan_b": false,
+      "title": "Harry Potter Coloring Book"
+    },
+    {
+      "author_key": [
+        "OL11235403A"
+      ],
+      "author_name": [
+        "Kate Jameson"
+      ],
+      "ebook_access": "no_ebook",
+      "edition_count": 1,
+      "first_publish_year": 2020,
+      "has_fulltext": false,
+      "key": "/works/OL30693725W",
+      "language": [
+        "eng"
+      ],
+      "public_scan_b": false,
+      "title": "Harry Potter Coloring Book"
+    },
+    {
+      "author_key": [
+        "OL9798836A"
+      ],
+      "author_name": [
+        "GrowBig Publishing"
+      ],
+      "ebook_access": "no_ebook",
+      "edition_count": 1,
+      "first_publish_year": 2021,
+      "has_fulltext": false,
+      "key": "/works/OL30870498W",
+      "language": [
+        "eng"
+      ],
+      "public_scan_b": false,
+      "title": "Harry Potter Colouring Book"
+    },
+    {
+      "author_key": [
+        "OL3301892A"
+      ],
+      "author_name": [
+        "Rachel Williams"
+      ],
+      "ebook_access": "no_ebook",
+      "edition_count": 1,
+      "first_publish_year": 2020,
+      "has_fulltext": false,
+      "key": "/works/OL30899123W",
+      "language": [
+        "eng"
+      ],
+      "public_scan_b": false,
+      "title": "Harry Potter Dessert Cookbook"
+    },
+    {
+      "author_key": [
+        "OL11282068A"
+      ],
+      "author_name": [
+        "ALessa Alorzo"
+      ],
+      "ebook_access": "no_ebook",
+      "edition_count": 1,
+      "first_publish_year": 2020,
+      "has_fulltext": false,
+      "key": "/works/OL30838214W",
+      "language": [
+        "ger"
+      ],
+      "public_scan_b": false,
+      "title": "Inoffizielle Harry Potter Kochbuch"
+    },
+    {
+      "author_key": [
+        "OL11282301A"
+      ],
+      "author_name": [
+        "Hannah Masliraf"
+      ],
+      "ebook_access": "no_ebook",
+      "edition_count": 1,
+      "first_publish_year": 2020,
+      "has_fulltext": false,
+      "key": "/works/OL30839097W",
+      "language": [
+        "ger"
+      ],
+      "public_scan_b": false,
+      "title": "Inoffizielle Harry Potter Kochbuch"
+    },
+    {
+      "author_key": [
+        "OL9659436A"
+      ],
+      "author_name": [
+        "Tito Tito Goldner"
+      ],
+      "ebook_access": "no_ebook",
+      "edition_count": 1,
+      "first_publish_year": 2021,
+      "has_fulltext": false,
+      "key": "/works/OL30857747W",
+      "language": [
+        "eng"
+      ],
+      "public_scan_b": false,
+      "title": "Harry Potter Spell Book"
+    }
+  ]
+}

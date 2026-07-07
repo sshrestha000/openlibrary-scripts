@@ -1,0 +1,38 @@
+{
+  "description": {
+    "type": "/type/text",
+    "value": "The vast estates of the Talmage and Warfield families adjoin each other in Kent, where there is a long history of enmity between the Earls of Sherbourne and the Barons of the Warfield families. When Nicholas Talmage unexpectedly inherits the family estate, he returns to Regency London and then Kent from a stint on the Continent. It is there he surprisingly falls in love with Tess Warfield, though he has no idea at first that this is who the young lady is. Tess Warfield is victim of a frightening accident as she tries to escape the clutches of the greedy cousin who inherited her father's estate. Together, Tess and Nicholas discover passion, romance . . . and answers to the mysterious series of events that initially pitted their families against one another."
+  },
+  "covers": [
+    286720
+  ],
+  "key": "/works/OL4772214W",
+  "authors": [
+    {
+      "type": "/type/author_role",
+      "author": {
+        "key": "/authors/OL1002036A"
+      }
+    }
+  ],
+  "title": "Lovers Forever",
+  "subjects": [
+    "Fiction",
+    "Romance",
+    "Fiction, romance, contemporary",
+    "Fiction, romance, general"
+  ],
+  "type": {
+    "key": "/type/work"
+  },
+  "latest_revision": 6,
+  "revision": 6,
+  "created": {
+    "type": "/type/datetime",
+    "value": "2009-12-10T07:29:13.003179"
+  },
+  "last_modified": {
+    "type": "/type/datetime",
+    "value": "2022-11-18T23:25:46.781844"
+  }
+}

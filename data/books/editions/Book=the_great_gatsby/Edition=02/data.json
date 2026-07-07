@@ -1,0 +1,45 @@
+{
+  "type": {
+    "key": "/type/edition"
+  },
+  "authors": [
+    {
+      "key": "/authors/OL27349A"
+    }
+  ],
+  "isbn_13": [
+    "9798407482048"
+  ],
+  "languages": [
+    {
+      "key": "/languages/eng"
+    }
+  ],
+  "pagination": "210",
+  "publish_date": "2022",
+  "publishers": [
+    "Independently Published"
+  ],
+  "source_records": [
+    "bwb:9798407482048"
+  ],
+  "title": "Great Gatsby - the Great American Historical Romance Novel",
+  "weight": "0.377",
+  "subtitle": "Unabridged Contents with a Short Author's Autobiography",
+  "works": [
+    {
+      "key": "/works/OL468431W"
+    }
+  ],
+  "key": "/books/OL39699283M",
+  "latest_revision": 3,
+  "revision": 3,
+  "created": {
+    "type": "/type/datetime",
+    "value": "2022-09-18T23:22:44.543961"
+  },
+  "last_modified": {
+    "type": "/type/datetime",
+    "value": "2023-01-13T02:07:43.571395"
+  }
+}

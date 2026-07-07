@@ -1,0 +1,50 @@
+{
+  "works": [
+    {
+      "key": "/works/OL27482W"
+    }
+  ],
+  "title": "O Hobbit",
+  "publishers": [
+    "HarperCollins"
+  ],
+  "publish_date": "15 julho 2019",
+  "key": "/books/OL58964146M",
+  "type": {
+    "key": "/type/edition"
+  },
+  "identifiers": {},
+  "covers": [
+    15027388
+  ],
+  "isbn_13": [
+    "9788595084742"
+  ],
+  "languages": [
+    {
+      "key": "/languages/por"
+    }
+  ],
+  "translation_of": "The Hobbit",
+  "translated_from": [
+    {
+      "key": "/languages/eng"
+    }
+  ],
+  "description": {
+    "type": "/type/text",
+    "value": "Bilbo Bolseiro era um dos mais respeitáveis hobbits de todo o Condado até que, um dia, o mago Gandalf bate à sua porta. A partir de então, toda sua vida pacata e campestre soprando anéis de fumaça com seu belo cachimbo começa a mudar. Ele é convocado a participar de uma aventura por ninguém menos do que Thorin Escudo-de-Carvalho, um príncipe do poderoso povo dos Anãos.\r\n\r\nEsta jornada fará Bilbo, Gandalf e 13 anãos atravessarem a Terra-média, passando por inúmeros perigos, como os imensos trols, as Montanhas Nevoentas infestadas de gobelins ou a muito antiga e misteriosa Trevamata, até chegarem (se conseguirem) na Montanha Solitária. Lá está um incalculável tesouro, mas há um porém. Deitado em cima dele está Smaug, o Dourado, um dragão malicioso que... bem, você terá que ler para descobrir.\r\n\r\nLançado em 1937, O Hobbit é um divisor de águas na literatura de fantasia mundial. Mais de 80 anos após a sua publicação, o livro que antecede os ocorridos em O Senhor dos Anéis continua arrebatando fãs de todas as idades, talvez pelo seu tom brincalhão com uma pitada de magia élfica, ou talvez porque J.R.R. Tolkien tenha escrito o melhor livro infantojuvenil de todos os tempos. \r\n\r\nEdição com mapas, capa dura, fitilho, as ilustrações originais de J.R.R. Tolkien e um pôster de Valfenda exclusivo!"
+  },
+  "physical_format": "Capa Dura",
+  "number_of_pages": 336,
+  "latest_revision": 3,
+  "revision": 3,
+  "created": {
+    "type": "/type/datetime",
+    "value": "2025-05-08T21:38:16.239781"
+  },
+  "last_modified": {
+    "type": "/type/datetime",
+    "value": "2025-05-08T21:39:54.640349"
+  }
+}

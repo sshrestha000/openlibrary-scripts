@@ -1,0 +1,77 @@
+{
+  "publishers": [
+    "Deutsche Verlags-Anstalt"
+  ],
+  "number_of_pages": 121,
+  "subtitle": "Aquarelle, Bilder, Zeichnungen",
+  "weight": "1.9 pounds",
+  "covers": [
+    2202173
+  ],
+  "physical_format": "Hardcover",
+  "key": "/books/OL9031842M",
+  "authors": [
+    {
+      "key": "/authors/OL359253A"
+    },
+    {
+      "key": "/authors/OL61563A"
+    }
+  ],
+  "publish_places": [
+    "Stuttgart"
+  ],
+  "isbn_13": [
+    "9783421053664"
+  ],
+  "source_records": [
+    "marc:marc_loc_2016/BooksAll.2016.part01.utf8:117948242:822",
+    "marc:harvard_bibliographic_metadata/20220215_014.bib.mrc:289434979:1550"
+  ],
+  "title": "Beim Malen bin ich weggetreten",
+  "identifiers": {
+    "goodreads": [
+      "1579354"
+    ],
+    "librarything": [
+      "2643680"
+    ]
+  },
+  "languages": [
+    {
+      "key": "/languages/ger"
+    }
+  ],
+  "isbn_10": [
+    "3421053669"
+  ],
+  "publish_date": "2000",
+  "oclc_numbers": [
+    "45669013"
+  ],
+  "works": [
+    {
+      "key": "/works/OL22088918W"
+    }
+  ],
+  "type": {
+    "key": "/type/edition"
+  },
+  "physical_dimensions": "11.8 x 8.4 x 0.8 inches",
+  "lccn": [
+    "00339438"
+  ],
+  "lc_classifications": [
+    "N6888.K463 A4 2000"
+  ],
+  "latest_revision": 8,
+  "revision": 8,
+  "created": {
+    "type": "/type/datetime",
+    "value": "2008-04-30T09:38:13.731961"
+  },
+  "last_modified": {
+    "type": "/type/datetime",
+    "value": "2025-08-22T23:51:36.995713"
+  }
+}

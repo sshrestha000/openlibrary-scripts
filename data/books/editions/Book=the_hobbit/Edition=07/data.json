@@ -1,0 +1,68 @@
+{
+  "publishers": [
+    "Ballantine Books"
+  ],
+  "identifiers": {
+    "librarything": [
+      "3206242"
+    ]
+  },
+  "authors": [
+    {
+      "key": "/authors/OL26320A"
+    }
+  ],
+  "pagination": "287 p.",
+  "lc_classifications": [
+    "PZ8.T52 Ho10"
+  ],
+  "key": "/books/OL5526619M",
+  "by_statement": "by J. R. R. Tolkien.",
+  "publish_places": [
+    "New York"
+  ],
+  "languages": [
+    {
+      "key": "/languages/eng"
+    }
+  ],
+  "genres": [
+    "Fiction."
+  ],
+  "source_records": [
+    "marc:marc_records_scriblio_net/part06.dat:1853388:685"
+  ],
+  "title": "The hobbit, or, There and back again",
+  "lccn": [
+    "67000312"
+  ],
+  "number_of_pages": 287,
+  "edition_name": "Rev. ed.",
+  "subjects": [
+    "Middle Earth (Imaginary place) -- Fiction",
+    "Baggins, Bilbo (Fictitious character) -- Fiction"
+  ],
+  "publish_date": "1966",
+  "publish_country": "nyu",
+  "work_title": [
+    "Hobbit"
+  ],
+  "works": [
+    {
+      "key": "/works/OL27482W"
+    }
+  ],
+  "type": {
+    "key": "/type/edition"
+  },
+  "latest_revision": 20,
+  "revision": 20,
+  "created": {
+    "type": "/type/datetime",
+    "value": "2008-04-01T03:28:50.625462"
+  },
+  "last_modified": {
+    "type": "/type/datetime",
+    "value": "2024-05-20T14:04:40.204685"
+  }
+}

@@ -1,0 +1,62 @@
+{
+  "type": {
+    "key": "/type/edition"
+  },
+  "publish_date": "1890",
+  "publish_country": "it",
+  "languages": [
+    {
+      "key": "/languages/ita"
+    }
+  ],
+  "authors": [
+    {
+      "key": "/authors/OL5603476A"
+    }
+  ],
+  "oclc_numbers": [
+    "165292715"
+  ],
+  "work_titles": [
+    "Anna di Dovara"
+  ],
+  "contributions": [
+    "Visentini, A."
+  ],
+  "title": "Anna di Dovara",
+  "subtitle": "dramma lirico in tre atti",
+  "by_statement": "dell'avvocato A. Visentini.  Musica di G. Zelioli.  Rappresentata la prima volta in Milano nel Teatro dell'Accademia dei Filodrammatici, primavera 1890",
+  "publishers": [
+    "Tip. Messaggi"
+  ],
+  "publish_places": [
+    "Treviglio"
+  ],
+  "pagination": "30 p.",
+  "number_of_pages": 30,
+  "ocaid": "annadidovaradram00zeli",
+  "source_records": [
+    "ia:annadidovaradram00zeli",
+    "ia:annadidovaradram00vise"
+  ],
+  "full_title": "Anna di Dovara dramma lirico in tre atti",
+  "covers": [
+    11761534
+  ],
+  "works": [
+    {
+      "key": "/works/OL24871618W"
+    }
+  ],
+  "key": "/books/OL33059676M",
+  "latest_revision": 2,
+  "revision": 2,
+  "created": {
+    "type": "/type/datetime",
+    "value": "2021-08-23T12:10:32.256529"
+  },
+  "last_modified": {
+    "type": "/type/datetime",
+    "value": "2021-08-28T04:32:47.940209"
+  }
+}

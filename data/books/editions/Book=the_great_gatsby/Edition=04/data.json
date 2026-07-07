@@ -1,0 +1,118 @@
+{
+  "type": {
+    "key": "/type/edition"
+  },
+  "publish_date": "2011",
+  "publish_country": "enk",
+  "languages": [
+    {
+      "key": "/languages/eng"
+    }
+  ],
+  "authors": [
+    {
+      "key": "/authors/OL27349A"
+    }
+  ],
+  "oclc_numbers": [
+    "1231991280"
+  ],
+  "lc_classifications": [
+    "PS3511.I9 G7 2011eb",
+    "PS3511.I9"
+  ],
+  "dewey_decimal_class": [
+    "813.52"
+  ],
+  "series": [
+    "Arcturus classics"
+  ],
+  "description": {
+    "type": "/type/text",
+    "value": "One of the books that 'everybody should read', this was named the '2nd greatest novel of the 20th century' by the Modern Library and it has now been filmed six times, including the latest version directed by Baz Luhrmann and starring Leonardo DiCaprio."
+  },
+  "links": [
+    {
+      "url": "https://search.ebscohost.com/login.aspx?direct=true&scope=site&db=nlebk&db=nlabk&AN=2680198",
+      "title": "EBSCOhost"
+    },
+    {
+      "url": "http://www.totalboox.com/book/id-1719170699596330205",
+      "title": "Total Boox"
+    },
+    {
+      "url": "http://www.vlebooks.com/vleweb/product/openreader?id=none&isbn=9781782122715",
+      "title": "VLeBooks"
+    },
+    {
+      "url": "https://www.vlebooks.com/vleweb/product/openreader?id=none&isbn=9781398805477",
+      "title": "VLeBooks"
+    },
+    {
+      "url": "http://cdn.totalboox.com/static/covers/Vearsa/17dbb8a489b2f4dd-b.jpg",
+      "title": "Total Boox, Cover image"
+    }
+  ],
+  "subjects": [
+    "First loves",
+    "Fiction",
+    "Rich people",
+    "Premier amour",
+    "Romans, nouvelles",
+    "Riches"
+  ],
+  "subject_places": [
+    "New York (State)",
+    "New York",
+    "New York (État)"
+  ],
+  "title": "The great Gatsby",
+  "by_statement": "F. Scott Fitzgerald",
+  "publishers": [
+    "Arcturus"
+  ],
+  "publish_places": [
+    "London"
+  ],
+  "isbn_13": [
+    "9781398805477",
+    "9781782122715",
+    "9781848378896"
+  ],
+  "isbn_10": [
+    "1398805475",
+    "1782122710",
+    "1848378890"
+  ],
+  "pagination": "1 online resource (1 volume)",
+  "ocaid": "greatgatsby0000fitz_c5u7",
+  "source_records": [
+    "ia:greatgatsby0000fitz_c5u7",
+    "promise:bwb_daily_pallets_2022-06-13",
+    "bwb:9781848378896"
+  ],
+  "full_title": "The great Gatsby",
+  "covers": [
+    15144216,
+    12882405
+  ],
+  "works": [
+    {
+      "key": "/works/OL468431W"
+    }
+  ],
+  "key": "/books/OL39479050M",
+  "local_id": [
+    "urn:bwbsku:O8-AXO-852"
+  ],
+  "latest_revision": 5,
+  "revision": 5,
+  "created": {
+    "type": "/type/datetime",
+    "value": "2022-09-02T05:38:09.505373"
+  },
+  "last_modified": {
+    "type": "/type/datetime",
+    "value": "2025-11-18T03:22:59.845779"
+  }
+}

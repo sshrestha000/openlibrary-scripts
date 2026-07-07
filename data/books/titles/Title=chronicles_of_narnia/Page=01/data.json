@@ -1,0 +1,1899 @@
+{
+  "numFound": 212,
+  "start": 0,
+  "numFoundExact": true,
+  "num_found": 212,
+  "documentation_url": "https://openlibrary.org/dev/docs/api/search",
+  "q": "",
+  "offset": null,
+  "docs": [
+    {
+      "author_key": [
+        "OL31574A"
+      ],
+      "author_name": [
+        "C. S. Lewis"
+      ],
+      "cover_edition_key": "OL3962556M",
+      "cover_i": 9321656,
+      "ebook_access": "unclassified",
+      "edition_count": 60,
+      "first_publish_year": 1970,
+      "has_fulltext": false,
+      "ia": [
+        "chroniclesofnarn00lewi",
+        "completechronicl0000lewi",
+        "isbn_9780060598242",
+        "chroniclesofnar00lewi"
+      ],
+      "ia_collection": [
+        "litigationworks"
+      ],
+      "key": "/works/OL70988W",
+      "language": [
+        "rus",
+        "pol",
+        "eng",
+        "spa"
+      ],
+      "public_scan_b": false,
+      "subtitle": "The Complete Set",
+      "title": "The Chronicles of Narnia"
+    },
+    {
+      "author_key": [
+        "OL31574A",
+        "OL1078747A"
+      ],
+      "author_name": [
+        "C.S. Lewis",
+        "Pauline Baynes"
+      ],
+      "cover_edition_key": "OL27908917M",
+      "cover_i": 9264408,
+      "ebook_access": "no_ebook",
+      "edition_count": 2,
+      "first_publish_year": 2004,
+      "has_fulltext": false,
+      "key": "/works/OL20643179W",
+      "public_scan_b": false,
+      "title": "The Chronicles of Narnia"
+    },
+    {
+      "author_key": [
+        "OL3701125A"
+      ],
+      "author_name": [
+        "Perry Moore"
+      ],
+      "cover_edition_key": "OL9237272M",
+      "cover_i": 37224,
+      "ebook_access": "borrowable",
+      "edition_count": 5,
+      "first_publish_year": 2005,
+      "has_fulltext": true,
+      "ia": [
+        "chroniclesofnarn00moor"
+      ],
+      "ia_collection": [
+        "americana",
+        "inlibrary",
+        "internetarchivebooks",
+        "printdisabled"
+      ],
+      "key": "/works/OL4616012W",
+      "language": [
+        "eng"
+      ],
+      "lending_edition_s": "OL23160385M",
+      "lending_identifier_s": "chroniclesofnarn00moor",
+      "public_scan_b": false,
+      "subtitle": "The Official Illustrated Movie Companion",
+      "title": "The Chronicles of Narnia - The Lion, the Witch, and the Wardrobe"
+    },
+    {
+      "author_key": [
+        "OL29809A"
+      ],
+      "author_name": [
+        "Harold Bloom"
+      ],
+      "cover_edition_key": "OL18288959M",
+      "cover_i": 10565686,
+      "ebook_access": "borrowable",
+      "edition_count": 1,
+      "first_publish_year": 2006,
+      "has_fulltext": true,
+      "ia": [
+        "cslewisschronicl0000unse"
+      ],
+      "ia_collection": [
+        "binghamton-ol",
+        "cnusd-ol",
+        "dartmouthlibrary-ol",
+        "delawarecountydistrictlibrary-ol",
+        "inlibrary",
+        "internetarchivebooks",
+        "printdisabled",
+        "riceuniversity-ol",
+        "rochester-ol"
+      ],
+      "key": "/works/OL19112883W",
+      "language": [
+        "eng"
+      ],
+      "lending_edition_s": "OL18288959M",
+      "lending_identifier_s": "cslewisschronicl0000unse",
+      "public_scan_b": false,
+      "title": "C.S. Lewis's The chronicles of Narnia"
+    },
+    {
+      "author_key": [
+        "OL238853A"
+      ],
+      "author_name": [
+        "C. N. Manlove"
+      ],
+      "cover_edition_key": "OL1740477M",
+      "cover_i": 1521226,
+      "ebook_access": "borrowable",
+      "edition_count": 2,
+      "first_publish_year": 1993,
+      "has_fulltext": true,
+      "ia": [
+        "chroniclesofnarn0000manl"
+      ],
+      "ia_collection": [
+        "belmont-ol",
+        "dartmouthlibrary-ol",
+        "inlibrary",
+        "internetarchivebooks",
+        "johnshopkins-ol",
+        "printdisabled",
+        "randolph-macon-college-ol",
+        "rochester-ol",
+        "unb-ol",
+        "uni-ol",
+        "universityofarizona-ol",
+        "universityofcoloradoboulder-ol"
+      ],
+      "key": "/works/OL1985179W",
+      "language": [
+        "eng"
+      ],
+      "lending_edition_s": "OL1740477M",
+      "lending_identifier_s": "chroniclesofnarn0000manl",
+      "public_scan_b": false,
+      "title": "The chronicles of Narnia"
+    },
+    {
+      "author_key": [
+        "OL2993474A"
+      ],
+      "author_name": [
+        "Harry Gregson-Williams"
+      ],
+      "cover_edition_key": "OL8495194M",
+      "cover_i": 766710,
+      "ebook_access": "no_ebook",
+      "edition_count": 7,
+      "first_publish_year": 2006,
+      "has_fulltext": false,
+      "key": "/works/OL8786460W",
+      "language": [
+        "eng"
+      ],
+      "public_scan_b": false,
+      "title": "The Chronicles of Narnia"
+    },
+    {
+      "cover_edition_key": "OL32085758M",
+      "cover_i": 10739807,
+      "ebook_access": "borrowable",
+      "edition_count": 1,
+      "first_publish_year": 2008,
+      "has_fulltext": true,
+      "ia": [
+        "chroniclesofnarn0000unse_v4r5"
+      ],
+      "ia_collection": [
+        "inlibrary",
+        "internetarchivebooks",
+        "printdisabled"
+      ],
+      "key": "/works/OL24254665W",
+      "language": [
+        "eng"
+      ],
+      "lending_edition_s": "OL32085758M",
+      "lending_identifier_s": "chroniclesofnarn0000unse_v4r5",
+      "public_scan_b": false,
+      "title": "The chronicles of Narnia"
+    },
+    {
+      "author_key": [
+        "OL31574A"
+      ],
+      "author_name": [
+        "C.S. Lewis"
+      ],
+      "ebook_access": "no_ebook",
+      "edition_count": 2,
+      "first_publish_year": 2001,
+      "has_fulltext": false,
+      "key": "/works/OL29300543W",
+      "language": [
+        "eng"
+      ],
+      "public_scan_b": false,
+      "title": "Chronicles of Narnia"
+    },
+    {
+      "author_key": [
+        "OL31574A"
+      ],
+      "author_name": [
+        "C.S. Lewis"
+      ],
+      "ebook_access": "no_ebook",
+      "edition_count": 1,
+      "first_publish_year": 2020,
+      "has_fulltext": false,
+      "key": "/works/OL27203387W",
+      "language": [
+        "eng"
+      ],
+      "public_scan_b": false,
+      "title": "Chronicles of Narnia"
+    },
+    {
+      "author_key": [
+        "OL31574A"
+      ],
+      "author_name": [
+        "C.S. Lewis"
+      ],
+      "cover_edition_key": "OL7276326M",
+      "cover_i": 23960,
+      "ebook_access": "no_ebook",
+      "edition_count": 4,
+      "first_publish_year": 1994,
+      "has_fulltext": false,
+      "key": "/works/OL71120W",
+      "language": [
+        "eng"
+      ],
+      "public_scan_b": false,
+      "title": "The Chronicles of Narnia Box Set"
+    },
+    {
+      "author_key": [
+        "OL773723A",
+        "OL6978701A",
+        "OL774818A"
+      ],
+      "author_name": [
+        "Gregory Bassham",
+        "Jerry L. Walls",
+        "Jerry L. Walls"
+      ],
+      "cover_edition_key": "OL24993310M",
+      "cover_i": 6931942,
+      "ebook_access": "printdisabled",
+      "edition_count": 3,
+      "first_publish_year": 2005,
+      "has_fulltext": true,
+      "ia": [
+        "chroniclesofnarn00bass"
+      ],
+      "ia_collection": [
+        "internetarchivebooks",
+        "printdisabled"
+      ],
+      "key": "/works/OL16097551W",
+      "language": [
+        "eng"
+      ],
+      "public_scan_b": false,
+      "title": "The Chronicles of Narnia and Philosophy"
+    },
+    {
+      "author_key": [
+        "OL2821354A"
+      ],
+      "author_name": [
+        "BradyGames"
+      ],
+      "cover_edition_key": "OL7953703M",
+      "cover_i": 1386344,
+      "ebook_access": "no_ebook",
+      "edition_count": 2,
+      "first_publish_year": 2005,
+      "has_fulltext": false,
+      "key": "/works/OL8455806W",
+      "language": [
+        "eng"
+      ],
+      "public_scan_b": false,
+      "subtitle": "The Lion, The Witch and The Wardrobe Official Strategy Guide: Strategy Guide",
+      "title": "Chronicles of Narnia, The"
+    },
+    {
+      "author_key": [
+        "OL31574A",
+        "OL8752914A"
+      ],
+      "author_name": [
+        "C.S. Lewis",
+        "Dramatization"
+      ],
+      "cover_edition_key": "OL33054615M",
+      "cover_i": 11756428,
+      "ebook_access": "no_ebook",
+      "edition_count": 1,
+      "first_publish_year": 1997,
+      "has_fulltext": false,
+      "key": "/works/OL24867882W",
+      "public_scan_b": false,
+      "title": "The Chronicles of Narnia : The Magician's Nephew"
+    },
+    {
+      "author_key": [
+        "OL31574A"
+      ],
+      "author_name": [
+        "C.S. Lewis"
+      ],
+      "ebook_access": "no_ebook",
+      "edition_count": 4,
+      "first_publish_year": 2005,
+      "has_fulltext": false,
+      "key": "/works/OL32348995W",
+      "language": [
+        "eng"
+      ],
+      "public_scan_b": false,
+      "title": "Complete Chronicles of Narnia"
+    },
+    {
+      "author_key": [
+        "OL31574A",
+        "OL8752914A"
+      ],
+      "author_name": [
+        "C.S. Lewis",
+        "Dramatization"
+      ],
+      "cover_edition_key": "OL33054611M",
+      "cover_i": 11756423,
+      "ebook_access": "no_ebook",
+      "edition_count": 1,
+      "first_publish_year": 1996,
+      "has_fulltext": false,
+      "key": "/works/OL24867879W",
+      "public_scan_b": false,
+      "title": "The Chronicles of Narnia : The Lion, the Witch, and the Wardrobe"
+    },
+    {
+      "author_key": [
+        "OL2630777A"
+      ],
+      "author_name": [
+        "Michael Flexer"
+      ],
+      "cover_edition_key": "OL9243705M",
+      "cover_i": 47006,
+      "ebook_access": "no_ebook",
+      "edition_count": 2,
+      "first_publish_year": 2006,
+      "has_fulltext": false,
+      "key": "/works/OL263954W",
+      "language": [
+        "eng"
+      ],
+      "public_scan_b": false,
+      "subtitle": "The Lion, the Witch and the Wardrobe Chapter Book Box Set",
+      "title": "Chronicles of Narnia"
+    },
+    {
+      "author_key": [
+        "OL2805153A"
+      ],
+      "author_name": [
+        "Focus on the Family"
+      ],
+      "cover_edition_key": "OL8844794M",
+      "cover_i": 858764,
+      "ebook_access": "no_ebook",
+      "edition_count": 1,
+      "first_publish_year": 2005,
+      "has_fulltext": false,
+      "key": "/works/OL8410114W",
+      "language": [
+        "eng"
+      ],
+      "public_scan_b": false,
+      "title": "The Chronicles of Narnia"
+    },
+    {
+      "cover_edition_key": "OL32980079M",
+      "cover_i": 11604226,
+      "ebook_access": "borrowable",
+      "edition_count": 1,
+      "first_publish_year": 2006,
+      "has_fulltext": true,
+      "ia": [
+        "chroniclesofnarn0000unse_a6i2"
+      ],
+      "ia_collection": [
+        "inlibrary",
+        "internetarchivebooks",
+        "printdisabled"
+      ],
+      "key": "/works/OL24817557W",
+      "language": [
+        "eng"
+      ],
+      "lending_edition_s": "OL32980079M",
+      "lending_identifier_s": "chroniclesofnarn0000unse_a6i2",
+      "public_scan_b": false,
+      "title": "The Chronicles of Narnia activity book"
+    },
+    {
+      "ebook_access": "no_ebook",
+      "edition_count": 1,
+      "has_fulltext": false,
+      "key": "/works/OL31810736W",
+      "public_scan_b": false,
+      "title": "Chronicles of Narnia"
+    },
+    {
+      "author_key": [
+        "OL31574A",
+        "OL3763106A"
+      ],
+      "author_name": [
+        "C. S. Lewis",
+        "Joey Chou"
+      ],
+      "ebook_access": "no_ebook",
+      "edition_count": 2,
+      "first_publish_year": 2025,
+      "has_fulltext": false,
+      "key": "/works/OL42434814W",
+      "language": [
+        "eng"
+      ],
+      "public_scan_b": false,
+      "title": "Chronicles of Narnia"
+    },
+    {
+      "author_key": [
+        "OL31574A"
+      ],
+      "author_name": [
+        "C.S. Lewis"
+      ],
+      "ebook_access": "no_ebook",
+      "edition_count": 4,
+      "first_publish_year": 1988,
+      "has_fulltext": false,
+      "key": "/works/OL71121W",
+      "language": [
+        "eng"
+      ],
+      "public_scan_b": false,
+      "title": "The Chronicles of Narnia Set"
+    },
+    {
+      "author_key": [
+        "OL1231930A"
+      ],
+      "author_name": [
+        "Kirk H. Beetz"
+      ],
+      "cover_i": 6932161,
+      "ebook_access": "borrowable",
+      "edition_count": 1,
+      "first_publish_year": 2001,
+      "has_fulltext": true,
+      "ia": [
+        "exploringcslewis0000beet"
+      ],
+      "ia_collection": [
+        "inlibrary",
+        "internetarchivebooks",
+        "printdisabled"
+      ],
+      "key": "/works/OL5352274W",
+      "language": [
+        "eng"
+      ],
+      "lending_edition_s": "OL6794149M",
+      "lending_identifier_s": "exploringcslewis0000beet",
+      "public_scan_b": false,
+      "title": "Exploring C.S. Lewis' The chronicles of Narnia"
+    },
+    {
+      "author_key": [
+        "OL31574A"
+      ],
+      "author_name": [
+        "C.S. Lewis"
+      ],
+      "cover_edition_key": "OL32809612M",
+      "cover_i": 11441733,
+      "ebook_access": "no_ebook",
+      "edition_count": 1,
+      "first_publish_year": 2014,
+      "has_fulltext": false,
+      "key": "/works/OL24716116W",
+      "public_scan_b": false,
+      "title": "The Chronicles of Narnia"
+    },
+    {
+      "author_key": [
+        "OL31574A"
+      ],
+      "author_name": [
+        "C. S. Lewis"
+      ],
+      "cover_edition_key": "OL45813235M",
+      "cover_i": 14451202,
+      "ebook_access": "borrowable",
+      "edition_count": 1,
+      "first_publish_year": 1980,
+      "has_fulltext": true,
+      "ia": [
+        "chroniclesofnarn0000csle"
+      ],
+      "ia_collection": [
+        "inlibrary",
+        "internetarchivebooks",
+        "printdisabled"
+      ],
+      "key": "/works/OL33834570W",
+      "lending_edition_s": "OL45813235M",
+      "lending_identifier_s": "chroniclesofnarn0000csle",
+      "public_scan_b": false,
+      "title": "The Chronicles of Narnia #6 the Silver Chair"
+    },
+    {
+      "author_key": [
+        "OL29809A"
+      ],
+      "author_name": [
+        "Harold Bloom"
+      ],
+      "cover_edition_key": "OL8160179M",
+      "cover_i": 555701,
+      "ebook_access": "no_ebook",
+      "edition_count": 1,
+      "first_publish_year": 2006,
+      "has_fulltext": false,
+      "key": "/works/OL14942031W",
+      "language": [
+        "eng"
+      ],
+      "public_scan_b": false,
+      "title": "The Chronicles of Narnia"
+    },
+    {
+      "author_key": [
+        "OL2993474A"
+      ],
+      "author_name": [
+        "Harry Gregson-Williams"
+      ],
+      "ebook_access": "no_ebook",
+      "edition_count": 3,
+      "first_publish_year": 2008,
+      "has_fulltext": false,
+      "key": "/works/OL21730858W",
+      "language": [
+        "eng"
+      ],
+      "public_scan_b": false,
+      "title": "Chronicles of Narnia - Prince Caspian"
+    },
+    {
+      "author_key": [
+        "OL31574A"
+      ],
+      "author_name": [
+        "C.S. Lewis"
+      ],
+      "ebook_access": "no_ebook",
+      "edition_count": 4,
+      "first_publish_year": 2019,
+      "has_fulltext": false,
+      "key": "/works/OL28394745W",
+      "language": [
+        "eng"
+      ],
+      "public_scan_b": false,
+      "title": "Chronicles of Narnia"
+    },
+    {
+      "author_key": [
+        "OL31574A"
+      ],
+      "author_name": [
+        "C. S. Lewis"
+      ],
+      "ebook_access": "no_ebook",
+      "edition_count": 2,
+      "first_publish_year": 2014,
+      "has_fulltext": false,
+      "key": "/works/OL41580083W",
+      "language": [
+        "eng"
+      ],
+      "public_scan_b": false,
+      "title": "Chronicles of Narnia (Complete Collection)"
+    },
+    {
+      "author_key": [
+        "OL31574A"
+      ],
+      "author_name": [
+        "C. S. Lewis"
+      ],
+      "ebook_access": "no_ebook",
+      "edition_count": 1,
+      "first_publish_year": 1999,
+      "has_fulltext": false,
+      "key": "/works/OL28963304W",
+      "public_scan_b": false,
+      "title": "The Complete Chronicles of Narnia"
+    },
+    {
+      "author_key": [
+        "OL8408011A"
+      ],
+      "author_name": [
+        "Albie Scott"
+      ],
+      "ebook_access": "no_ebook",
+      "edition_count": 2,
+      "first_publish_year": 2020,
+      "has_fulltext": false,
+      "key": "/works/OL21978035W",
+      "language": [
+        "eng"
+      ],
+      "public_scan_b": false,
+      "title": "Chronicles of Narnia Coloring Book"
+    },
+    {
+      "author_key": [
+        "OL3352992A"
+      ],
+      "author_name": [
+        "Ernie Malik"
+      ],
+      "cover_edition_key": "OL9952702M",
+      "cover_i": 6690270,
+      "ebook_access": "borrowable",
+      "edition_count": 1,
+      "first_publish_year": 2008,
+      "has_fulltext": true,
+      "ia": [
+        "chroniclesofnarn0000mali"
+      ],
+      "ia_collection": [
+        "inlibrary",
+        "internetarchivebooks",
+        "printdisabled"
+      ],
+      "key": "/works/OL9302709W",
+      "language": [
+        "eng"
+      ],
+      "lending_edition_s": "OL9952702M",
+      "lending_identifier_s": "chroniclesofnarn0000mali",
+      "public_scan_b": false,
+      "title": "The Chronicles of Narnia: Prince Caspian"
+    },
+    {
+      "author_key": [
+        "OL31574A"
+      ],
+      "author_name": [
+        "C.S. Lewis"
+      ],
+      "ebook_access": "no_ebook",
+      "edition_count": 2,
+      "first_publish_year": 2005,
+      "has_fulltext": false,
+      "key": "/works/OL70989W",
+      "language": [
+        "eng"
+      ],
+      "public_scan_b": false,
+      "title": "Chronicles of Narnia (Lion, the Witch, and the Wardrobe / Magician's Nephew)"
+    },
+    {
+      "author_key": [
+        "OL31574A"
+      ],
+      "author_name": [
+        "C.S. Lewis"
+      ],
+      "cover_edition_key": "OL31871456M",
+      "cover_i": 10550369,
+      "ebook_access": "no_ebook",
+      "edition_count": 1,
+      "first_publish_year": 2001,
+      "has_fulltext": false,
+      "key": "/works/OL24151292W",
+      "public_scan_b": false,
+      "title": "Chronicles of Narnia"
+    },
+    {
+      "author_key": [
+        "OL31574A"
+      ],
+      "author_name": [
+        "C.S. Lewis"
+      ],
+      "ebook_access": "no_ebook",
+      "edition_count": 3,
+      "first_publish_year": 1980,
+      "has_fulltext": false,
+      "key": "/works/OL31856465W",
+      "language": [
+        "eng"
+      ],
+      "public_scan_b": false,
+      "title": "The Chronicles of Narnia"
+    },
+    {
+      "author_key": [
+        "OL6196069A"
+      ],
+      "author_name": [
+        "Maria Borisnova Kuteeva"
+      ],
+      "ebook_access": "no_ebook",
+      "edition_count": 1,
+      "first_publish_year": 1995,
+      "has_fulltext": false,
+      "key": "/works/OL13295939W",
+      "language": [
+        "eng"
+      ],
+      "public_scan_b": false,
+      "title": "C .S.Lewis's Chronicles of Narnia"
+    },
+    {
+      "author_key": [
+        "OL29809A"
+      ],
+      "author_name": [
+        "Harold Bloom"
+      ],
+      "ebook_access": "no_ebook",
+      "edition_count": 1,
+      "first_publish_year": 2009,
+      "has_fulltext": false,
+      "key": "/works/OL35302359W",
+      "public_scan_b": false,
+      "title": "Chronicles of Narnia"
+    },
+    {
+      "author_key": [
+        "OL31574A"
+      ],
+      "author_name": [
+        "C.S. Lewis"
+      ],
+      "cover_edition_key": "OL32777628M",
+      "cover_i": 11409347,
+      "ebook_access": "no_ebook",
+      "edition_count": 1,
+      "first_publish_year": 2003,
+      "has_fulltext": false,
+      "key": "/works/OL24695917W",
+      "public_scan_b": false,
+      "title": "The Chronicles of Narnia"
+    },
+    {
+      "author_key": [
+        "OL31574A"
+      ],
+      "author_name": [
+        "C.S. Lewis"
+      ],
+      "cover_edition_key": "OL32435686M",
+      "cover_i": 11095876,
+      "ebook_access": "no_ebook",
+      "edition_count": 1,
+      "has_fulltext": false,
+      "key": "/works/OL24482608W",
+      "public_scan_b": false,
+      "title": "The Chronicles of Narnia"
+    },
+    {
+      "author_key": [
+        "OL31574A"
+      ],
+      "author_name": [
+        "C.S. Lewis"
+      ],
+      "cover_edition_key": "OL26799067M",
+      "cover_i": 8455144,
+      "ebook_access": "no_ebook",
+      "edition_count": 1,
+      "first_publish_year": 1991,
+      "has_fulltext": false,
+      "key": "/works/OL19341697W",
+      "public_scan_b": false,
+      "title": "Chronicles of Narnia (Lion, the Witch, and the Wardrobe / Prince Caspian / Voyage of the Dawn Treader)"
+    },
+    {
+      "author_key": [
+        "OL31574A"
+      ],
+      "author_name": [
+        "C. S. Lewis"
+      ],
+      "ebook_access": "no_ebook",
+      "edition_count": 2,
+      "first_publish_year": 1997,
+      "has_fulltext": false,
+      "key": "/works/OL71034W",
+      "language": [
+        "eng"
+      ],
+      "public_scan_b": false,
+      "title": "The Lion, the Witch and the Wardobe/The Chronicles of Narnia 6 Vols"
+    },
+    {
+      "author_key": [
+        "OL31574A",
+        "OL1078747A"
+      ],
+      "author_name": [
+        "C.S. Lewis",
+        "Pauline Baynes"
+      ],
+      "ebook_access": "no_ebook",
+      "edition_count": 1,
+      "first_publish_year": 2016,
+      "has_fulltext": false,
+      "key": "/works/OL21289321W",
+      "language": [
+        "eng"
+      ],
+      "public_scan_b": false,
+      "title": "Chronicles of Narnia Official Coloring Book"
+    },
+    {
+      "author_key": [
+        "OL15498095A"
+      ],
+      "author_name": [
+        "David Arnold"
+      ],
+      "cover_edition_key": "OL32178673M",
+      "cover_i": 10835675,
+      "ebook_access": "no_ebook",
+      "edition_count": 3,
+      "first_publish_year": 2011,
+      "has_fulltext": false,
+      "key": "/works/OL24317687W",
+      "language": [
+        "eng"
+      ],
+      "public_scan_b": false,
+      "title": "The Chronicles of Narnia"
+    },
+    {
+      "author_key": [
+        "OL3034885A"
+      ],
+      "author_name": [
+        "Ned Bustard"
+      ],
+      "ebook_access": "no_ebook",
+      "edition_count": 1,
+      "first_publish_year": 2004,
+      "has_fulltext": false,
+      "key": "/works/OL8848420W",
+      "language": [
+        "eng"
+      ],
+      "public_scan_b": false,
+      "title": "Chronicles of Narnia Comprehensive Guide"
+    },
+    {
+      "author_key": [
+        "OL233970A",
+        "OL31574A"
+      ],
+      "author_name": [
+        "Robert Sabuda",
+        "C.S. Lewis"
+      ],
+      "ebook_access": "no_ebook",
+      "edition_count": 2,
+      "first_publish_year": 2008,
+      "has_fulltext": false,
+      "key": "/works/OL32367119W",
+      "language": [
+        "eng"
+      ],
+      "public_scan_b": false,
+      "title": "Chronicles of Narnia"
+    },
+    {
+      "author_key": [
+        "OL3532980A"
+      ],
+      "author_name": [
+        "Elizabeth Baird Hardy"
+      ],
+      "cover_edition_key": "OL11045503M",
+      "cover_i": 2627579,
+      "ebook_access": "printdisabled",
+      "edition_count": 2,
+      "first_publish_year": 2006,
+      "has_fulltext": true,
+      "ia": [
+        "miltonspenserchr0000hard"
+      ],
+      "ia_collection": [
+        "binghamton-ol",
+        "cua-ol",
+        "gwulibraries-ol",
+        "internetarchivebooks",
+        "printdisabled",
+        "riceuniversity-ol",
+        "rochester-ol",
+        "uni-ol",
+        "universityofoklahoma-ol"
+      ],
+      "key": "/works/OL9527221W",
+      "language": [
+        "eng"
+      ],
+      "public_scan_b": false,
+      "title": "Milton, Spenser and the Chronicles of Narnia"
+    },
+    {
+      "author_key": [
+        "OL233970A",
+        "OL31574A"
+      ],
+      "author_name": [
+        "Robert Sabuda",
+        "C.S. Lewis"
+      ],
+      "cover_edition_key": "OL9243716M",
+      "cover_i": 47029,
+      "ebook_access": "no_ebook",
+      "edition_count": 3,
+      "first_publish_year": 2007,
+      "has_fulltext": false,
+      "key": "/works/OL70993W",
+      "language": [
+        "eng"
+      ],
+      "public_scan_b": false,
+      "title": "The Chronicles of Narnia"
+    },
+    {
+      "author_key": [
+        "OL8918389A"
+      ],
+      "author_name": [
+        "Kevin R. Smith"
+      ],
+      "cover_edition_key": "OL33679496M",
+      "cover_i": 11988685,
+      "ebook_access": "no_ebook",
+      "edition_count": 1,
+      "first_publish_year": 2021,
+      "has_fulltext": false,
+      "key": "/works/OL25223196W",
+      "language": [
+        "eng"
+      ],
+      "public_scan_b": false,
+      "title": "A Guide to The Chronicles of Narnia"
+    },
+    {
+      "author_key": [
+        "OL31574A"
+      ],
+      "author_name": [
+        "C.S. Lewis"
+      ],
+      "ebook_access": "no_ebook",
+      "edition_count": 2,
+      "first_publish_year": 1986,
+      "has_fulltext": false,
+      "key": "/works/OL70995W",
+      "language": [
+        "eng"
+      ],
+      "public_scan_b": false,
+      "title": "Chronicles of Narnia Trade"
+    },
+    {
+      "author_key": [
+        "OL31574A"
+      ],
+      "author_name": [
+        "C. S. Lewis"
+      ],
+      "ebook_access": "no_ebook",
+      "edition_count": 3,
+      "first_publish_year": 2020,
+      "has_fulltext": false,
+      "key": "/works/OL35779973W",
+      "language": [
+        "eng"
+      ],
+      "public_scan_b": false,
+      "title": "Last Battle (Chronicles of Narnia #7)"
+    },
+    {
+      "author_key": [
+        "OL31574A"
+      ],
+      "author_name": [
+        "C.S. Lewis"
+      ],
+      "cover_edition_key": "OL8171966M",
+      "cover_i": 13509835,
+      "ebook_access": "no_ebook",
+      "edition_count": 1,
+      "first_publish_year": 2005,
+      "has_fulltext": false,
+      "key": "/works/OL15333938W",
+      "language": [
+        "fre"
+      ],
+      "public_scan_b": false,
+      "title": "Les Chroniques de Narnia (French edition of The Chronicles of Narnia), 7 volumes"
+    },
+    {
+      "author_key": [
+        "OL2805153A"
+      ],
+      "author_name": [
+        "Focus on the Family"
+      ],
+      "cover_edition_key": "OL11530167M",
+      "cover_i": 2662783,
+      "ebook_access": "no_ebook",
+      "edition_count": 1,
+      "first_publish_year": 2002,
+      "has_fulltext": false,
+      "key": "/works/OL8410115W",
+      "language": [
+        "eng"
+      ],
+      "public_scan_b": false,
+      "title": "Chronicles of Narnia RT Sampler (Radio Theatre)"
+    },
+    {
+      "author_key": [
+        "OL3042899A"
+      ],
+      "author_name": [
+        "Patrice Benson"
+      ],
+      "ebook_access": "no_ebook",
+      "edition_count": 1,
+      "first_publish_year": 1995,
+      "has_fulltext": false,
+      "key": "/works/OL8860467W",
+      "language": [
+        "eng"
+      ],
+      "public_scan_b": false,
+      "title": "The Chronicles of Narnia (TAP instructional materials)"
+    },
+    {
+      "author_key": [
+        "OL31574A"
+      ],
+      "author_name": [
+        "C. S. Lewis"
+      ],
+      "ebook_access": "no_ebook",
+      "edition_count": 1,
+      "first_publish_year": 1975,
+      "has_fulltext": false,
+      "key": "/works/OL36768237W",
+      "public_scan_b": false,
+      "title": "The Lion, the Witch and the Wardrobe - Book 1 in the Chronicles of Narnia (The Chronicles of Narnia)"
+    },
+    {
+      "author_key": [
+        "OL31574A",
+        "OL1078747A"
+      ],
+      "author_name": [
+        "C.S. Lewis",
+        "Pauline Baynes"
+      ],
+      "ebook_access": "no_ebook",
+      "edition_count": 1,
+      "first_publish_year": 2013,
+      "has_fulltext": false,
+      "key": "/works/OL21780839W",
+      "language": [
+        "eng"
+      ],
+      "public_scan_b": false,
+      "title": "Chronicles of Narnia Complete 7-Book Collection : All 7 Books Plus Bonus Book"
+    },
+    {
+      "author_key": [
+        "OL31574A"
+      ],
+      "author_name": [
+        "C.S. Lewis"
+      ],
+      "ebook_access": "no_ebook",
+      "edition_count": 2,
+      "has_fulltext": false,
+      "key": "/works/OL260595W",
+      "public_scan_b": false,
+      "title": "Complete Chronicles of Narnia Boxset"
+    },
+    {
+      "ebook_access": "no_ebook",
+      "edition_count": 1,
+      "has_fulltext": false,
+      "key": "/works/OL31998630W",
+      "public_scan_b": false,
+      "title": "Chronicles Of Narnia"
+    },
+    {
+      "ebook_access": "no_ebook",
+      "edition_count": 1,
+      "has_fulltext": false,
+      "key": "/works/OL31339886W",
+      "public_scan_b": false,
+      "title": "Chronicles of Narnia"
+    },
+    {
+      "author_key": [
+        "OL31574A"
+      ],
+      "author_name": [
+        "C. S. Lewis"
+      ],
+      "ebook_access": "borrowable",
+      "edition_count": 1,
+      "first_publish_year": 2005,
+      "has_fulltext": true,
+      "ia": [
+        "chronofnarniachr0000csle"
+      ],
+      "ia_collection": [
+        "inlibrary",
+        "internetarchivebooks",
+        "printdisabled"
+      ],
+      "key": "/works/OL35678780W",
+      "lending_edition_s": "OL48122154M",
+      "lending_identifier_s": "chronofnarniachr0000csle",
+      "public_scan_b": false,
+      "title": "Chron Of Narnia (Chronicles of Narnia) (Chinese Edition)"
+    },
+    {
+      "author_key": [
+        "OL14488573A"
+      ],
+      "author_name": [
+        "Thomas Williams"
+      ],
+      "cover_edition_key": "OL8262060M",
+      "cover_i": 645366,
+      "ebook_access": "no_ebook",
+      "edition_count": 1,
+      "first_publish_year": 2005,
+      "has_fulltext": false,
+      "key": "/works/OL8050973W",
+      "language": [
+        "eng"
+      ],
+      "public_scan_b": false,
+      "title": "The Heart of the Chronicles of Narnia"
+    },
+    {
+      "author_key": [
+        "OL9829017A"
+      ],
+      "author_name": [
+        "Godwin WILLIAM"
+      ],
+      "ebook_access": "no_ebook",
+      "edition_count": 1,
+      "first_publish_year": 2021,
+      "has_fulltext": false,
+      "key": "/works/OL26013042W",
+      "language": [
+        "eng"
+      ],
+      "public_scan_b": false,
+      "title": "Trivia about Chronicles of Narnia : How Well Do You Understand Chronicles of Narnia?"
+    },
+    {
+      "author_key": [
+        "OL31574A",
+        "OL1078747A"
+      ],
+      "author_name": [
+        "C.S. Lewis",
+        "Pauline Baynes"
+      ],
+      "ebook_access": "no_ebook",
+      "edition_count": 1,
+      "first_publish_year": 2020,
+      "has_fulltext": false,
+      "key": "/works/OL27450439W",
+      "language": [
+        "eng"
+      ],
+      "public_scan_b": false,
+      "title": "Chronicles of Narnia"
+    },
+    {
+      "author_key": [
+        "OL730908A"
+      ],
+      "author_name": [
+        "Clive Lewis"
+      ],
+      "ebook_access": "no_ebook",
+      "edition_count": 1,
+      "first_publish_year": 2015,
+      "has_fulltext": false,
+      "key": "/works/OL41157108W",
+      "language": [
+        "eng"
+      ],
+      "public_scan_b": false,
+      "title": "Chronicles of Narnia"
+    },
+    {
+      "author_key": [
+        "OL2815278A"
+      ],
+      "author_name": [
+        "C. Lewis"
+      ],
+      "ebook_access": "no_ebook",
+      "edition_count": 1,
+      "first_publish_year": 2014,
+      "has_fulltext": false,
+      "key": "/works/OL40394092W",
+      "language": [
+        "eng"
+      ],
+      "public_scan_b": false,
+      "title": "Chronicles of Narnia"
+    },
+    {
+      "author_key": [
+        "OL3115478A"
+      ],
+      "author_name": [
+        "Focus"
+      ],
+      "ebook_access": "no_ebook",
+      "edition_count": 1,
+      "first_publish_year": 2008,
+      "has_fulltext": false,
+      "key": "/works/OL8976510W",
+      "language": [
+        "eng"
+      ],
+      "public_scan_b": false,
+      "title": "Chronicles of Narnia"
+    },
+    {
+      "author_key": [
+        "OL14419616A"
+      ],
+      "author_name": [
+        "Top 50 Facts"
+      ],
+      "ebook_access": "no_ebook",
+      "edition_count": 1,
+      "first_publish_year": 2016,
+      "has_fulltext": false,
+      "key": "/works/OL40426877W",
+      "language": [
+        "eng"
+      ],
+      "public_scan_b": false,
+      "title": "Chronicles of Narnia"
+    },
+    {
+      "author_key": [
+        "OL11308118A"
+      ],
+      "author_name": [
+        "Baxley ABIGAIL"
+      ],
+      "ebook_access": "no_ebook",
+      "edition_count": 1,
+      "first_publish_year": 2021,
+      "has_fulltext": false,
+      "key": "/works/OL35967846W",
+      "language": [
+        "eng"
+      ],
+      "public_scan_b": false,
+      "title": "Chronicles of Narnia Trivia : How Well Do You Know the Chronicles of Narnia"
+    },
+    {
+      "author_key": [
+        "OL11255763A"
+      ],
+      "author_name": [
+        "Joaquin Ratke"
+      ],
+      "ebook_access": "no_ebook",
+      "edition_count": 1,
+      "first_publish_year": 2021,
+      "has_fulltext": false,
+      "key": "/works/OL30922818W",
+      "language": [
+        "eng"
+      ],
+      "public_scan_b": false,
+      "title": "Chronicles of Narnia Prince Caspian"
+    },
+    {
+      "author_key": [
+        "OL31574A"
+      ],
+      "author_name": [
+        "C.S. Lewis"
+      ],
+      "ebook_access": "no_ebook",
+      "edition_count": 1,
+      "first_publish_year": 2003,
+      "has_fulltext": false,
+      "key": "/works/OL32452406W",
+      "language": [
+        "eng"
+      ],
+      "public_scan_b": false,
+      "title": "Chronicles of Narnia Boxed Set"
+    },
+    {
+      "author_key": [
+        "OL2624503A"
+      ],
+      "author_name": [
+        "Lewis"
+      ],
+      "ebook_access": "no_ebook",
+      "edition_count": 2,
+      "first_publish_year": 1983,
+      "has_fulltext": false,
+      "key": "/works/OL266053W",
+      "language": [
+        "eng"
+      ],
+      "public_scan_b": false,
+      "title": "Chronicles of Narnia 7 Copy Boxed Set"
+    },
+    {
+      "author_key": [
+        "OL31574A"
+      ],
+      "author_name": [
+        "C.S. Lewis"
+      ],
+      "ebook_access": "no_ebook",
+      "edition_count": 1,
+      "first_publish_year": 2010,
+      "has_fulltext": false,
+      "key": "/works/OL35302389W",
+      "public_scan_b": false,
+      "title": "Chronicles of Narnia"
+    },
+    {
+      "author_key": [
+        "OL31574A"
+      ],
+      "author_name": [
+        "C.S. Lewis"
+      ],
+      "cover_edition_key": "OL44428993M",
+      "cover_i": 13863171,
+      "ebook_access": "no_ebook",
+      "edition_count": 1,
+      "first_publish_year": 2003,
+      "has_fulltext": false,
+      "key": "/works/OL32617755W",
+      "public_scan_b": false,
+      "title": "Complete Chronicles of Narnia"
+    },
+    {
+      "ebook_access": "no_ebook",
+      "edition_count": 1,
+      "has_fulltext": false,
+      "key": "/works/OL31956103W",
+      "public_scan_b": false,
+      "title": "The Chronicles of Narnia"
+    },
+    {
+      "author_key": [
+        "OL31574A"
+      ],
+      "author_name": [
+        "C.S. Lewis"
+      ],
+      "ebook_access": "no_ebook",
+      "edition_count": 1,
+      "first_publish_year": 2008,
+      "has_fulltext": false,
+      "key": "/works/OL31188791W",
+      "public_scan_b": false,
+      "title": "The Chronicles of Narnia"
+    },
+    {
+      "author_key": [
+        "OL31574A"
+      ],
+      "author_name": [
+        "C.S. Lewis"
+      ],
+      "ebook_access": "no_ebook",
+      "edition_count": 1,
+      "first_publish_year": 1979,
+      "has_fulltext": false,
+      "key": "/works/OL33944365W",
+      "public_scan_b": false,
+      "title": "THE CHRONICLES OF NARNIA"
+    },
+    {
+      "author_key": [
+        "OL31574A"
+      ],
+      "author_name": [
+        "C.S. Lewis"
+      ],
+      "ebook_access": "no_ebook",
+      "edition_count": 1,
+      "first_publish_year": 2002,
+      "has_fulltext": false,
+      "key": "/works/OL27423134W",
+      "language": [
+        "eng"
+      ],
+      "public_scan_b": false,
+      "title": "Complete Chronicles of Narnia"
+    },
+    {
+      "ebook_access": "no_ebook",
+      "edition_count": 1,
+      "first_publish_year": 2006,
+      "has_fulltext": false,
+      "key": "/works/OL27714551W",
+      "public_scan_b": false,
+      "title": "The Chronicles of Narnia"
+    },
+    {
+      "author_key": [
+        "OL15330589A"
+      ],
+      "author_name": [
+        "c.s. lewis "
+      ],
+      "ebook_access": "printdisabled",
+      "edition_count": 1,
+      "first_publish_year": 1955,
+      "has_fulltext": true,
+      "ia": [
+        "bwb_W9-CHU-066"
+      ],
+      "ia_collection": [
+        "internetarchivebooks",
+        "printdisabled"
+      ],
+      "key": "/works/OL43113384W",
+      "language": [
+        "eng"
+      ],
+      "public_scan_b": false,
+      "title": "the chronicles of narnia "
+    },
+    {
+      "author_key": [
+        "OL16227497A"
+      ],
+      "author_name": [
+        "clive s. lewis"
+      ],
+      "cover_edition_key": "OL61421392M",
+      "cover_i": 15188812,
+      "ebook_access": "printdisabled",
+      "edition_count": 1,
+      "first_publish_year": 1992,
+      "has_fulltext": true,
+      "ia": [
+        "isbn_588044001X"
+      ],
+      "ia_collection": [
+        "internetarchivebooks",
+        "printdisabled"
+      ],
+      "key": "/works/OL45023589W",
+      "public_scan_b": false,
+      "title": "the chronicles of narnia"
+    },
+    {
+      "author_key": [
+        "OL11219971A"
+      ],
+      "author_name": [
+        "Daiyai Ctikei"
+      ],
+      "ebook_access": "no_ebook",
+      "edition_count": 1,
+      "first_publish_year": 2020,
+      "has_fulltext": false,
+      "key": "/works/OL30653612W",
+      "language": [
+        "eng"
+      ],
+      "public_scan_b": false,
+      "title": "Chronicles of Narnia Coloring Book"
+    },
+    {
+      "author_key": [
+        "OL31574A"
+      ],
+      "author_name": [
+        "C. S. Lewis"
+      ],
+      "ebook_access": "no_ebook",
+      "edition_count": 1,
+      "first_publish_year": 2005,
+      "has_fulltext": false,
+      "key": "/works/OL44099588W",
+      "public_scan_b": false,
+      "title": "Chronicles Of Narnia"
+    },
+    {
+      "ebook_access": "no_ebook",
+      "edition_count": 1,
+      "first_publish_year": 2007,
+      "has_fulltext": false,
+      "key": "/works/OL38405518W",
+      "public_scan_b": false,
+      "title": "The Chronicles of Narnia"
+    },
+    {
+      "author_key": [
+        "OL13118413A"
+      ],
+      "author_name": [
+        "Brooke W Loftin"
+      ],
+      "ebook_access": "no_ebook",
+      "edition_count": 1,
+      "first_publish_year": 2021,
+      "has_fulltext": false,
+      "key": "/works/OL36522478W",
+      "public_scan_b": false,
+      "title": "The Chronicles of Narnia"
+    },
+    {
+      "author_key": [
+        "OL11308580A"
+      ],
+      "author_name": [
+        "L. E. E. CHARLES"
+      ],
+      "ebook_access": "no_ebook",
+      "edition_count": 1,
+      "first_publish_year": 2021,
+      "has_fulltext": false,
+      "key": "/works/OL36212750W",
+      "language": [
+        "eng"
+      ],
+      "public_scan_b": false,
+      "title": "Chronicles of Narnia Quizzes : Interesting Facts and Trivia about the Chronicles of Narnia"
+    },
+    {
+      "author_key": [
+        "OL2980232A"
+      ],
+      "author_name": [
+        "Weta Workshop"
+      ],
+      "ebook_access": "no_ebook",
+      "edition_count": 1,
+      "first_publish_year": 2008,
+      "has_fulltext": false,
+      "key": "/works/OL32364564W",
+      "language": [
+        "eng"
+      ],
+      "public_scan_b": false,
+      "title": "Chronicles of Narnia - Creating Narnia"
+    },
+    {
+      "author_key": [
+        "OL9620785A"
+      ],
+      "author_name": [
+        "Eleanor Hersey Nickel"
+      ],
+      "ebook_access": "no_ebook",
+      "edition_count": 3,
+      "first_publish_year": 2021,
+      "has_fulltext": false,
+      "key": "/works/OL25460984W",
+      "language": [
+        "eng"
+      ],
+      "public_scan_b": false,
+      "title": "Christian Popular Culture from the Chronicles of Narnia to Duck Dynasty"
+    },
+    {
+      "author_key": [
+        "OL31574A"
+      ],
+      "author_name": [
+        "C.S. Lewis"
+      ],
+      "ebook_access": "no_ebook",
+      "edition_count": 1,
+      "first_publish_year": 1950,
+      "has_fulltext": false,
+      "key": "/works/OL24846759W",
+      "public_scan_b": false,
+      "title": "The Chronicles of Narnia: The Lion, the witch and the wardrobe."
+    },
+    {
+      "author_key": [
+        "OL31574A"
+      ],
+      "author_name": [
+        "C.S. Lewis"
+      ],
+      "cover_edition_key": "OL32731223M",
+      "cover_i": 11357922,
+      "ebook_access": "no_ebook",
+      "edition_count": 1,
+      "first_publish_year": 1998,
+      "has_fulltext": false,
+      "key": "/works/OL24662446W",
+      "public_scan_b": false,
+      "title": "The Chronicles of Narnia"
+    },
+    {
+      "cover_edition_key": "OL32215499M",
+      "cover_i": 10861165,
+      "ebook_access": "no_ebook",
+      "edition_count": 1,
+      "has_fulltext": false,
+      "key": "/works/OL24338910W",
+      "public_scan_b": false,
+      "title": "The Chronicles of Narnia Collection"
+    },
+    {
+      "author_key": [
+        "OL31574A"
+      ],
+      "author_name": [
+        "C.S. Lewis"
+      ],
+      "ebook_access": "no_ebook",
+      "edition_count": 1,
+      "first_publish_year": 2016,
+      "has_fulltext": false,
+      "key": "/works/OL21129371W",
+      "language": [
+        "eng"
+      ],
+      "public_scan_b": false,
+      "title": "Chronicles of Narnia Colouring Book"
+    },
+    {
+      "author_key": [
+        "OL2629888A"
+      ],
+      "author_name": [
+        "None"
+      ],
+      "ebook_access": "no_ebook",
+      "edition_count": 1,
+      "first_publish_year": 2005,
+      "has_fulltext": false,
+      "key": "/works/OL33678943W",
+      "public_scan_b": false,
+      "title": "The Chronicles of Narnia Journal"
+    },
+    {
+      "author_key": [
+        "OL31574A"
+      ],
+      "author_name": [
+        "C.S. Lewis"
+      ],
+      "ebook_access": "no_ebook",
+      "edition_count": 1,
+      "first_publish_year": 2010,
+      "has_fulltext": false,
+      "key": "/works/OL32368659W",
+      "language": [
+        "eng"
+      ],
+      "public_scan_b": false,
+      "title": "Chronicles of Narnia Box Set"
+    },
+    {
+      "author_key": [
+        "OL31574A",
+        "OL1078747A",
+        "OL2632787A"
+      ],
+      "author_name": [
+        "C.S. Lewis",
+        "Pauline Baynes",
+        "Cliff Nielsen"
+      ],
+      "ebook_access": "no_ebook",
+      "edition_count": 1,
+      "first_publish_year": 2005,
+      "has_fulltext": false,
+      "key": "/works/OL26728210W",
+      "language": [
+        "eng"
+      ],
+      "public_scan_b": false,
+      "title": "Chronicles of Narnia Boxed Set"
+    },
+    {
+      "author_key": [
+        "OL31574A",
+        "OL3371695A"
+      ],
+      "author_name": [
+        "C.S. Lewis",
+        "P. Baynes"
+      ],
+      "cover_edition_key": "OL36677193M",
+      "cover_i": 12563934,
+      "ebook_access": "no_ebook",
+      "edition_count": 1,
+      "first_publish_year": 2005,
+      "has_fulltext": false,
+      "key": "/works/OL27051883W",
+      "public_scan_b": false,
+      "title": "The Complete Chronicles of Narnia"
+    },
+    {
+      "author_key": [
+        "OL31574A"
+      ],
+      "author_name": [
+        "C.S. Lewis"
+      ],
+      "cover_edition_key": "OL28323037M",
+      "cover_i": 10252338,
+      "ebook_access": "no_ebook",
+      "edition_count": 1,
+      "first_publish_year": 2014,
+      "has_fulltext": false,
+      "key": "/works/OL20908651W",
+      "public_scan_b": false,
+      "title": "CHRONICLES OF NARNIA-MAGICI_HB"
+    },
+    {
+      "author_key": [
+        "OL31574A"
+      ],
+      "author_name": [
+        "C. S. Lewis"
+      ],
+      "ebook_access": "no_ebook",
+      "edition_count": 1,
+      "first_publish_year": 2023,
+      "has_fulltext": false,
+      "key": "/works/OL36040659W",
+      "language": [
+        "eng"
+      ],
+      "public_scan_b": false,
+      "title": "Chronicles of Narnia Box Set"
+    },
+    {
+      "ebook_access": "no_ebook",
+      "edition_count": 1,
+      "first_publish_year": 1978,
+      "has_fulltext": false,
+      "key": "/works/OL13348700M",
+      "public_scan_b": false,
+      "title": "Chronicles of Narnia Super Soundbook"
+    },
+    {
+      "author_key": [
+        "OL31574A"
+      ],
+      "author_name": [
+        "C. S. Lewis"
+      ],
+      "ebook_access": "no_ebook",
+      "edition_count": 1,
+      "first_publish_year": 1973,
+      "has_fulltext": false,
+      "key": "/works/OL15095375W",
+      "public_scan_b": false,
+      "title": "Chronicles of Narnia Map Posters"
+    },
+    {
+      "author_key": [
+        "OL2623233A"
+      ],
+      "author_name": [
+        "Michael Tanner"
+      ],
+      "ebook_access": "no_ebook",
+      "edition_count": 1,
+      "first_publish_year": 2020,
+      "has_fulltext": false,
+      "key": "/works/OL30610862W",
+      "language": [
+        "eng"
+      ],
+      "public_scan_b": false,
+      "title": "Chronicles of Narnia Poster Collection"
+    },
+    {
+      "author_key": [
+        "OL31574A"
+      ],
+      "author_name": [
+        "C. S. Lewis"
+      ],
+      "cover_edition_key": "OL7828734M",
+      "cover_i": 371646,
+      "ebook_access": "no_ebook",
+      "edition_count": 1,
+      "first_publish_year": 1998,
+      "has_fulltext": false,
+      "key": "/works/OL15333913W",
+      "language": [
+        "eng"
+      ],
+      "public_scan_b": false,
+      "subtitle": "BBC (The Chronicles of Narnia , Vol 6)",
+      "title": "The Chronicles of Narnia: The Silver Chair"
+    },
+    {
+      "author_key": [
+        "OL9284570A"
+      ],
+      "author_name": [
+        "Cate McDermott"
+      ],
+      "cover_edition_key": "OL32682744M",
+      "cover_i": 11308214,
+      "ebook_access": "no_ebook",
+      "edition_count": 1,
+      "first_publish_year": 2015,
+      "has_fulltext": false,
+      "key": "/works/OL24630744W",
+      "public_scan_b": false,
+      "title": "Aslan in Our World : A Guide to the Chronicles of Narnia"
+    }
+  ]
+}

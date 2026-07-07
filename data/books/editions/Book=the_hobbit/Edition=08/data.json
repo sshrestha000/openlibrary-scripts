@@ -1,0 +1,44 @@
+{
+  "type": {
+    "key": "/type/edition"
+  },
+  "authors": [
+    {
+      "key": "/authors/OL26320A"
+    }
+  ],
+  "isbn_13": [
+    "9780063417069"
+  ],
+  "languages": [
+    {
+      "key": "/languages/eng"
+    }
+  ],
+  "pagination": "384",
+  "publish_date": "2024",
+  "publishers": [
+    "HarperCollins Publishers"
+  ],
+  "source_records": [
+    "bwb:9780063417069"
+  ],
+  "title": "Hobbit Deluxe Illustrated Edition",
+  "weight": "0.648",
+  "works": [
+    {
+      "key": "/works/OL27482W"
+    }
+  ],
+  "key": "/books/OL51388456M",
+  "latest_revision": 3,
+  "revision": 3,
+  "created": {
+    "type": "/type/datetime",
+    "value": "2024-03-17T23:21:05.802966"
+  },
+  "last_modified": {
+    "type": "/type/datetime",
+    "value": "2024-05-20T14:03:11.263372"
+  }
+}

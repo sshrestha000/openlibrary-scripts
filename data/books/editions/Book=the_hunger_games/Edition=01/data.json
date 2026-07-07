@@ -1,0 +1,50 @@
+{
+  "type": {
+    "key": "/type/edition"
+  },
+  "authors": [
+    {
+      "key": "/authors/OL3867357A"
+    },
+    {
+      "key": "/authors/OL9766443A"
+    }
+  ],
+  "isbn_13": [
+    "9781929416080"
+  ],
+  "languages": [
+    {
+      "key": "/languages/eng"
+    }
+  ],
+  "publish_date": "1999",
+  "publishers": [
+    "Magner Publishing & American Binding & Publishing"
+  ],
+  "source_records": [
+    "bwb:9781929416080"
+  ],
+  "subjects": [
+    "Fiction, historical, general"
+  ],
+  "title": "Elusive Dreams",
+  "pagination": "265",
+  "full_title": "Elusive Dreams",
+  "works": [
+    {
+      "key": "/works/OL25815995W"
+    }
+  ],
+  "key": "/books/OL34808651M",
+  "latest_revision": 1,
+  "revision": 1,
+  "created": {
+    "type": "/type/datetime",
+    "value": "2021-10-08T05:14:33.871290"
+  },
+  "last_modified": {
+    "type": "/type/datetime",
+    "value": "2021-10-08T05:14:33.871290"
+  }
+}

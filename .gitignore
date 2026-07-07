@@ -1,10 +1,4 @@
 _venv/
-Authors/
-Books/
-Search/
-Subjects/
-Works/
-*.log
 .ipynb_checkpoints/
 __pycache__/
 *.pyc

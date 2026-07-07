@@ -1,0 +1,44 @@
+{
+  "type": {
+    "key": "/type/edition"
+  },
+  "authors": [
+    {
+      "key": "/authors/OL26320A"
+    }
+  ],
+  "isbn_13": [
+    "9780063396203"
+  ],
+  "languages": [
+    {
+      "key": "/languages/eng"
+    }
+  ],
+  "pagination": "320",
+  "publish_date": "2024",
+  "publishers": [
+    "HarperCollins Publishers"
+  ],
+  "source_records": [
+    "bwb:9780063396203"
+  ],
+  "title": "Hobbit Collector's Edition",
+  "weight": "0.455",
+  "works": [
+    {
+      "key": "/works/OL27482W"
+    }
+  ],
+  "key": "/books/OL50965438M",
+  "latest_revision": 3,
+  "revision": 3,
+  "created": {
+    "type": "/type/datetime",
+    "value": "2024-02-01T06:13:33.304986"
+  },
+  "last_modified": {
+    "type": "/type/datetime",
+    "value": "2024-05-20T14:03:11.263372"
+  }
+}

@@ -1,0 +1,77 @@
+{
+  "publishers": [
+    "W. Blackwood and sons"
+  ],
+  "subtitle": "wanderings and wild sport on and beyond the Himalayas",
+  "subject_place": [
+    "Himalaya Mountains",
+    "Himalaya Mountains."
+  ],
+  "covers": [
+    5865931
+  ],
+  "lc_classifications": [
+    "SK235 .M15 1891"
+  ],
+  "latest_revision": 6,
+  "key": "/books/OL6939361M",
+  "authors": [
+    {
+      "key": "/authors/OL2410527A"
+    }
+  ],
+  "ocaid": "hindukohwanderi00macigoog",
+  "publish_places": [
+    "Edinburgh",
+    "London"
+  ],
+  "languages": [
+    {
+      "key": "/languages/eng"
+    }
+  ],
+  "pagination": "xviii, 362 p.",
+  "source_records": [
+    "marc:marc_records_scriblio_net/part01.dat:147974965:865",
+    "ia:hindukohwanderi00macigoog",
+    "ia:hindukohwanderi01macigoog",
+    "marc:marc_loc_2016/BooksAll.2016.part02.utf8:10727811:865"
+  ],
+  "title": "Hindu-Koh",
+  "lccn": [
+    "04010170"
+  ],
+  "notes": {
+    "type": "/type/text",
+    "value": "The photographs have guard sheets, with outline drawings and explanatory letterpress."
+  },
+  "number_of_pages": 362,
+  "created": {
+    "type": "/type/datetime",
+    "value": "2008-04-01T03:28:50.625462"
+  },
+  "edition_name": "New ed.",
+  "subjects": [
+    "Hunting -- Himalaya Mountains",
+    "Himalaya Mountains -- Description and travel"
+  ],
+  "publish_date": "1891",
+  "publish_country": "stk",
+  "last_modified": {
+    "type": "/type/datetime",
+    "value": "2020-09-10T10:55:21.575043"
+  },
+  "by_statement": "by Major-General Donald Macintyre ...",
+  "oclc_numbers": [
+    "2708886"
+  ],
+  "works": [
+    {
+      "key": "/works/OL205681W"
+    }
+  ],
+  "type": {
+    "key": "/type/edition"
+  },
+  "revision": 6
+}

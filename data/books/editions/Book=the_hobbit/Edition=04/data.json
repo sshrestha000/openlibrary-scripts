@@ -1,0 +1,68 @@
+{
+  "works": [
+    {
+      "key": "/works/OL27482W"
+    }
+  ],
+  "title": "De hobbit",
+  "publishers": [
+    "Uitgeverij Meulenhoff"
+  ],
+  "publish_date": "2003",
+  "key": "/books/OL59691274M",
+  "type": {
+    "key": "/type/edition"
+  },
+  "identifiers": {},
+  "covers": [
+    15108076
+  ],
+  "isbn_13": [
+    "9789460923821"
+  ],
+  "publish_places": [
+    "Amsterdam, Netherlands"
+  ],
+  "copyright_date": "2003",
+  "edition_name": "17de druk",
+  "contributors": [
+    {
+      "role": "Translator",
+      "name": "Max Schuchart"
+    }
+  ],
+  "by_statement": "VERTAALD DOOR MAX SCHUCHART",
+  "languages": [
+    {
+      "key": "/languages/dut"
+    }
+  ],
+  "translation_of": "The Hobbit",
+  "translated_from": [
+    {
+      "key": "/languages/eng"
+    }
+  ],
+  "notes": {
+    "type": "/type/text",
+    "value": "Deze digitale uitgave is gebaseerd op de 17de druk."
+  },
+  "other_titles": [
+    "daarheen en weer terug"
+  ],
+  "physical_format": "ebook",
+  "first_sentence": {
+    "type": "/type/text",
+    "value": "In een hol onder de grond woonde een hobbit."
+  },
+  "latest_revision": 4,
+  "revision": 4,
+  "created": {
+    "type": "/type/datetime",
+    "value": "2025-07-29T10:48:55.390206"
+  },
+  "last_modified": {
+    "type": "/type/datetime",
+    "value": "2026-01-21T18:30:55.688362"
+  }
+}

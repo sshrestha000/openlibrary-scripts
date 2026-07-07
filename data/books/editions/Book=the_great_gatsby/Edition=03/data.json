@@ -1,0 +1,45 @@
+{
+  "type": {
+    "key": "/type/edition"
+  },
+  "authors": [
+    {
+      "key": "/authors/OL27349A"
+    }
+  ],
+  "isbn_13": [
+    "9798804453030"
+  ],
+  "languages": [
+    {
+      "key": "/languages/eng"
+    }
+  ],
+  "pagination": "126",
+  "publish_date": "2022",
+  "publishers": [
+    "Independently Published"
+  ],
+  "source_records": [
+    "bwb:9798804453030"
+  ],
+  "title": "Great Gatsby, by F. Scott Fitzgerald (Gold Edition)",
+  "weight": "0.218",
+  "full_title": "Great Gatsby, by F. Scott Fitzgerald (Gold Edition)",
+  "works": [
+    {
+      "key": "/works/OL468431W"
+    }
+  ],
+  "key": "/books/OL39660073M",
+  "latest_revision": 3,
+  "revision": 3,
+  "created": {
+    "type": "/type/datetime",
+    "value": "2022-09-18T16:35:04.005400"
+  },
+  "last_modified": {
+    "type": "/type/datetime",
+    "value": "2023-01-13T02:07:43.571395"
+  }
+}

@@ -1,0 +1,139 @@
+{
+  "description": "Greg Heffley tells about his summer vacation and his attempts to steer clear of trouble when he returns to middle school and tries to keep his older brother Rodrick from telling everyone about Greg's most humiliating experience of the summer.",
+  "title": "Rodrick Rules",
+  "subjects": [
+    "New York Times bestseller",
+    "nyt:series_books=2009-01-10",
+    "Families",
+    "Diaries",
+    "Middle schools",
+    "Familias",
+    "Juvenile fiction",
+    "Amistad",
+    "Fiction",
+    "Ficción juvenil",
+    "Cuentos humorísticos",
+    "Schools",
+    "Diarios íntimos",
+    "Friendship",
+    "Spanish language materials",
+    "Escuela",
+    "Children's fiction",
+    "Schools, fiction",
+    "Diaries, fiction",
+    "Humorous stories",
+    "Family, fiction",
+    "Brothers",
+    "Middle school students",
+    "Children's stories",
+    "Family life",
+    "Comics & Graphic Novels",
+    "Socialization",
+    "School stories",
+    "Interpersonal Relations",
+    "Child",
+    "Humorous fiction",
+    "Friends",
+    "Écoles moyennes",
+    "Romans, nouvelles, etc. pour la jeunesse",
+    "Familles",
+    "Écoles",
+    "Journaux intimes",
+    "Amitié",
+    "Novela juvenil",
+    "Escuelas",
+    "Spanish language",
+    "Reading materials",
+    "Vida familia",
+    "Novela",
+    "Escuelas de enseñanza",
+    "Medio escuelas",
+    "Escuela cuentos",
+    "Diarios",
+    "Materiales lectura en idioma espanol",
+    "Friendship, fiction",
+    "Children's stories, American",
+    "Translation into Catalan",
+    "Rules",
+    "Sissy"
+  ],
+  "subject_people": [
+    "jeff",
+    "Jeff Kinney",
+    "Rodrick",
+    "Gregory"
+  ],
+  "key": "/works/OL15110516W",
+  "authors": [
+    {
+      "author": {
+        "key": "/authors/OL2832500A"
+      },
+      "type": {
+        "key": "/type/author_role"
+      }
+    }
+  ],
+  "subject_times": [
+    "2000",
+    "1998-????",
+    "2000s"
+  ],
+  "type": {
+    "key": "/type/work"
+  },
+  "covers": [
+    8542270,
+    7551224,
+    7555650,
+    7646000,
+    7849145,
+    8473806,
+    2646387,
+    7496480,
+    6856960,
+    7496498,
+    -1,
+    12529792,
+    12741559,
+    13570540,
+    14057972,
+    8770204,
+    10207572,
+    10310444,
+    11073978,
+    11274153,
+    12330113,
+    12357842,
+    13873836,
+    14226847,
+    14057983,
+    14057984,
+    14057977,
+    14057978,
+    9239078
+  ],
+  "subject_places": [
+    "Rome",
+    "Surrey Street",
+    "South america"
+  ],
+  "series": [
+    {
+      "series": {
+        "key": "/series/OL327630L"
+      },
+      "position": "2"
+    }
+  ],
+  "latest_revision": 29,
+  "revision": 29,
+  "created": {
+    "type": "/type/datetime",
+    "value": "2010-04-30T14:46:25.115595"
+  },
+  "last_modified": {
+    "type": "/type/datetime",
+    "value": "2026-03-13T23:24:08.685553"
+  }
+}

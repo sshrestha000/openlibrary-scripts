@@ -1,0 +1,444 @@
+{
+  "numFound": 128,
+  "start": 100,
+  "numFoundExact": true,
+  "num_found": 128,
+  "documentation_url": "https://openlibrary.org/dev/docs/api/search",
+  "q": "",
+  "offset": null,
+  "docs": [
+    {
+      "author_key": [
+        "OL3155790A"
+      ],
+      "author_name": [
+        "Mike Briley"
+      ],
+      "ebook_access": "no_ebook",
+      "edition_count": 1,
+      "first_publish_year": 2022,
+      "has_fulltext": false,
+      "key": "/works/OL29199895W",
+      "language": [
+        "eng"
+      ],
+      "public_scan_b": false,
+      "title": "Mike Percy Jackson the God of Magic"
+    },
+    {
+      "cover_edition_key": "OL47362353M",
+      "cover_i": 13955287,
+      "ebook_access": "no_ebook",
+      "edition_count": 1,
+      "has_fulltext": false,
+      "key": "/works/OL34997952W",
+      "public_scan_b": false,
+      "title": "Percy Jackson i Bogowie olimpijscy t.1/5"
+    },
+    {
+      "cover_edition_key": "OL47362354M",
+      "cover_i": 13955288,
+      "ebook_access": "no_ebook",
+      "edition_count": 1,
+      "has_fulltext": false,
+      "key": "/works/OL34997953W",
+      "public_scan_b": false,
+      "title": "Percy Jackson i bogowie olimpijscy Tom 1-5"
+    },
+    {
+      "author_key": [
+        "OL7527479A"
+      ],
+      "author_name": [
+        "Jesse Brown"
+      ],
+      "ebook_access": "no_ebook",
+      "edition_count": 1,
+      "first_publish_year": 2021,
+      "has_fulltext": false,
+      "key": "/works/OL27222536W",
+      "language": [
+        "eng"
+      ],
+      "public_scan_b": false,
+      "title": "Cocktails Smoothies Juices Percy Jackson Drink Recipe Book"
+    },
+    {
+      "ebook_access": "no_ebook",
+      "edition_count": 1,
+      "has_fulltext": false,
+      "key": "/works/OL35326820W",
+      "public_scan_b": false,
+      "title": "La Mer des Monstres (Percy Jackson, #2)"
+    },
+    {
+      "ebook_access": "no_ebook",
+      "edition_count": 1,
+      "has_fulltext": false,
+      "key": "/works/OL44095102W",
+      "public_scan_b": false,
+      "title": "Percy Jackson and The Olympians - The Lightning Thief"
+    },
+    {
+      "author_key": [
+        "OL9650132A"
+      ],
+      "author_name": [
+        "James HERNANDEZ"
+      ],
+      "ebook_access": "no_ebook",
+      "edition_count": 1,
+      "first_publish_year": 2021,
+      "has_fulltext": false,
+      "key": "/works/OL30904774W",
+      "language": [
+        "eng"
+      ],
+      "public_scan_b": false,
+      "title": "Percy Jackson Ultimate Trivia Challenge : Amazing Quizzes and Answers"
+    },
+    {
+      "author_key": [
+        "OL11314428A"
+      ],
+      "author_name": [
+        "nancy geren"
+      ],
+      "ebook_access": "no_ebook",
+      "edition_count": 1,
+      "first_publish_year": 2021,
+      "has_fulltext": false,
+      "key": "/works/OL35957618W",
+      "language": [
+        "eng"
+      ],
+      "public_scan_b": false,
+      "title": "Ultimate Percy Jackson Quiz : Mixture Trivia Questions and Answers"
+    },
+    {
+      "author_key": [
+        "OL11265430A"
+      ],
+      "author_name": [
+        "Sheri LUNA"
+      ],
+      "ebook_access": "no_ebook",
+      "edition_count": 1,
+      "first_publish_year": 2021,
+      "has_fulltext": false,
+      "key": "/works/OL35801696W",
+      "language": [
+        "eng"
+      ],
+      "public_scan_b": false,
+      "title": "Percy Jackson Ultimate Trivia Challenge : Amazing Quizzes and Answers"
+    },
+    {
+      "author_key": [
+        "OL14413304A"
+      ],
+      "author_name": [
+        "Top 50 Facts Staff"
+      ],
+      "ebook_access": "no_ebook",
+      "edition_count": 1,
+      "first_publish_year": 2015,
+      "has_fulltext": false,
+      "key": "/works/OL41586181W",
+      "language": [
+        "eng"
+      ],
+      "public_scan_b": false,
+      "title": "Percy Jackson and the Olympians - Top 50 Facts Countdown"
+    },
+    {
+      "author_key": [
+        "OL30765A"
+      ],
+      "author_name": [
+        "Rick Riordan"
+      ],
+      "cover_edition_key": "OL61500052M",
+      "cover_i": 15224151,
+      "ebook_access": "no_ebook",
+      "edition_count": 1,
+      "first_publish_year": 2024,
+      "has_fulltext": false,
+      "key": "/works/OL45091712W",
+      "public_scan_b": false,
+      "title": "Percy Jackson and the wrath of the triple goddess"
+    },
+    {
+      "author_key": [
+        "OL16455957A",
+        "OL16035665A"
+      ],
+      "author_name": [
+        "Rick Riordan",
+        "Annabelle Oh"
+      ],
+      "ebook_access": "no_ebook",
+      "edition_count": 1,
+      "first_publish_year": 2026,
+      "has_fulltext": false,
+      "key": "/works/OL45630110W",
+      "language": [
+        "eng"
+      ],
+      "public_scan_b": false,
+      "title": "Camp Half-Blood : from the World of Percy Jackson"
+    },
+    {
+      "cover_edition_key": "OL31516823M",
+      "cover_i": 10525426,
+      "ebook_access": "no_ebook",
+      "edition_count": 1,
+      "has_fulltext": false,
+      "key": "/works/OL23781600W",
+      "public_scan_b": false,
+      "title": "Percy Jackson and the Olympians 波西杰克逊奥林匹斯英雄系列 英文原版小说 第二季全5册套装 少年版荷马史诗 The Lost Hero"
+    },
+    {
+      "author_key": [
+        "OL30765A"
+      ],
+      "author_name": [
+        "Rick Riordan"
+      ],
+      "cover_i": 13443637,
+      "ebook_access": "no_ebook",
+      "edition_count": 0,
+      "has_fulltext": false,
+      "key": "/works/OL30084812W",
+      "public_scan_b": false,
+      "title": "Percy Jackson in Diebe im Olymp"
+    },
+    {
+      "author_key": [
+        "OL9830626A"
+      ],
+      "author_name": [
+        "Atkins KAYLA"
+      ],
+      "ebook_access": "no_ebook",
+      "edition_count": 1,
+      "first_publish_year": 2021,
+      "has_fulltext": false,
+      "key": "/works/OL36113233W",
+      "language": [
+        "eng"
+      ],
+      "public_scan_b": false,
+      "title": "Percy Jackson Trivia Book : How Much Do You Really Know"
+    },
+    {
+      "author_key": [
+        "OL9621629A"
+      ],
+      "author_name": [
+        "Shelly FALLON"
+      ],
+      "ebook_access": "no_ebook",
+      "edition_count": 1,
+      "first_publish_year": 2021,
+      "has_fulltext": false,
+      "key": "/works/OL35794944W",
+      "language": [
+        "eng"
+      ],
+      "public_scan_b": false,
+      "title": "Percy Jackson Challenging Questions : the Ultimate Trivia Book for All Fans"
+    },
+    {
+      "ebook_access": "no_ebook",
+      "edition_count": 1,
+      "has_fulltext": false,
+      "key": "/works/OL44102549W",
+      "public_scan_b": false,
+      "title": "La battaglia del labirinto. Percy Jackson e gli dei dell'Olimpo"
+    },
+    {
+      "author_key": [
+        "OL13712235A"
+      ],
+      "author_name": [
+        "Whizbooks"
+      ],
+      "ebook_access": "no_ebook",
+      "edition_count": 1,
+      "first_publish_year": 2018,
+      "has_fulltext": false,
+      "key": "/works/OL38242102W",
+      "language": [
+        "eng"
+      ],
+      "public_scan_b": false,
+      "title": "Summary of Percy Jackson and the Olympians : The Lightning Thief Illustrated Edition"
+    },
+    {
+      "author_key": [
+        "OL9644507A"
+      ],
+      "author_name": [
+        "Cheryl JANEK"
+      ],
+      "ebook_access": "no_ebook",
+      "edition_count": 1,
+      "first_publish_year": 2021,
+      "has_fulltext": false,
+      "key": "/works/OL35933891W",
+      "language": [
+        "eng"
+      ],
+      "public_scan_b": false,
+      "title": "Percy Jackson Amazing Quizzes : Fun Facts and Stuff about the Son of Poseidon"
+    },
+    {
+      "author_key": [
+        "OL9752413A"
+      ],
+      "author_name": [
+        "Barry Bennett"
+      ],
+      "ebook_access": "no_ebook",
+      "edition_count": 1,
+      "first_publish_year": 2021,
+      "has_fulltext": false,
+      "key": "/works/OL30807892W",
+      "language": [
+        "eng"
+      ],
+      "public_scan_b": false,
+      "title": "Percy Jackson Awesome Trivia : Things You Don't Want to Miss in the Movie"
+    },
+    {
+      "author_key": [
+        "OL11257675A"
+      ],
+      "author_name": [
+        "Lacee Baughman"
+      ],
+      "ebook_access": "no_ebook",
+      "edition_count": 1,
+      "first_publish_year": 2021,
+      "has_fulltext": false,
+      "key": "/works/OL35828352W",
+      "language": [
+        "eng"
+      ],
+      "public_scan_b": false,
+      "title": "Percy Jackson Amazing Quiz with Answer : Discover Funny Things and Facts about the Show"
+    },
+    {
+      "author_key": [
+        "OL11199036A"
+      ],
+      "author_name": [
+        "ronald cole"
+      ],
+      "ebook_access": "no_ebook",
+      "edition_count": 1,
+      "first_publish_year": 2020,
+      "has_fulltext": false,
+      "key": "/works/OL31045265W",
+      "language": [
+        "eng"
+      ],
+      "public_scan_b": false,
+      "title": "Percy Jackson Coloring Book : Famous Greek Gods Big Pictures Coloring Book Fun Kids Color Book"
+    },
+    {
+      "author_key": [
+        "OL9851968A"
+      ],
+      "author_name": [
+        "Lawrence Langel"
+      ],
+      "ebook_access": "no_ebook",
+      "edition_count": 1,
+      "first_publish_year": 2021,
+      "has_fulltext": false,
+      "key": "/works/OL36173861W",
+      "language": [
+        "eng"
+      ],
+      "public_scan_b": false,
+      "title": "Percy Jackson Quiz and Answers : Everything You Might Want to Know about the Son of Poseidon"
+    },
+    {
+      "author_key": [
+        "OL30765A"
+      ],
+      "author_name": [
+        "Rick Riordan"
+      ],
+      "cover_i": 13663824,
+      "ebook_access": "no_ebook",
+      "edition_count": 0,
+      "has_fulltext": false,
+      "key": "/works/OL24315548W",
+      "public_scan_b": false,
+      "title": "Percy Jackson and the Olympians 5 Book Paperback Boxed Set with Poster"
+    },
+    {
+      "author_key": [
+        "OL30765A"
+      ],
+      "author_name": [
+        "Rick Riordan"
+      ],
+      "cover_i": 8738207,
+      "ebook_access": "no_ebook",
+      "edition_count": 0,
+      "has_fulltext": false,
+      "key": "/works/OL19914118W",
+      "public_scan_b": false,
+      "title": "De vloek van de Titaan (Percy Jackson en de Olympiërs (3)) (Dutch Edition)"
+    },
+    {
+      "author_key": [
+        "OL11313592A"
+      ],
+      "author_name": [
+        "Landis DAVID"
+      ],
+      "ebook_access": "no_ebook",
+      "edition_count": 1,
+      "first_publish_year": 2021,
+      "has_fulltext": false,
+      "key": "/works/OL36295095W",
+      "language": [
+        "eng"
+      ],
+      "public_scan_b": false,
+      "title": "Percy Jackson Amazing Quiz You'll Love : All the Things You Probably Didn't Know Will Be Revealed in This Book"
+    },
+    {
+      "ebook_access": "no_ebook",
+      "edition_count": 1,
+      "first_publish_year": 2025,
+      "has_fulltext": false,
+      "key": "/works/OL45279398W",
+      "public_scan_b": false,
+      "title": "Shadow Thieves : The biggest blockbuster of a middle-grade action adventure, new for 2025! Perfect for fans of Skandar and Percy Jackson."
+    },
+    {
+      "author_key": [
+        "OL30765A"
+      ],
+      "author_name": [
+        "Rick Riordan"
+      ],
+      "ebook_access": "no_ebook",
+      "edition_count": 2,
+      "first_publish_year": 2024,
+      "has_fulltext": false,
+      "key": "/works/OL44580102W",
+      "language": [
+        "eng"
+      ],
+      "public_scan_b": false,
+      "title": "Percy Jackson and the Olympians Series, 7 Books Set. the Lightning Thief, Sea of Monsters, Titan's Curse, Battle of the Labyrinth, Last Olympian, the Chalice of the Gods, Wrath of the Triple Goddess"
+    }
+  ]
+}
