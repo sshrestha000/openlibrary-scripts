@@ -1,8 +1,8 @@
 {
-  "numFound": 3091,
+  "numFound": 3093,
   "start": 300,
   "numFoundExact": true,
-  "num_found": 3091,
+  "num_found": 3093,
   "documentation_url": "https://openlibrary.org/dev/docs/api/search",
   "q": "",
   "offset": null,
@@ -237,26 +237,6 @@
     },
     {
       "author_key": [
-        "OL4950338A",
-        "OL258296A"
-      ],
-      "author_name": [
-        "Laura Tosi",
-        "Alessandra Petrina"
-      ],
-      "ebook_access": "no_ebook",
-      "edition_count": 1,
-      "first_publish_year": 2011,
-      "has_fulltext": false,
-      "key": "/works/OL16520868W",
-      "language": [
-        "ita"
-      ],
-      "public_scan_b": false,
-      "title": "Dall'ABC a Harry Potter"
-    },
-    {
-      "author_key": [
         "OL475982A"
       ],
       "author_name": [
@@ -301,6 +281,26 @@
       ],
       "public_scan_b": false,
       "title": "Unofficial Harry Potter Vegan Cookbook"
+    },
+    {
+      "author_key": [
+        "OL4950338A",
+        "OL258296A"
+      ],
+      "author_name": [
+        "Laura Tosi",
+        "Alessandra Petrina"
+      ],
+      "ebook_access": "no_ebook",
+      "edition_count": 1,
+      "first_publish_year": 2011,
+      "has_fulltext": false,
+      "key": "/works/OL16520868W",
+      "language": [
+        "ita"
+      ],
+      "public_scan_b": false,
+      "title": "Dall'ABC a Harry Potter"
     },
     {
       "author_key": [

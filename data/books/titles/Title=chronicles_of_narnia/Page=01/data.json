@@ -1708,21 +1708,6 @@
     },
     {
       "author_key": [
-        "OL2629888A"
-      ],
-      "author_name": [
-        "None"
-      ],
-      "ebook_access": "no_ebook",
-      "edition_count": 1,
-      "first_publish_year": 2005,
-      "has_fulltext": false,
-      "key": "/works/OL33678943W",
-      "public_scan_b": false,
-      "title": "The Chronicles of Narnia Journal"
-    },
-    {
-      "author_key": [
         "OL31574A"
       ],
       "author_name": [
@@ -1838,6 +1823,15 @@
       "key": "/works/OL15095375W",
       "public_scan_b": false,
       "title": "Chronicles of Narnia Map Posters"
+    },
+    {
+      "ebook_access": "no_ebook",
+      "edition_count": 1,
+      "first_publish_year": 2005,
+      "has_fulltext": false,
+      "key": "/works/OL33678943W",
+      "public_scan_b": false,
+      "title": "The Chronicles of Narnia Journal"
     },
     {
       "author_key": [

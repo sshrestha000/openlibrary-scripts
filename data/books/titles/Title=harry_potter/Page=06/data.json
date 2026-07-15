@@ -1,8 +1,8 @@
 {
-  "numFound": 3091,
+  "numFound": 3093,
   "start": 500,
   "numFoundExact": true,
-  "num_found": 3091,
+  "num_found": 3093,
   "documentation_url": "https://openlibrary.org/dev/docs/api/search",
   "q": "",
   "offset": null,
@@ -1116,24 +1116,6 @@
     },
     {
       "author_key": [
-        "OL7103380A"
-      ],
-      "author_name": [
-        "Peter Ciaccio"
-      ],
-      "ebook_access": "no_ebook",
-      "edition_count": 1,
-      "first_publish_year": 2011,
-      "has_fulltext": false,
-      "key": "/works/OL16573840W",
-      "language": [
-        "ita"
-      ],
-      "public_scan_b": false,
-      "title": "Il vangelo secondo Harry Potter"
-    },
-    {
-      "author_key": [
         "OL11283289A"
       ],
       "author_name": [
@@ -1706,6 +1688,24 @@
       ],
       "public_scan_b": false,
       "title": "Unofficial Harry Potter Sweet Cookbook"
+    },
+    {
+      "author_key": [
+        "OL7103380A"
+      ],
+      "author_name": [
+        "Peter Ciaccio"
+      ],
+      "ebook_access": "no_ebook",
+      "edition_count": 1,
+      "first_publish_year": 2011,
+      "has_fulltext": false,
+      "key": "/works/OL16573840W",
+      "language": [
+        "ita"
+      ],
+      "public_scan_b": false,
+      "title": "Il vangelo secondo Harry Potter"
     },
     {
       "author_key": [

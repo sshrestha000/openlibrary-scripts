@@ -3,7 +3,7 @@
   "name": "philosophy",
   "subject_type": "subject",
   "solr_query": "subject_key:\"philosophy\"",
-  "work_count": 202360,
+  "work_count": 202655,
   "works": [
     {
       "key": "/works/OL9170454W",
@@ -152,7 +152,8 @@
         "World War, 1939-1945",
         "Jews",
         "Translations of Shakespeare",
-        "Translations into French"
+        "Translations into French",
+        "Pharmaceutical Preparations"
       ],
       "ia_collection": [
         "Johns_Hopkins_University",

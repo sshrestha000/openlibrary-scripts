@@ -3,7 +3,7 @@
   "name": "fantasy",
   "subject_type": "subject",
   "solr_query": "subject_key:\"fantasy\"",
-  "work_count": 14520,
+  "work_count": 14525,
   "works": [
     {
       "key": "/works/OL138052W",
@@ -635,12 +635,10 @@
       "ia_collection": [
         "YorkUniversity",
         "americana",
-        "bpljordan-ol",
         "brigham_young_university",
         "cdl",
         "cnusd-ol",
         "cornell",
-        "drakeuniversity-ol",
         "europeanlibraries",
         "gutenberg",
         "gwulibraries-ol",
@@ -650,30 +648,22 @@
         "juvenilehistoricalcollection",
         "library_of_congress",
         "marygrovecollege",
-        "miltonpubliclibrary-ol",
         "nationalyiddishbookcenter",
         "newyorkpubliclibrary",
         "openlibrary-d-ol",
         "popularchinesebooks",
         "printdisabled",
         "prscr",
-        "randolph-macon-college-ol",
         "robarts",
-        "rochester-ol",
-        "salisburyfreelibrary-ol",
         "stmaryscountylibrary",
         "toronto",
         "trent_university",
-        "tulsacc-ol",
         "ualberta_historical_school",
         "ualbertawiedrick",
-        "unb-ol",
         "unclibraries",
         "university_of_alberta_libraries",
         "university_of_toronto",
-        "universityofthewest-ol",
-        "victorianbrighamyounguniv",
-        "worthingtonlibraries-ol"
+        "victorianbrighamyounguniv"
       ],
       "printdisabled": true,
       "lending_edition": "OL38627923M",
@@ -1176,7 +1166,8 @@
         "Love and Its Madness",
         "Reality vs. Illusion",
         "Order and Chaos",
-        "Japanese Art"
+        "Japanese Art",
+        "Illustrations"
       ],
       "ia_collection": [
         "americana",

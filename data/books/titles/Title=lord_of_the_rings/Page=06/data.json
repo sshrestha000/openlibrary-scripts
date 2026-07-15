@@ -1,12 +1,48 @@
 {
-  "numFound": 525,
+  "numFound": 527,
   "start": 500,
   "numFoundExact": true,
-  "num_found": 525,
+  "num_found": 527,
   "documentation_url": "https://openlibrary.org/dev/docs/api/search",
   "q": "",
   "offset": null,
   "docs": [
+    {
+      "author_key": [
+        "OL7150017A",
+        "OL7504914A"
+      ],
+      "author_name": [
+        "Daniel Falconer",
+        "K. M. Rice"
+      ],
+      "cover_edition_key": "OL26856957M",
+      "cover_i": 8544744,
+      "ebook_access": "no_ebook",
+      "edition_count": 1,
+      "first_publish_year": 2017,
+      "has_fulltext": false,
+      "key": "/works/OL19636091W",
+      "public_scan_b": false,
+      "title": "Middle-earth from Script to Screen: Building the World of The Lord of the Rings and The Hobbit"
+    },
+    {
+      "author_key": [
+        "OL2923710A"
+      ],
+      "author_name": [
+        "Leslie A. Donovan"
+      ],
+      "cover_edition_key": "OL26781671M",
+      "cover_i": 8435049,
+      "ebook_access": "no_ebook",
+      "edition_count": 1,
+      "first_publish_year": 2015,
+      "has_fulltext": false,
+      "key": "/works/OL19307435W",
+      "public_scan_b": false,
+      "title": "Approaches to Teaching Tolkien's The Lord of the Rings and Other Works (Approaches to Teaching World Literature)"
+    },
     {
       "author_key": [
         "OL949446A"

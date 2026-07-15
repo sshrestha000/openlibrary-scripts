@@ -3,7 +3,7 @@
   "name": "art",
   "subject_type": "subject",
   "solr_query": "subject_key:\"art\"",
-  "work_count": 132559,
+  "work_count": 132730,
   "works": [
     {
       "key": "/works/OL32466W",
@@ -254,6 +254,7 @@
         "university_of_alberta_libraries_microfilm",
         "university_of_toronto",
         "universityofarizona-ol",
+        "universityofarizonalib",
         "universityofcoloradoboulder-ol",
         "universityofoklahoma-ol",
         "universityofthewest-ol",
@@ -527,6 +528,7 @@
         "universityofoklahoma-ol",
         "universityofottawa",
         "universitywesterno",
+        "uslprototype",
         "wilsoncollege-ol",
         "worthingtonlibraries-ol",
         "wrlc-ol"

@@ -3,7 +3,7 @@
   "name": "poetry",
   "subject_type": "subject",
   "solr_query": "subject_key:\"poetry\"",
-  "work_count": 112076,
+  "work_count": 112291,
   "works": [
     {
       "key": "/works/OL45089W",
@@ -402,7 +402,8 @@
         "Love and Its Madness",
         "Reality vs. Illusion",
         "Order and Chaos",
-        "Japanese Art"
+        "Japanese Art",
+        "Illustrations"
       ],
       "ia_collection": [
         "americana",
@@ -985,7 +986,7 @@
     {
       "key": "/works/OL61982W",
       "title": "Ὀδύσσεια",
-      "edition_count": 1063,
+      "edition_count": 1064,
       "cover_id": 9045853,
       "cover_edition_key": "OL27593427M",
       "subject": [
@@ -1383,6 +1384,1169 @@
         "oclc": null,
         "openlibrary_work": "OL16333W",
         "openlibrary_edition": "OL51000106M",
+        "last_loan_date": null,
+        "num_waitlist": null,
+        "last_waitlist_date": null,
+        "is_restricted": false,
+        "is_browseable": false,
+        "__src__": "core.models.lending.get_availability"
+      }
+    },
+    {
+      "key": "/works/OL97727W",
+      "title": "Metamorfosi",
+      "edition_count": 747,
+      "cover_id": 5701612,
+      "cover_edition_key": "OL7141607M",
+      "subject": [
+        "Poetry",
+        "Mythology",
+        "Metamorphosis",
+        "Latin Fables",
+        "Classical Mythology",
+        "Translations into Italian",
+        "Poesia lirica latina",
+        "Translations into English",
+        "Latin Epistolary poetry",
+        "Women",
+        "Love poetry, Latin",
+        "Love-letters",
+        "Latin language",
+        "Readers",
+        "Language teaching & learning material & coursework",
+        "Latin",
+        "Foreign Language - Dictionaries / Phrase Books",
+        "Latin language, readers",
+        "Poetry (poetic works by one author)",
+        "Metric system",
+        "Classical philology",
+        "Latin Poetry",
+        "Fables",
+        "Latin poetry",
+        "Translations into German",
+        "History and criticism",
+        "Ovid, 43 b.c.-17 a.d. or 18 a.d.",
+        "Poetry, medieval, history and criticism",
+        "Literary studies: classical, early & medieval",
+        "Translations into French",
+        "Latin literature",
+        "Latin Love poetry",
+        "Illustrations",
+        "English literature",
+        "Medieval and modern Latin literature",
+        "Latin American literature",
+        "Latin Didactic poetry",
+        "Translations",
+        "Early works to 1800",
+        "Latin Elegiac poetry",
+        "Seduction",
+        "Incantations",
+        "Latin Poets",
+        "Care and hygiene",
+        "Separation (Psychology)",
+        "Latin Erotic poetry",
+        "Aeneas (Legendary character)",
+        "Translating into French",
+        "Skin",
+        "Knowledge",
+        "Fasts and feasts",
+        "European literature",
+        "Correspondence",
+        "Problems, exercises",
+        "Literature",
+        "Translations into Danish",
+        "Homes and haunts",
+        "German poetry",
+        "Translations from Latin",
+        "English poetry",
+        "Exiles",
+        "Translations into Spanish",
+        "Comparative Literature",
+        "Baroque Painting",
+        "Translations into Russian",
+        "Themes, motives",
+        "Influence",
+        "Roman influences",
+        "Sources",
+        "Calendar",
+        "Fiction",
+        "Fables, Latin",
+        "Mythology, Classical",
+        "Latin language materials",
+        "Mythologie ancienne",
+        "Poésie",
+        "TRAVEL",
+        "Special Interest",
+        "Literary",
+        "LITERARY CRITICISM",
+        "General",
+        "Classical literature",
+        "Latin poetry -- Translations into English",
+        "Fables, Latin -- Translations into English",
+        "Metamorphosis -- Mythology -- Poetry",
+        "Mythology, Classical -- Poetry",
+        "Schools",
+        "Greek Mythology",
+        "Latin poetry, translations into english",
+        "History",
+        "Ancient",
+        "Biography",
+        "Man-woman relationships",
+        "Mythology, classical",
+        "Christian saints",
+        "Metamorphosis in literature",
+        "Mythology, Classical, in art",
+        "Textual Criticism",
+        "Fables latines",
+        "Ovid, 43 B.C.-17 or 18 A.D.",
+        "Latin literature, translations into english",
+        "Metamorphosis, mythology",
+        "Mythology, Classical, in literature",
+        "Metamorphoses (Ovid)",
+        "Fiction, short stories (single author)",
+        "Lateinunterricht",
+        "Love poetry",
+        "Latin poetry; epic",
+        "Spanish Engraving",
+        "Bindings, 20th cent., Spanish",
+        "Brugalla",
+        "Wood-engraving, Italian",
+        "Specimens",
+        "Presentation inscription to R. Browning",
+        "Presentation inscription from W. S. Landor",
+        "Fine books",
+        "Métamorphose (Biologie)",
+        "Mythologie",
+        "Latin Epic poetry",
+        "Poésie épique latine",
+        "Poetry, collections",
+        "Translations into Greek",
+        "Miniature books",
+        "Modern Translations into Greek",
+        "Literary Criticism & Collections / American",
+        "Literary Criticism & Collections / General",
+        "Psychiatric Hospitals",
+        "Hospitals, psychiatric",
+        "York Retreat",
+        "Retreat (York, Eng.)",
+        "York (England). Retreat",
+        "Emblems"
+      ],
+      "ia_collection": [
+        "ColumbiaUniversityLibraries",
+        "americana",
+        "bostonpubliclibrary",
+        "bplscinc",
+        "cdl",
+        "claremont_school_of_theology",
+        "clarkartinstitutelibrary",
+        "europeanlibraries",
+        "getty",
+        "globallibraries",
+        "inlibrary",
+        "internetarchivebooks",
+        "johnadamsBPL",
+        "kalamazoocollege-ol",
+        "library_of_congress",
+        "marygrovecollege",
+        "medicalheritagelibrary",
+        "medicallibrary",
+        "microfilm",
+        "openlibrary-d-ol",
+        "patronrequests",
+        "printdisabled",
+        "prscr",
+        "rcplondon",
+        "regionaldigitizationmass",
+        "robarts",
+        "thomasfisher",
+        "toronto",
+        "trent_university",
+        "ukmhl",
+        "unclibraries",
+        "university_of_illinois_urbana-champaign",
+        "university_of_toronto",
+        "wellcomelibrary"
+      ],
+      "printdisabled": true,
+      "lending_edition": "OL48061044M",
+      "lending_identifier": "lastransformacio02ovid",
+      "authors": [
+        {
+          "key": "/authors/OL18770A",
+          "name": "Ovid"
+        },
+        {
+          "key": "/authors/OL2431096A",
+          "name": "William S. Anderson"
+        },
+        {
+          "key": "/authors/OL2801828A",
+          "name": "Mary Frederick"
+        },
+        {
+          "key": "/authors/OL769571A",
+          "name": "Rolfe Humphries"
+        },
+        {
+          "key": "/authors/OL113177A",
+          "name": "John Dryden"
+        },
+        {
+          "key": "/authors/OL2981493A",
+          "name": "Samuel Garth"
+        },
+        {
+          "key": "/authors/OL3600558A",
+          "name": "Jack Shapiro"
+        },
+        {
+          "key": "/authors/OL10458322A",
+          "name": "Ovid"
+        },
+        {
+          "key": "/authors/OL10611916A",
+          "name": "Robert Squillace"
+        },
+        {
+          "key": "/authors/OL9292777A",
+          "name": "Frank Justus Miller"
+        },
+        {
+          "key": "/authors/OL8475091A",
+          "name": "Ovidio"
+        },
+        {
+          "key": "/authors/OL8214692A",
+          "name": "Julius Ziehen"
+        },
+        {
+          "key": "/authors/OL9208775A",
+          "name": "Banier (Antoine"
+        },
+        {
+          "key": "/authors/OL9208776A",
+          "name": "M L'Abbe)"
+        },
+        {
+          "key": "/authors/OL296914A",
+          "name": "Niklas Holzberg"
+        },
+        {
+          "key": "/authors/OL3481480A",
+          "name": "Lee Fratantuono"
+        },
+        {
+          "key": "/authors/OL9956470A",
+          "name": "A D Melville"
+        },
+        {
+          "key": "/authors/OL9956471A",
+          "name": "Emeritus Kennedy Professor of Latin Fellow E J Kenney"
+        },
+        {
+          "key": "/authors/OL8625014A",
+          "name": "Ovide"
+        },
+        {
+          "key": "/authors/OL10070406A",
+          "name": "William Scovil Anderson"
+        },
+        {
+          "key": "/authors/OL7906406A",
+          "name": "Stephanie McCarter"
+        },
+        {
+          "key": "/authors/OL2682939A",
+          "name": "Gerhard Fink"
+        },
+        {
+          "key": "/authors/OL13426312A",
+          "name": "Alexander Pope"
+        },
+        {
+          "key": "/authors/OL8074143A",
+          "name": "Joseph Addison"
+        },
+        {
+          "key": "/authors/OL139838A",
+          "name": "William Congreve"
+        },
+        {
+          "key": "/authors/OL5993478A",
+          "name": "Gottlieb Erdmann Gierig"
+        },
+        {
+          "key": "/authors/OL10823976A",
+          "name": "Ovid"
+        },
+        {
+          "key": "/authors/OL9277820A",
+          "name": "Jan Minell"
+        },
+        {
+          "key": "/authors/OL9277821A",
+          "name": "Pieter Rabus"
+        },
+        {
+          "key": "/authors/OL39826A",
+          "name": "Alexander Pope"
+        },
+        {
+          "key": "/authors/OL9348182A",
+          "name": "Sir Samuel Garth"
+        },
+        {
+          "key": "/authors/OL4400050A",
+          "name": "John Godwin"
+        },
+        {
+          "key": "/authors/OL9944168A",
+          "name": "OVIDIO"
+        },
+        {
+          "key": "/authors/OL7956624A",
+          "name": "Publio Nasone Ovidio"
+        },
+        {
+          "key": "/authors/OL9384940A",
+          "name": "Ovidi"
+        },
+        {
+          "key": "/authors/OL9384941A",
+          "name": "Xavier Mata Oroval"
+        },
+        {
+          "key": "/authors/OL6010373A",
+          "name": "Claude-Pierre Goujet"
+        },
+        {
+          "key": "/authors/OL10554577A",
+          "name": "Claude-Pierre Banier"
+        },
+        {
+          "key": "/authors/OL10521023A",
+          "name": "Publius Ovidius Naso"
+        },
+        {
+          "key": "/authors/OL1383812A",
+          "name": "Edward Brooks"
+        },
+        {
+          "key": "/authors/OL10569262A",
+          "name": "Edward Ovid"
+        },
+        {
+          "key": "/authors/OL9901820A",
+          "name": "Ovidius"
+        },
+        {
+          "key": "/authors/OL12249729A",
+          "name": "Ernest Ensor Publius Ovidius Naso"
+        },
+        {
+          "key": "/authors/OL12597943A",
+          "name": "Ovídio"
+        },
+        {
+          "key": "/authors/OL6028528A",
+          "name": "Pierre Du Ryer"
+        },
+        {
+          "key": "/authors/OL12537402A",
+          "name": "Publio Ovidio Nason"
+        },
+        {
+          "key": "/authors/OL15122503A",
+          "name": "Johannes Minellius"
+        },
+        {
+          "key": "/authors/OL3284836A",
+          "name": "Nathan Bailey"
+        },
+        {
+          "key": "/authors/OL11948272A",
+          "name": "J., F., and C. Rivington (Firm)"
+        },
+        {
+          "key": "/authors/OL15491657A",
+          "name": "G. G. J. and J. Robinson (Paternoster-Row, London, England)"
+        },
+        {
+          "key": "/authors/OL15491658A",
+          "name": "Scatcherd and Whitaker"
+        },
+        {
+          "key": "/authors/OL9883356A",
+          "name": "Publius Ovidius Naso"
+        },
+        {
+          "key": "/authors/OL10546132A",
+          "name": "Mathieu Guillaume Thérès de Villenave"
+        },
+        {
+          "key": "/authors/OL10504345A",
+          "name": "Ovid"
+        },
+        {
+          "key": "/authors/OL6014992A",
+          "name": "Rudolf Merkel"
+        },
+        {
+          "key": "/authors/OL12404774A",
+          "name": "Ovid Giovanni Andrea Dell' Anguillara"
+        },
+        {
+          "key": "/authors/OL12918673A",
+          "name": "C. Luke Soucy"
+        },
+        {
+          "key": "/authors/OL7643052A",
+          "name": "Publius Ovidius Naso"
+        },
+        {
+          "key": "/authors/OL13540944A",
+          "name": "Joseph Gaspard Dubois-Fontanelle"
+        },
+        {
+          "key": "/authors/OL3980386A",
+          "name": "Villenave"
+        },
+        {
+          "key": "/authors/OL6077250A",
+          "name": "Moriz Haupt"
+        },
+        {
+          "key": "/authors/OL6079644A",
+          "name": "Otto Korn"
+        },
+        {
+          "key": "/authors/OL10534355A",
+          "name": "Otto Ovid"
+        },
+        {
+          "key": "/authors/OL14507118A",
+          "name": "J. J. J.J. Howard"
+        },
+        {
+          "key": "/authors/OL10688883A",
+          "name": "Henry Riley"
+        },
+        {
+          "key": "/authors/OL9205779A",
+          "name": "Théodose Burette"
+        },
+        {
+          "key": "/authors/OL10680518A",
+          "name": "Etienne Gros"
+        },
+        {
+          "key": "/authors/OL1825967A",
+          "name": "John Clarke"
+        },
+        {
+          "key": "/authors/OL9974876A",
+          "name": "John Ovid"
+        },
+        {
+          "key": "/authors/OL13578610A",
+          "name": "William Thane Peck"
+        },
+        {
+          "key": "/authors/OL1226756A",
+          "name": "Moriz Haupt"
+        },
+        {
+          "key": "/authors/OL12866472A",
+          "name": "Hermann Johannes Müller"
+        },
+        {
+          "key": "/authors/OL15026955A",
+          "name": "Otto Korn"
+        },
+        {
+          "key": "/authors/OL4476090A",
+          "name": "Henry T. Riley"
+        },
+        {
+          "key": "/authors/OL2272636A",
+          "name": "Banier M. l'abbé"
+        },
+        {
+          "key": "/authors/OL6897206A",
+          "name": "Bernard Picart"
+        },
+        {
+          "key": "/authors/OL4430634A",
+          "name": "Arthur Golding"
+        },
+        {
+          "key": "/authors/OL226610A",
+          "name": "William White"
+        },
+        {
+          "key": "/authors/OL15491144A",
+          "name": "William Seres"
+        },
+        {
+          "key": "/authors/OL15134164A",
+          "name": "J. H. Haydon"
+        },
+        {
+          "key": "/authors/OL691699A",
+          "name": "Maximus Planudes"
+        },
+        {
+          "key": "/authors/OL2156320A",
+          "name": "Jean François Boissonade"
+        },
+        {
+          "key": "/authors/OL9194784A",
+          "name": "Garth, Samuel Sir"
+        },
+        {
+          "key": "/authors/OL118521A",
+          "name": "Joseph Addison"
+        },
+        {
+          "key": "/authors/OL4269382A",
+          "name": "Laurence Eusden"
+        },
+        {
+          "key": "/authors/OL4269356A",
+          "name": "Arthur Maynwaring"
+        },
+        {
+          "key": "/authors/OL11635538A",
+          "name": "Samuel Croxall"
+        },
+        {
+          "key": "/authors/OL18671A",
+          "name": "Nahum Tate"
+        },
+        {
+          "key": "/authors/OL116858A",
+          "name": "John Gay"
+        },
+        {
+          "key": "/authors/OL15779623A",
+          "name": "Freigius"
+        },
+        {
+          "key": "/authors/OL16338209A",
+          "name": "Moritz Haupt"
+        },
+        {
+          "key": "/authors/OL12866416A",
+          "name": "Otto Korn"
+        },
+        {
+          "key": "/authors/OL8369390A",
+          "name": "Ovide Ovide"
+        },
+        {
+          "key": "/authors/OL15121642A",
+          "name": "George Sewell"
+        },
+        {
+          "key": "/authors/OL11414274A",
+          "name": "Ovid Vergil"
+        },
+        {
+          "key": "/authors/OL11566918A",
+          "name": "Ovide (Ovid) ; Georges Lafaye"
+        },
+        {
+          "key": "/authors/OL12510930A",
+          "name": "Rolfe (Translated by) Ovid and Humphries"
+        },
+        {
+          "key": "/authors/OL5995120A",
+          "name": "Ernst Karl Christian Bach"
+        },
+        {
+          "key": "/authors/OL5641608A",
+          "name": "Rudolf Ehwald"
+        },
+        {
+          "key": "/authors/OL13552061A",
+          "name": "Ovidb C -17 or 18 a D"
+        },
+        {
+          "key": "/authors/OL6006379A",
+          "name": "Daniel Crespin"
+        },
+        {
+          "key": "/authors/OL5884698A",
+          "name": "Anton Zingerle"
+        },
+        {
+          "key": "/authors/OL6668142A",
+          "name": "Heinrich Stefan Sedlmayer"
+        },
+        {
+          "key": "/authors/OL7601456A",
+          "name": "José Carlos Fernández Corte"
+        },
+        {
+          "key": "/authors/OL9949731A",
+          "name": "María Josefa Cantó Llorca"
+        },
+        {
+          "key": "/authors/OL533100A",
+          "name": "Charles Martin"
+        },
+        {
+          "key": "/authors/OL1388850A",
+          "name": "Emily R. Wilson"
+        },
+        {
+          "key": "/authors/OL10646257A",
+          "name": "Ovide"
+        },
+        {
+          "key": "/authors/OL9195383A",
+          "name": "Henry T. Riley"
+        },
+        {
+          "key": "/authors/OL11416995A",
+          "name": "translated by frank jsutus miller Ovid"
+        },
+        {
+          "key": "/authors/OL12337551A",
+          "name": "Moriz Haupt P. Ovidius Naso"
+        },
+        {
+          "key": "/authors/OL10396672A",
+          "name": "43 B. C. -17 or 18 A. D. Ovid"
+        },
+        {
+          "key": "/authors/OL12382259A",
+          "name": "N. C. (Nathan Covington) 180 Brooks"
+        },
+        {
+          "key": "/authors/OL12603005A",
+          "name": "José-Román Bravo Díaz"
+        },
+        {
+          "key": "/authors/OL9950563A",
+          "name": "Publio Ovidio Nasón"
+        },
+        {
+          "key": "/authors/OL9943488A",
+          "name": "Antonio Ruiz de Elvira Prieto"
+        },
+        {
+          "key": "/authors/OL9942694A",
+          "name": "Bartolomé Segura Ramos"
+        },
+        {
+          "key": "/authors/OL12705393A",
+          "name": "OVIDIO; BONIFAZ NU;O, RUBEN INTRODUCION, VERSION"
+        },
+        {
+          "key": "/authors/OL12705394A",
+          "name": "OVIDIO; BONIFAZ NU;O, RUBEN INTRODUCION, VERSION"
+        },
+        {
+          "key": "/authors/OL12836302A",
+          "name": "Publius Ovidius Naso Ovide"
+        },
+        {
+          "key": "/authors/OL12779201A",
+          "name": "OVIDE"
+        },
+        {
+          "key": "/authors/OL13642206A",
+          "name": "43 B. C. -17 A. D. or 18 A. D. Ovid"
+        },
+        {
+          "key": "/authors/OL9231138A",
+          "name": "Stamperia del Seminario (Padua)"
+        },
+        {
+          "key": "/authors/OL12912760A",
+          "name": "Publius Ovidius Publius Ovidius Naso"
+        },
+        {
+          "key": "/authors/OL3690191A",
+          "name": "Henry Thomas Riley"
+        },
+        {
+          "key": "/authors/OL7575194A",
+          "name": "Publi Ovidi Nasó"
+        },
+        {
+          "key": "/authors/OL3572937A",
+          "name": "Donald E. Hill"
+        },
+        {
+          "key": "/authors/OL8134702A",
+          "name": "J. R. Jenkinson"
+        },
+        {
+          "key": "/authors/OL8189314A",
+          "name": "K. Sara Myers"
+        },
+        {
+          "key": "/authors/OL14688503A",
+          "name": "Ovid Poet"
+        },
+        {
+          "key": "/authors/OL10528065A",
+          "name": "John Laney"
+        },
+        {
+          "key": "/authors/OL4532681A",
+          "name": "Hermann Breitenbach"
+        },
+        {
+          "key": "/authors/OL7398906A",
+          "name": "Rudolf Merkel"
+        },
+        {
+          "key": "/authors/OL2503922A",
+          "name": "Rudolf Ehwald"
+        },
+        {
+          "key": "/authors/OL11940363A",
+          "name": "Ange-François Fariau de Saint-Ange"
+        },
+        {
+          "key": "/authors/OL44790A",
+          "name": "Pablo Picasso"
+        },
+        {
+          "key": "/authors/OL159850A",
+          "name": "Jean Gaspard Dubois-Fontanelle"
+        },
+        {
+          "key": "/authors/OL1029670A",
+          "name": "Giuseppe Zocchi"
+        },
+        {
+          "key": "/authors/OL5646699A",
+          "name": "Joseph Chamonard"
+        },
+        {
+          "key": "/authors/OL15278622A",
+          "name": "Diedrich Ernest Bosselaar"
+        },
+        {
+          "key": "/authors/OL1637641A",
+          "name": "Thomas Farnaby"
+        },
+        {
+          "key": "/authors/OL13941135A",
+          "name": "Friedrich Polle"
+        },
+        {
+          "key": "/authors/OL1637449A",
+          "name": "Johannes Siebelis"
+        },
+        {
+          "key": "/authors/OL15395789A",
+          "name": "Bernardino Stagnino"
+        },
+        {
+          "key": "/authors/OL15395790A",
+          "name": "Carolus Vivianus"
+        },
+        {
+          "key": "/authors/OL15434738A",
+          "name": "Ovide (Ovid) "
+        },
+        {
+          "key": "/authors/OL15434739A",
+          "name": " Georges Lafaye"
+        },
+        {
+          "key": "/authors/OL9194784A",
+          "name": "Garth, Samuel Sir"
+        },
+        {
+          "key": "/authors/OL1742765A",
+          "name": "George Sandys"
+        },
+        {
+          "key": "/authors/OL7643482A",
+          "name": "Richard Badger"
+        },
+        {
+          "key": "/authors/OL15488402A",
+          "name": "Johann Raener"
+        },
+        {
+          "key": "/authors/OL2360550A",
+          "name": "Henricus Glareanus"
+        },
+        {
+          "key": "/authors/OL15490529A",
+          "name": "Thomas Purfoot"
+        },
+        {
+          "key": "/authors/OL2610203A",
+          "name": "Charles Simmons"
+        },
+        {
+          "key": "/authors/OL1092263A",
+          "name": "Lodovico Dolce"
+        },
+        {
+          "key": "/authors/OL12155485A",
+          "name": "Jakob Moltzer"
+        },
+        {
+          "key": "/authors/OL12836699A",
+          "name": "Ercole Ciofani"
+        },
+        {
+          "key": "/authors/OL735231A",
+          "name": "Daniel Heinsius"
+        },
+        {
+          "key": "/authors/OL2516169A",
+          "name": "Nicolaas Heinsius"
+        },
+        {
+          "key": "/authors/OL2523154A",
+          "name": "Pieter Burman"
+        },
+        {
+          "key": "/authors/OL15559124A",
+          "name": "Johann Wilhelm Capoferrius"
+        },
+        {
+          "key": "/authors/OL15576367A",
+          "name": "Charles de Massac"
+        },
+        {
+          "key": "/authors/OL15576368A",
+          "name": "Raymond de Massac"
+        },
+        {
+          "key": "/authors/OL15598470A",
+          "name": "George Sewell"
+        },
+        {
+          "key": "/authors/OL12155485A",
+          "name": "Jakob Moltzer"
+        },
+        {
+          "key": "/authors/OL6934694A",
+          "name": "Raffaele Regio"
+        },
+        {
+          "key": "/authors/OL15600112A",
+          "name": "Giovanni de Buonsignore"
+        },
+        {
+          "key": "/authors/OL11726124A",
+          "name": "Luca-Antonio Giunta"
+        },
+        {
+          "key": "/authors/OL297618A",
+          "name": "William Caxton"
+        },
+        {
+          "key": "/authors/OL5389924A",
+          "name": "George Hibbert"
+        },
+        {
+          "key": "/authors/OL4907034A",
+          "name": "Roxburghe Club"
+        },
+        {
+          "key": "/authors/OL10002111A",
+          "name": "Erich Rösch"
+        },
+        {
+          "key": "/authors/OL5128914A",
+          "name": "Joseph Davidson"
+        },
+        {
+          "key": "/authors/OL1172140A",
+          "name": "Claude-Pierre Goujet"
+        },
+        {
+          "key": "/authors/OL15856467A",
+          "name": "N. Bailey"
+        },
+        {
+          "key": "/authors/OL15122503A",
+          "name": "Johannes Minellius"
+        },
+        {
+          "key": "/authors/OL1799346A",
+          "name": "Banier (Antoine)"
+        },
+        {
+          "key": "/authors/OL15216439A",
+          "name": "Jean Matheus"
+        },
+        {
+          "key": "/authors/OL15888013A",
+          "name": "Isaac Briot"
+        },
+        {
+          "key": "/authors/OL15888014A",
+          "name": "Pierre Firens"
+        },
+        {
+          "key": "/authors/OL15888015A",
+          "name": "Michael Faulte"
+        },
+        {
+          "key": "/authors/OL15888016A",
+          "name": "Gerard Jean-Baptiste Scotin"
+        },
+        {
+          "key": "/authors/OL15888017A",
+          "name": "Antoine Humblot"
+        },
+        {
+          "key": "/authors/OL1091968A",
+          "name": "Virgil Solis"
+        },
+        {
+          "key": "/authors/OL5120276A",
+          "name": "Vasiliĭ Maĭkov"
+        },
+        {
+          "key": "/authors/OL15035272A",
+          "name": "Gerhard Lorich"
+        },
+        {
+          "key": "/authors/OL10075974A",
+          "name": "Marguerite Carnec"
+        },
+        {
+          "key": "/authors/OL3127657A",
+          "name": "Olivier Sers"
+        },
+        {
+          "key": "/authors/OL2964716A",
+          "name": "SparkNotes"
+        },
+        {
+          "key": "/authors/OL1749170A",
+          "name": "Georges Lafaye"
+        },
+        {
+          "key": "/authors/OL15395814A",
+          "name": "Raphaello Regius"
+        },
+        {
+          "key": "/authors/OL807300A",
+          "name": "Josse Badius"
+        },
+        {
+          "key": "/authors/OL15569826A",
+          "name": "Gottlieb Erdmann Gierig"
+        },
+        {
+          "key": "/authors/OL16062663A",
+          "name": "Almeno pseud"
+        },
+        {
+          "key": "/authors/OL16184714A",
+          "name": "Ēlias Tsirinkakēs"
+        },
+        {
+          "key": "/authors/OL12563100A",
+          "name": "Jordi Parramon Blasco"
+        },
+        {
+          "key": "/authors/OL15047581A",
+          "name": "John Clarke"
+        },
+        {
+          "key": "/authors/OL13470275A",
+          "name": "Jacobus Rubeus"
+        },
+        {
+          "key": "/authors/OL15150595A",
+          "name": "Henry N. Heale"
+        },
+        {
+          "key": "/authors/OL617013A",
+          "name": "William Scovil Anderson"
+        },
+        {
+          "key": "/authors/OL1157648A",
+          "name": "Gianpiero Rosati"
+        },
+        {
+          "key": "/authors/OL16145160A",
+          "name": "Giovanna Faranda Villa"
+        },
+        {
+          "key": "/authors/OL16145161A",
+          "name": "Rossella Corti"
+        },
+        {
+          "key": "/authors/OL15532335A",
+          "name": "Nicolas Renouard"
+        },
+        {
+          "key": "/authors/OL28294A",
+          "name": "Publius Vergilius Maro"
+        },
+        {
+          "key": "/authors/OL895152A",
+          "name": "Henry King"
+        },
+        {
+          "key": "/authors/OL15026991A",
+          "name": "Karl Hermann Weise"
+        },
+        {
+          "key": "/authors/OL5987984A",
+          "name": "Jorge de Bustamante"
+        },
+        {
+          "key": "/authors/OL5987986A",
+          "name": "Pierre Bellère"
+        },
+        {
+          "key": "/authors/OL8527102A",
+          "name": "Fitzwilliam, William Charles de Meuron Earl"
+        },
+        {
+          "key": "/authors/OL15410145A",
+          "name": "Edward Glaser"
+        },
+        {
+          "key": "/authors/OL16483063A",
+          "name": "Giovanni de' Buonsignori"
+        },
+        {
+          "key": "/authors/OL4849490A",
+          "name": "Gregor Bersmann"
+        },
+        {
+          "key": "/authors/OL807300A",
+          "name": "Josse Badius"
+        },
+        {
+          "key": "/authors/OL13460931A",
+          "name": "Pieter Rabus"
+        },
+        {
+          "key": "/authors/OL16076375A",
+          "name": "'Introductiones' Printer of Nebrissensis"
+        },
+        {
+          "key": "/authors/OL3618331A",
+          "name": "Hannibal Gamon"
+        },
+        {
+          "key": "/authors/OL15510906A",
+          "name": "Clifden, Arthur Victor Agar-Robartes Viscount"
+        },
+        {
+          "key": "/authors/OL15510909A",
+          "name": "England) Lanhydrock House (Cornwall"
+        },
+        {
+          "key": "/authors/OL15554435A",
+          "name": "Giovanni Andrea dell' Anguillara"
+        },
+        {
+          "key": "/authors/OL5690581A",
+          "name": "Francesco Turchi"
+        },
+        {
+          "key": "/authors/OL2019167A",
+          "name": "Clarke, John"
+        },
+        {
+          "key": "/authors/OL1092263A",
+          "name": "Lodovico Dolce"
+        },
+        {
+          "key": "/authors/OL10823976A",
+          "name": "Ovid"
+        },
+        {
+          "key": "/authors/OL1799346A",
+          "name": "Banier (Antoine)"
+        },
+        {
+          "key": "/authors/OL1172140A",
+          "name": "Claude-Pierre Goujet"
+        },
+        {
+          "key": "/authors/OL16091596A",
+          "name": "Karl Paul Otto Korn"
+        },
+        {
+          "key": "/authors/OL7415925A",
+          "name": "H. J. Müller"
+        },
+        {
+          "key": "/authors/OL7992028A",
+          "name": "Otto Korn"
+        },
+        {
+          "key": "/authors/OL16118004A",
+          "name": "Johann Balthasar Sedkezki"
+        },
+        {
+          "key": "/authors/OL2413662A",
+          "name": "Stephen Gaselee"
+        },
+        {
+          "key": "/authors/OL2591626A",
+          "name": "H. F. B. Brett-Smith"
+        },
+        {
+          "key": "/authors/OL6958786A",
+          "name": "Pepys Library"
+        },
+        {
+          "key": "/authors/OL4283646A",
+          "name": "Raphaello Regius"
+        },
+        {
+          "key": "/authors/OL16217380A",
+          "name": "Paul Brandt"
+        },
+        {
+          "key": "/authors/OL1637641A",
+          "name": "Thomas Farnaby"
+        },
+        {
+          "key": "/authors/OL496978A",
+          "name": "Pierre Du Ryer"
+        },
+        {
+          "key": "/authors/OL16254146A",
+          "name": "Gwilym Aneurin Tudor Davies"
+        },
+        {
+          "key": "/authors/OL14644324A",
+          "name": "Ovid, 43 BCE-18, 43 BCE-18"
+        }
+      ],
+      "first_publish_year": 1474,
+      "ia": "lastransformacio02ovid",
+      "public_scan": true,
+      "has_fulltext": true,
+      "availability": {
+        "status": "open",
+        "available_to_browse": false,
+        "available_to_borrow": false,
+        "available_to_waitlist": false,
+        "is_printdisabled": false,
+        "is_readable": true,
+        "is_lendable": false,
+        "is_previewable": true,
+        "identifier": "lastransformacio02ovid",
+        "isbn": null,
+        "oclc": null,
+        "openlibrary_work": "OL35622023W",
+        "openlibrary_edition": "OL48061044M",
         "last_loan_date": null,
         "num_waitlist": null,
         "last_waitlist_date": null,
@@ -2140,7 +3304,10 @@
         "Poetry",
         "Classics",
         "Literature & Fiction",
-        "Religion"
+        "Religion",
+        "American Prose poems",
+        "Mysticism",
+        "Spiritual life"
       ],
       "ia_collection": [
         "americana",
@@ -2185,167 +3352,6 @@
         "oclc": null,
         "openlibrary_work": "OL37894941W",
         "openlibrary_edition": "OL51155585M",
-        "last_loan_date": null,
-        "num_waitlist": null,
-        "last_waitlist_date": null,
-        "is_restricted": false,
-        "is_browseable": false,
-        "__src__": "core.models.lending.get_availability"
-      }
-    },
-    {
-      "key": "/works/OL1548597W",
-      "title": "De rerum natura",
-      "edition_count": 537,
-      "cover_id": 566208,
-      "cover_edition_key": "OL7870148M",
-      "subject": [
-        "Latin Didactic poetry",
-        "Ancient Philosophy",
-        "Poetry",
-        "Translations into English",
-        "Translations into Italian",
-        "Philosophy",
-        "Early works to 1800",
-        "Translations into Spanish",
-        "Translations into French",
-        "Criticism and interpretation",
-        "Nature",
-        "Microbiology",
-        "Classical literature",
-        "Physics",
-        "History",
-        "Atomic theory",
-        "Philosophy of nature",
-        "Latin poetry",
-        "Greek literature",
-        "Long Now Manual for Civilization",
-        "Kommentar",
-        "Didactic poetry, Latin",
-        "Eggs",
-        "Eggs as food",
-        "Latin language materials",
-        "Philosophy, Ancient",
-        "Science",
-        "Biology",
-        "Philosophie ancienne",
-        "Traductions anglaises",
-        "Poésie didactique latine",
-        "Didactic poetry",
-        "Lucretius carus, titus",
-        "Poetry (poetic works by one author)",
-        "Poetry, collections",
-        "Latin poetry, translations into english",
-        "Classical literature, translations into english",
-        "Traslations into English",
-        "Nature (aesthetics)",
-        "Cosmology",
-        "Anthologies",
-        "Traductions italiennes",
-        "Poésie",
-        "Philosophy, ancient--poetry",
-        "Physics--philosophy",
-        "Physics--philosophy--poetry",
-        "Pa6482 .a61 1984",
-        "Roman law",
-        "great_books_of_the_western_world",
-        "great_books",
-        "Classical philology",
-        "English poetry",
-        "Translations from Latin",
-        "English literature",
-        "Translations from classical languages",
-        "Latin prose literature",
-        "Cosmography",
-        "Poetry as Topic",
-        "Roman World",
-        "Epicureans (Greek philosophy)",
-        "Soul",
-        "Translations",
-        "Library",
-        "Personal copy",
-        "Natural history",
-        "Pre-Linnean works",
-        "Plague"
-      ],
-      "ia_collection": [
-        "Princeton",
-        "PrincetonRR",
-        "americana",
-        "americanuniversity-ol",
-        "belmont-ol",
-        "binghamton-ol",
-        "bostonpubliclibrary",
-        "cdl",
-        "claremont_school_of_theology",
-        "cua-ol",
-        "dartmouthlibrary-ol",
-        "europeanlibraries",
-        "fedlink",
-        "framingham-ol",
-        "gaelic",
-        "greatbooks",
-        "gwulibraries-ol",
-        "inlibrary",
-        "internetarchivebooks",
-        "ithacacollege-ol",
-        "johnadamsBPL",
-        "johnshopkins-ol",
-        "kalamazoocollege-ol",
-        "kellylibrary",
-        "marygrovecollege",
-        "marymount-ol",
-        "microfilm",
-        "nationallibraryofscotland",
-        "nationaluniversity",
-        "occidentalcollegelibrary-ol",
-        "openlibrary-d-ol",
-        "pimslibrary",
-        "pratt",
-        "printdisabled",
-        "riceuniversity-ol",
-        "robarts",
-        "rochester-ol",
-        "the-claremont-colleges-ol",
-        "toronto",
-        "trent_university",
-        "trinitycollege",
-        "university_of_toronto",
-        "universityofarizona-ol",
-        "universityofcoloradoboulder-ol",
-        "universityofoklahoma-ol",
-        "universityofottawa",
-        "uoftpreservation",
-        "usdanationalagriculturallibrary",
-        "wilsoncollege-ol"
-      ],
-      "printdisabled": true,
-      "lending_edition": "OL24786448M",
-      "lending_identifier": "delanatur00lucr",
-      "authors": [
-        {
-          "key": "/authors/OL164746A",
-          "name": "Titus Lucretius Carus"
-        }
-      ],
-      "first_publish_year": 1486,
-      "ia": "delanatur00lucr",
-      "public_scan": true,
-      "has_fulltext": true,
-      "availability": {
-        "status": "open",
-        "available_to_browse": false,
-        "available_to_borrow": false,
-        "available_to_waitlist": false,
-        "is_printdisabled": false,
-        "is_readable": true,
-        "is_lendable": false,
-        "is_previewable": true,
-        "identifier": "delanatur00lucr",
-        "isbn": null,
-        "oclc": null,
-        "openlibrary_work": "OL1548597W",
-        "openlibrary_edition": "OL24644290M",
         "last_loan_date": null,
         "num_waitlist": null,
         "last_waitlist_date": null,

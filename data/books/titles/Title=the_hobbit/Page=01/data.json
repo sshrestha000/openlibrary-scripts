@@ -214,20 +214,14 @@
         "hobbitillustrate00dixo"
       ],
       "ia_collection": [
-        "americanuniversity-ol",
-        "cnusd-ol",
-        "denverpubliclibrary-ol",
         "internetarchivebooks",
-        "printdisabled",
-        "stmaryscountylibrary",
-        "tulsacc-ol",
-        "wilsoncollege-ol"
+        "printdisabled"
       ],
       "key": "/works/OL219602W",
       "language": [
         "eng",
-        "spa",
-        "ita"
+        "ita",
+        "spa"
       ],
       "public_scan_b": false,
       "title": "The Hobbit"
