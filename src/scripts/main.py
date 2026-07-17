@@ -6,6 +6,8 @@ import fetch_book_edition
 import fetch_book_title
 import fetch_subjects
 import fetch_works
+import create_schema
+import insert_json_to_sql
 
 LOG_FOLDER=os.path.join("..","logs")
 LOG_FILE=os.path.join(LOG_FOLDER,"main.log")
@@ -42,7 +44,9 @@ def main():
         ("fetch_book_edition", fetch_book_edition.run),
         ("fetch_book_title",fetch_book_title.run),
         ("fetch_subjects",fetch_subjects.run),
-        ("fetch_works",fetch_works.run)
+        ("fetch_works",fetch_works.run),
+        ("create_schema", create_schema.run),
+        ("insert_json_to_sql", insert_json_to_sql.run)
     ]
 
     for name, step in steps:
